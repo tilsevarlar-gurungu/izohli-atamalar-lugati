@@ -7,6 +7,7 @@ Bu indeks barcha atamalarni o'zbekcha nomi bo'yicha alfavit tartibida keltiradi.
 
 ## T
 [**Tizma**](../terms/array.md) - Array - Массив
+[**Tuzma**](../terms/struct.md) - Struct - Структура
 
 ## Oʻ
 [**Oʻzgaruvchi**](../terms/variable.md) - Variable - Переменная

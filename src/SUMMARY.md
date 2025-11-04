@@ -14,5 +14,6 @@
 
 * [Lugʻat](terms/map.md)
 * [Tizma](terms/array.md)
+* [Tuzma](terms/struct.md)
 * [Oʻzgaruvchi](terms/variable.md)
 * [Xislat](terms/trait.md)
