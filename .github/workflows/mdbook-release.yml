@@ -1,6 +1,7 @@
 name: Deploy mdBook to GitHub Pages on Release
 
 on:
+  workflow_dispatch:
   release:
     types: [published]
 
