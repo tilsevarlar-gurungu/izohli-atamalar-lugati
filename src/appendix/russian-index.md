@@ -13,6 +13,7 @@ Bu indeks barcha atamalarni ruscha nomi bo'yicha alfavit tartibida keltiradi.
 
 ## С
 [**Структура**](../terms/struct.md) - Struct - Tuzma
+[**Синтаксический анализатор**](../terms/parser.md) - Parser - Yo'yg'ich
 
 ## Т
 [**Трейт**](../terms/trait.md) - Trait - Xislat

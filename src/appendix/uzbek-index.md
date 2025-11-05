@@ -14,3 +14,6 @@ Bu indeks barcha atamalarni o'zbekcha nomi bo'yicha alfavit tartibida keltiradi.
 
 ## X
 [**Xislat**](../terms/trait.md) - Trait - Трейт
+
+## Y
+[**Yo'yg'ich**](../terms/parser.md) - Parser - Синтаксический анализатор

@@ -8,6 +8,9 @@ Bu indeks barcha atamalarni inglizcha nomi boʻyicha alifbo tartibida keltiradi.
 ## M
 [**Map**](../terms/map.md) - Lug'at - Ассоциативный массив
 
+## P
+[**Parser**](../terms/parser.md) - Yo'yg'ich - Синтаксический анализатор
+
 ## S
 [**Struct**](../terms/struct.md) - Tuzma - Структура
 
