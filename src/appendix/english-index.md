@@ -3,6 +3,7 @@
 Bu indeks barcha atamalarni inglizcha nomi boʻyicha alifbo tartibida keltiradi.
 
 ## A
+[**Algorithm**](../terms/algorithm.md) - Alxorazma - Алгоритм<br>
 [**Array**](../terms/array.md) - Tizma - Массив
 
 ## M

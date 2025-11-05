@@ -12,6 +12,7 @@
 
 # Atamalar Ro'yxati
 
+* [Alxorazma](terms/algorithm.md)
 * [Lugʻat](terms/map.md)
 * [Tizma](terms/array.md)
 * [Tuzma](terms/struct.md)

@@ -3,6 +3,7 @@
 Bu indeks barcha atamalarni ruscha nomi bo'yicha alfavit tartibida keltiradi.
 
 ## А
+[**Алгоритм**](../terms/algorithm.md) - Algorithm - Alxorazma<br>
 [**Ассоциативный массив**](../terms/map.md) - Map - Lug'at
 
 ## M
