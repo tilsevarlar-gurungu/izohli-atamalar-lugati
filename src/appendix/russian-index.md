@@ -6,6 +6,9 @@ Bu indeks barcha atamalarni ruscha nomi bo'yicha alfavit tartibida keltiradi.
 [**Алгоритм**](../terms/algorithm.md) - Algorithm - Alxorazma<br>
 [**Ассоциативный массив**](../terms/map.md) - Map - Lug'at
 
+## К
+[**Кортеж**](../terms/tuple.md) - Tuple - Yig'ma
+
 ## M
 [**Массив**](../terms/array.md) - Array - Tizma
 
@@ -13,7 +16,7 @@ Bu indeks barcha atamalarni ruscha nomi bo'yicha alfavit tartibida keltiradi.
 [**Переменная**](../terms/variable.md) - Variable - Oʻzgaruvchi
 
 ## С
-[**Структура**](../terms/struct.md) - Struct - Tuzma
+[**Структура**](../terms/struct.md) - Struct - Tuzma<br>
 [**Синтаксический анализатор**](../terms/parser.md) - Parser - Yo'yg'ich
 
 ## Т

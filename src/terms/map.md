@@ -11,8 +11,8 @@
 
 ## Aloqador atamalar
 
-- Qiymalovchi
-- Lugʻat kaliti
+- qiymalovchi
+- lugʻat kaliti
 
 ## E'tiborga olingan muqobillar
 

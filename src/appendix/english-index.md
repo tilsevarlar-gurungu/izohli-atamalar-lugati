@@ -16,7 +16,8 @@ Bu indeks barcha atamalarni inglizcha nomi boʻyicha alifbo tartibida keltiradi.
 [**Struct**](../terms/struct.md) - Tuzma - Структура
 
 ## T
-[**Trait**](../terms/trait.md) - Xislat - Трейт
+[**Trait**](../terms/trait.md) - Xislat - Трейт<br>
+[**Tuple**](../terms/tuple.md) - Yig'ma - Кортеж
 
 ## V
 [**Variable**](../terms/variable.md) - Oʻzgaruvchi - Переменная

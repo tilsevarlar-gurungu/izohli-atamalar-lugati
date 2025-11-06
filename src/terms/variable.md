@@ -1,7 +1,7 @@
 # Oʻzgaruvchi
 
-**Inglizcha:** Variable
-**Ruscha:** Переменная
+**Inglizcha:** Variable<br>
+**Ruscha:** Переменная<br>
 **Soha:** Dasturlash
 
 Oʻzgaruvchi - dasturlash tilida qiymatni saqlash uchun mo'ljallangan, nomlangan xotira joyidir. Siz uni kompyuter xotirasidagi yorliq yopishtirilgan quti deb tasavvur qilishingiz mumkin, uning ichida matn yoki son kabi ma'lumotlar turadi. Siz bu qutiga biror qiymatni yuklaysiz (masalan, yosh=30).

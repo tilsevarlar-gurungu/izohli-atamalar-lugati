@@ -18,4 +18,5 @@
 * [Tuzma](terms/struct.md)
 * [Oʻzgaruvchi](terms/variable.md)
 * [Xislat](terms/trait.md)
+* [Yig'ma](terms/tuple.md)
 * [Yo'yg'ich](terms/parser.md)
