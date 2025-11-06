@@ -6,6 +6,10 @@ Bu indeks barcha atamalarni inglizcha nomi boʻyicha alifbo tartibida keltiradi.
 [**Algorithm**](../terms/algorithm.md) - Alxorazma - Алгоритм<br>
 [**Array**](../terms/array.md) - Tizma - Массив
 
+## B
+[**Borrowing**](../terms/borrowing.md) - Olib turish - Заимствование
+
+
 ## M
 [**Map**](../terms/map.md) - Lug'at - Ассоциативный массив
 

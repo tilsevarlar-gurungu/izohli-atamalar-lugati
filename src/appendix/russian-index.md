@@ -6,6 +6,9 @@ Bu indeks barcha atamalarni ruscha nomi bo'yicha alfavit tartibida keltiradi.
 [**Алгоритм**](../terms/algorithm.md) - Algorithm - Alxorazma<br>
 [**Ассоциативный массив**](../terms/map.md) - Map - Lug'at
 
+## З
+[**Заимствование**](../terms/borrowing.md) - Borrowing - Olib turish<br>
+
 ## К
 [**Кортеж**](../terms/tuple.md) - Tuple - Yig'ma
 
