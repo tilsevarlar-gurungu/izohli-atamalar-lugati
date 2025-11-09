@@ -4,24 +4,29 @@ Bu indeks barcha atamalarni inglizcha nomi boʻyicha alifbo tartibida keltiradi.
 
 ## A
 [**Algorithm**](../terms/algorithm.md) - Alxorazma - Алгоритм<br>
-[**Array**](../terms/array.md) - Tizma - Массив
+[**Array**](../terms/array.md) - Tizma - Массив<br>
 
 ## B
-[**Borrowing**](../terms/borrowing.md) - Olib turish - Заимствование
+[**Borrowing**](../terms/borrowing.md) - Olib turish - Заимствование<br>
 
+## C
+[**Closure**](../terms/closure.md) - Qoplovchi - Замыкание<br>
+
+## E
+[**Elision**](../terms/elision.md) - Tushirib qoldirish - Элизия<br>
 
 ## M
-[**Map**](../terms/map.md) - Lug'at - Ассоциативный массив
+[**Map**](../terms/map.md) - Lug'at - Ассоциативный массив<br>
 
 ## P
-[**Parser**](../terms/parser.md) - Yo'yg'ich - Синтаксический анализатор
+[**Parser**](../terms/parser.md) - Yo'yg'ich - Синтаксический анализатор<br>
 
 ## S
-[**Struct**](../terms/struct.md) - Tuzma - Структура
+[**Struct**](../terms/struct.md) - Tuzma - Структура<br>
 
 ## T
 [**Trait**](../terms/trait.md) - Xislat - Трейт<br>
-[**Tuple**](../terms/tuple.md) - Yig'ma - Кортеж
+[**Tuple**](../terms/tuple.md) - Yig'ma - Кортеж<br>
 
 ## V
-[**Variable**](../terms/variable.md) - Oʻzgaruvchi - Переменная
+[**Variable**](../terms/variable.md) - Oʻzgaruvchi - Переменная<br>

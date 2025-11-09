@@ -4,23 +4,27 @@ Bu indeks barcha atamalarni ruscha nomi bo'yicha alfavit tartibida keltiradi.
 
 ## А
 [**Алгоритм**](../terms/algorithm.md) - Algorithm - Alxorazma<br>
-[**Ассоциативный массив**](../terms/map.md) - Map - Lug'at
+[**Ассоциативный массив**](../terms/map.md) - Map - Lug'at<br>
 
 ## З
 [**Заимствование**](../terms/borrowing.md) - Borrowing - Olib turish<br>
+[**Замыкание**](../terms/closure.md) - Closure - Qoplovchi<br>
 
 ## К
-[**Кортеж**](../terms/tuple.md) - Tuple - Yig'ma
+[**Кортеж**](../terms/tuple.md) - Tuple - Yig'ma<br>
 
 ## M
-[**Массив**](../terms/array.md) - Array - Tizma
+[**Массив**](../terms/array.md) - Array - Tizma<br>
 
 ## П
-[**Переменная**](../terms/variable.md) - Variable - Oʻzgaruvchi
+[**Переменная**](../terms/variable.md) - Variable - Oʻzgaruvchi<br>
 
 ## С
 [**Структура**](../terms/struct.md) - Struct - Tuzma<br>
-[**Синтаксический анализатор**](../terms/parser.md) - Parser - Yo'yg'ich
+[**Синтаксический анализатор**](../terms/parser.md) - Parser - Yo'yg'ich<br>
 
 ## Т
-[**Трейт**](../terms/trait.md) - Trait - Xislat
+[**Трейт**](../terms/trait.md) - Trait - Xislat<br>
+
+## Э
+[**Элизия**](../terms/elision.md) - Elision  - Tushirib qoldirish<br>

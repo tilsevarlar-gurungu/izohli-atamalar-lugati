@@ -3,24 +3,28 @@
 Bu indeks barcha atamalarni o'zbekcha nomi bo'yicha alfavit tartibida keltiradi.
 
 ## A
-[**Alxorazma**](../terms/algorithm.md) - Algorithm - Алгоритм
+[**Alxorazma**](../terms/algorithm.md) - Algorithm - Алгоритм<br>
 
 ## L
-[**Lug'at**](../terms/map.md) - Map - Ассоциативный массив
+[**Lug'at**](../terms/map.md) - Map - Ассоциативный массив<br>
 
 ## O
 [**Olib turish**](../terms/borrowing.md) - Borrowing - Заимствование<br>
 
+## Q
+[**Qoplovchi**](../terms/closure.md) - Closure - Замыкание<br>
+
 ## T
 [**Tizma**](../terms/array.md) - Array - Массив<br>
-[**Tuzma**](../terms/struct.md) - Struct - Структура
+[**Tushirib qoldirish**](../terms/elision.md) - Elision - Элизия<br>
+[**Tuzma**](../terms/struct.md) - Struct - Структура<br>
 
 ## Oʻ
-[**Oʻzgaruvchi**](../terms/variable.md) - Variable - Переменная
+[**Oʻzgaruvchi**](../terms/variable.md) - Variable - Переменная<br>
 
 ## X
-[**Xislat**](../terms/trait.md) - Trait - Трейт
+[**Xislat**](../terms/trait.md) - Trait - Трейт<br>
 
 ## Y
 [**Yig'ma**](../terms/tuple.md) - Tuple - Кортеж<br>
-[**Yo'yg'ich**](../terms/parser.md) - Parser - Синтаксический анализатор
+[**Yo'yg'ich**](../terms/parser.md) - Parser - Синтаксический анализатор<br>
