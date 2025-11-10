@@ -12,6 +12,7 @@ Bu indeks barcha atamalarni ruscha nomi bo'yicha alfavit tartibida keltiradi.
 
 ## К
 [**Кортеж**](../terms/tuple.md) - Tuple - Yig'ma<br>
+[**Куча**](../terms/heap.md) - Heap- Uyum<br>
 
 ## M
 [**Массив**](../terms/array.md) - Array - Tizma<br>
@@ -20,6 +21,7 @@ Bu indeks barcha atamalarni ruscha nomi bo'yicha alfavit tartibida keltiradi.
 [**Переменная**](../terms/variable.md) - Variable - Oʻzgaruvchi<br>
 
 ## С
+[**Стек**](../terms/stack.md) - Stack - Taxlam<br>
 [**Структура**](../terms/struct.md) - Struct - Tuzma<br>
 [**Синтаксический анализатор**](../terms/parser.md) - Parser - Yo'yg'ich<br>
 

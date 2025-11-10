@@ -15,6 +15,9 @@ Bu indeks barcha atamalarni inglizcha nomi boʻyicha alifbo tartibida keltiradi.
 ## E
 [**Elision**](../terms/elision.md) - Tushirib qoldirish - Элизия<br>
 
+## H
+[**Heap**](../terms/heap.md) - Uyum - Куча<br>
+
 ## M
 [**Map**](../terms/map.md) - Lug'at - Ассоциативный массив<br>
 
@@ -22,6 +25,7 @@ Bu indeks barcha atamalarni inglizcha nomi boʻyicha alifbo tartibida keltiradi.
 [**Parser**](../terms/parser.md) - Yo'yg'ich - Синтаксический анализатор<br>
 
 ## S
+[**Stack**](../terms/stack.md) - Taxlam - Стек<br>
 [**Struct**](../terms/struct.md) - Tuzma - Структура<br>
 
 ## T

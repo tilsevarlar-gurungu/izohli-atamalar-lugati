@@ -15,9 +15,13 @@ Bu indeks barcha atamalarni o'zbekcha nomi bo'yicha alfavit tartibida keltiradi.
 [**Qoplovchi**](../terms/closure.md) - Closure - Замыкание<br>
 
 ## T
+[**Taxlam**](../terms/stack.md) - Stack - Стек<br>
 [**Tizma**](../terms/array.md) - Array - Массив<br>
 [**Tushirib qoldirish**](../terms/elision.md) - Elision - Элизия<br>
 [**Tuzma**](../terms/struct.md) - Struct - Структура<br>
+
+## U
+[**Uyum**](../terms/heap.md) - Heap - Куча<br>
 
 ## Oʻ
 [**Oʻzgaruvchi**](../terms/variable.md) - Variable - Переменная<br>
