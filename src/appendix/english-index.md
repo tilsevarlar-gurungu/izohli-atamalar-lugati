@@ -14,6 +14,7 @@ Bu indeks barcha atamalarni inglizcha nomi boʻyicha alifbo tartibida keltiradi.
 
 ## E
 [**Elision**](../terms/elision.md) - Tushirib qoldirish - Элизия<br>
+[**Enumeration**](../terms/enumeration.md) - Sonlov - Перечисление<br>
 
 ## H
 [**Heap**](../terms/heap.md) - Uyum - Куча<br>

@@ -16,6 +16,7 @@
 * [Lugʻat](terms/map.md)
 * [Olib turish](terms/borrowing.md)
 * [Qoplovchi](terms/closure.md)
+* [Sonlov](terms/enumeration.md)
 * [Taxlam](terms/stack.md)
 * [Tizma](terms/array.md)
 * [Tushirib qoldirish](terms/elision.md)

@@ -19,6 +19,7 @@ Bu indeks barcha atamalarni ruscha nomi bo'yicha alfavit tartibida keltiradi.
 
 ## П
 [**Переменная**](../terms/variable.md) - Variable - Oʻzgaruvchi<br>
+[**Перечисление**](../terms/enumeration.md) - Enumeration - Sonlov<br>
 
 ## С
 [**Стек**](../terms/stack.md) - Stack - Taxlam<br>

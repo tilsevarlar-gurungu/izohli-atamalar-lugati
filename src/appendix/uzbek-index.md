@@ -6,13 +6,16 @@ Bu indeks barcha atamalarni o'zbekcha nomi bo'yicha alfavit tartibida keltiradi.
 [**Alxorazma**](../terms/algorithm.md) - Algorithm - Алгоритм<br>
 
 ## L
-[**Lug'at**](../terms/map.md) - Map - Ассоциативный массив<br>
+[**Lugʻat**](../terms/map.md) - Map - Ассоциативный массив<br>
 
 ## O
 [**Olib turish**](../terms/borrowing.md) - Borrowing - Заимствование<br>
 
 ## Q
 [**Qoplovchi**](../terms/closure.md) - Closure - Замыкание<br>
+
+## S
+[**Sonlov**](../terms/enumeration.md) - Enumeration - Перечисление<br>
 
 ## T
 [**Taxlam**](../terms/stack.md) - Stack - Стек<br>
@@ -30,5 +33,5 @@ Bu indeks barcha atamalarni o'zbekcha nomi bo'yicha alfavit tartibida keltiradi.
 [**Xislat**](../terms/trait.md) - Trait - Трейт<br>
 
 ## Y
-[**Yig'ma**](../terms/tuple.md) - Tuple - Кортеж<br>
-[**Yo'yg'ich**](../terms/parser.md) - Parser - Синтаксический анализатор<br>
+[**Yigʻma**](../terms/tuple.md) - Tuple - Кортеж<br>
+[**Yoʻygʻich**](../terms/parser.md) - Parser - Синтаксический анализатор<br>
