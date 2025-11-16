@@ -14,3 +14,4 @@ Sonlov dasturlash va kompyuter fanida maxsus ma'lumot turini belgilovchi tushunc
 
 - sonlash
 - sonlama
+- raqamlash
