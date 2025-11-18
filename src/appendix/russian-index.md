@@ -16,6 +16,7 @@ Bu indeks barcha atamalarni ruscha nomi bo'yicha alfavit tartibida keltiradi.
 
 ## M
 [**Массив**](../terms/array.md) - Array - Tizma<br>
+[**Метод**](../terms/method.md) - Method - Qobiliyat<br>
 
 ## П
 [**Переменная**](../terms/variable.md) - Variable - Oʻzgaruvchi<br>
@@ -29,5 +30,7 @@ Bu indeks barcha atamalarni ruscha nomi bo'yicha alfavit tartibida keltiradi.
 ## Т
 [**Трейт**](../terms/trait.md) - Trait - Xislat<br>
 
+## Ф
+[**Функция**](../terms/function.md) - Function - Topshiriq<br>
 ## Э
 [**Элизия**](../terms/elision.md) - Elision  - Tushirib qoldirish<br>

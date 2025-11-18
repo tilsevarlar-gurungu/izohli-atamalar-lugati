@@ -12,6 +12,7 @@ Bu indeks barcha atamalarni o'zbekcha nomi bo'yicha alfavit tartibida keltiradi.
 [**Olib turish**](../terms/borrowing.md) - Borrowing - Заимствование<br>
 
 ## Q
+[**Qobiliyat**](../terms/method.md) - Method - Метод<br>
 [**Qoplovchi**](../terms/closure.md) - Closure - Замыкание<br>
 
 ## S
@@ -20,6 +21,7 @@ Bu indeks barcha atamalarni o'zbekcha nomi bo'yicha alfavit tartibida keltiradi.
 ## T
 [**Taxlam**](../terms/stack.md) - Stack - Стек<br>
 [**Tizma**](../terms/array.md) - Array - Массив<br>
+[**Topshiriq**](../terms/function.md) - Function - Функция<br>
 [**Tushirib qoldirish**](../terms/elision.md) - Elision - Элизия<br>
 [**Tuzma**](../terms/struct.md) - Struct - Структура<br>
 

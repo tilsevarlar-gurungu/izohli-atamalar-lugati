@@ -16,11 +16,16 @@ Bu indeks barcha atamalarni inglizcha nomi boʻyicha alifbo tartibida keltiradi.
 [**Elision**](../terms/elision.md) - Tushirib qoldirish - Элизия<br>
 [**Enumeration**](../terms/enumeration.md) - Sonlov - Перечисление<br>
 
+## F
+[**Function**](../terms/function.md) - Topshiriq - Функция<br>
+
+
 ## H
 [**Heap**](../terms/heap.md) - Uyum - Куча<br>
 
 ## M
 [**Map**](../terms/map.md) - Lug'at - Ассоциативный массив<br>
+[**Method**](../terms/method.md) - Qobiliyat - Метод<br>
 
 ## P
 [**Parser**](../terms/parser.md) - Yo'yg'ich - Синтаксический анализатор<br>
