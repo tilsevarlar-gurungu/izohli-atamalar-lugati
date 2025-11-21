@@ -26,6 +26,7 @@ Bu indeks barcha atamalarni inglizcha nomi boʻyicha alifbo tartibida keltiradi.
 ## M
 [**Map**](../terms/map.md) - Lug'at - Ассоциативный массив<br>
 [**Method**](../terms/method.md) - Qobiliyat - Метод<br>
+[**Module**](../terms/module.md) - Majmua - Модуль<br>
 
 ## P
 [**Parser**](../terms/parser.md) - Yo'yg'ich - Синтаксический анализатор<br>

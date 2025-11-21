@@ -14,6 +14,7 @@
 
 * [Alxorazma](terms/algorithm.md)
 * [Lugʻat](terms/map.md)
+* [Majmua](terms/module.md)
 * [Olib turish](terms/borrowing.md)
 * [Qobiliyat](terms/method.md)
 * [Qoplovchi](terms/closure.md)

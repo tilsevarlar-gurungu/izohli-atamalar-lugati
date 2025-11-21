@@ -8,6 +8,9 @@ Bu indeks barcha atamalarni o'zbekcha nomi bo'yicha alfavit tartibida keltiradi.
 ## L
 [**Lugʻat**](../terms/map.md) - Map - Ассоциативный массив<br>
 
+## M
+[**Majmua**](../terms/module.md) - Module - Модуль<br>
+
 ## O
 [**Olib turish**](../terms/borrowing.md) - Borrowing - Заимствование<br>
 

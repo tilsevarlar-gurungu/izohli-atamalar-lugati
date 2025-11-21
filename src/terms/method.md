@@ -4,14 +4,14 @@
 **Ruscha:** Метод<br>
 **Soha:** Dasturlash
 
-**Qobiliyat** – bu jismning oʻziga xos harakatlarini yoki xatti-harakatini belgilaydigan bitik boʻlagidir. U doimo andaza ichida taʼriflanadi va jismning xususiyatlari (maʼlumotlari) ustida ishlash uchun yaratilgan. Qobiliyat ishlatilganda, u oʻzi biriktirilgan jismning holatini oʻzgartirishi yoki uning maʼlumotlari asosida biror natijani qaytarishi mumkin.
+**Qobiliyat** – bu <abbr title="object">jism</abbr>ning oʻziga xos harakatlarini yoki xatti-harakatini belgilaydigan <abbr title="code">bitik </abbr> boʻlagidir. U doimo <abbr title="class">andaza </abbr> ichida taʼriflanadi va jismning <abbr title="property">xususiyat</abbr>lari ustida ishlash uchun yaratilgan. Qobiliyat ishlatilganda, u oʻzi biriktirilgan jismning holatini oʻzgartirishi yoki uning maʼlumotlari asosida biror natijani qaytarishi mumkin.
 
 ### Qobiliyat va topshiriq farqi
-Asosiy farq shundaki, topshiriq hech qanday jismga tegishli boʻlmagan mustaqil bitik boʻlagi boʻlsa, qobiliyat esa doimo jismning ichki tarkibiy qismi boʻlib, oʻsha jism andazasiga tegishli hisoblanadi.
+Asosiy farq shundaki, <abbr title="function">topshiriq</abbr> hech qanday jismga tegishli boʻlmagan mustaqil bitik boʻlagi boʻlsa, qobiliyat esa doimo jismning ichki tarkibiy qismi boʻlib, oʻsha jism andazasiga tegishli hisoblanadi.
 
 ## Aloqador atamalar
 
-- topshiriq
+- [topshiriq](../terms/function.md)
 - jism (object)
 - andaza (class)
 - qobiliyatni ishlatish (method call)

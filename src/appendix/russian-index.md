@@ -17,6 +17,7 @@ Bu indeks barcha atamalarni ruscha nomi bo'yicha alfavit tartibida keltiradi.
 ## M
 [**Массив**](../terms/array.md) - Array - Tizma<br>
 [**Метод**](../terms/method.md) - Method - Qobiliyat<br>
+[**Модуль**](../terms/module.md) - Module - Majmua<br>
 
 ## П
 [**Переменная**](../terms/variable.md) - Variable - Oʻzgaruvchi<br>
