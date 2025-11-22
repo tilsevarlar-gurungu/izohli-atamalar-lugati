@@ -4,6 +4,7 @@ Bu indeks barcha atamalarni o'zbekcha nomi bo'yicha alfavit tartibida keltiradi.
 
 ## A
 [**Alxorazma**](../terms/algorithm.md) - Algorithm - Алгоритм<br>
+[**Andaza**](../terms/class.md) - Class - Класс<br>
 
 ## L
 [**Lugʻat**](../terms/map.md) - Map - Ассоциативный массив<br>

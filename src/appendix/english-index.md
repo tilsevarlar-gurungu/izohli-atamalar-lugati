@@ -10,6 +10,7 @@ Bu indeks barcha atamalarni inglizcha nomi boʻyicha alifbo tartibida keltiradi.
 [**Borrowing**](../terms/borrowing.md) - Olib turish - Заимствование<br>
 
 ## C
+[**Class**](../terms/class.md) - Andaza - Класс<br>
 [**Closure**](../terms/closure.md) - Qoplovchi - Замыкание<br>
 
 ## E

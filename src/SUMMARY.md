@@ -13,6 +13,7 @@
 # Atamalar Ro'yxati
 
 * [Alxorazma](terms/algorithm.md)
+* [Andaza](terms/class.md)
 * [Lugʻat](terms/map.md)
 * [Majmua](terms/module.md)
 * [Olib turish](terms/borrowing.md)

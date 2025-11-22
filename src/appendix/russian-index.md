@@ -11,6 +11,7 @@ Bu indeks barcha atamalarni ruscha nomi bo'yicha alfavit tartibida keltiradi.
 [**Замыкание**](../terms/closure.md) - Closure - Qoplovchi<br>
 
 ## К
+[**Класс**](../terms/class.md) - Class - Andaza<br>
 [**Кортеж**](../terms/tuple.md) - Tuple - Yig'ma<br>
 [**Куча**](../terms/heap.md) - Heap- Uyum<br>
 
