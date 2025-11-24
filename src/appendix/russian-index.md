@@ -31,6 +31,7 @@ Bu indeks barcha atamalarni ruscha nomi bo'yicha alfavit tartibida keltiradi.
 [**Стек**](../terms/stack.md) - Stack - Taxlam<br>
 [**Структура**](../terms/struct.md) - Struct - Tuzma<br>
 [**Синтаксический анализатор**](../terms/parser.md) - Parser - Yo'yg'ich<br>
+[**Соглашение**](../terms/convention.md) - Convention - Rusum<br>
 
 ## Т
 [**Трейт**](../terms/trait.md) - Trait - Xislat<br>

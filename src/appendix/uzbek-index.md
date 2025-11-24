@@ -21,6 +21,9 @@ Bu indeks barcha atamalarni o'zbekcha nomi bo'yicha alfavit tartibida keltiradi.
 [**Qobiliyat**](../terms/method.md) - Method - Метод<br>
 [**Qoplovchi**](../terms/closure.md) - Closure - Замыкание<br>
 
+## R
+[**Rusum**](../terms/convention.md) - Convention - Соглашение<br>
+
 ## S
 [**Sonlov**](../terms/enumeration.md) - Enumeration - Перечисление<br>
 

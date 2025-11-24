@@ -21,6 +21,7 @@
 * [Qaytalagich](terms/iterator.md)
 * [Qobiliyat](terms/method.md)
 * [Qoplovchi](terms/closure.md)
+* [Rusum](terms/convention.md)
 * [Sonlov](terms/enumeration.md)
 * [Taxlam](terms/stack.md)
 * [Tizma](terms/array.md)
