@@ -24,6 +24,9 @@ Bu indeks barcha atamalarni inglizcha nomi boʻyicha alifbo tartibida keltiradi.
 ## H
 [**Heap**](../terms/heap.md) - Uyum - Куча<br>
 
+## L
+[**Loop**](../terms/loop.md) - Aylangich - Цикл<br>
+
 ## M
 [**Map**](../terms/map.md) - Lug'at - Ассоциативный массив<br>
 [**Method**](../terms/method.md) - Qobiliyat - Метод<br>

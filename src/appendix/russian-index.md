@@ -34,5 +34,9 @@ Bu indeks barcha atamalarni ruscha nomi bo'yicha alfavit tartibida keltiradi.
 
 ## Ф
 [**Функция**](../terms/function.md) - Function - Topshiriq<br>
+
+## Ц
+[**Цикл**](../terms/loop.md) - Loop - Aylangich<br>
+
 ## Э
 [**Элизия**](../terms/elision.md) - Elision  - Tushirib qoldirish<br>
