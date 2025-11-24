@@ -24,6 +24,9 @@ Bu indeks barcha atamalarni inglizcha nomi boʻyicha alifbo tartibida keltiradi.
 ## H
 [**Heap**](../terms/heap.md) - Uyum - Куча<br>
 
+## I
+[**Iterator**](../terms/iterator.md) - Qaytalagich - Итератор<br>
+
 ## L
 [**Loop**](../terms/loop.md) - Aylangich - Цикл<br>
 

@@ -10,6 +10,9 @@ Bu indeks barcha atamalarni ruscha nomi bo'yicha alfavit tartibida keltiradi.
 [**Заимствование**](../terms/borrowing.md) - Borrowing - Olib turish<br>
 [**Замыкание**](../terms/closure.md) - Closure - Qoplovchi<br>
 
+## И
+[**Итератор**](../terms/iterator.md) - Iterator - Qaytalagich<br>
+
 ## К
 [**Класс**](../terms/class.md) - Class - Andaza<br>
 [**Кортеж**](../terms/tuple.md) - Tuple - Yig'ma<br>

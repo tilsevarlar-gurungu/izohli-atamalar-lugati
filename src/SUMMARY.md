@@ -18,6 +18,7 @@
 * [Lugʻat](terms/map.md)
 * [Majmua](terms/module.md)
 * [Olib turish](terms/borrowing.md)
+* [Qaytalagich](terms/iterator.md)
 * [Qobiliyat](terms/method.md)
 * [Qoplovchi](terms/closure.md)
 * [Sonlov](terms/enumeration.md)
