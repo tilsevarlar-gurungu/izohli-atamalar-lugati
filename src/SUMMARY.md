@@ -29,7 +29,7 @@
 * [Tushirib qoldirish](terms/elision.md)
 * [Tuzma](terms/struct.md)
 * [Uyum](terms/heap.md)
-* [Oʻzgaruvchi](terms/variable.md)
+* [Yorliq](terms/variable.md)
 * [Xislat](terms/trait.md)
 * [Yig'ma](terms/tuple.md)
 * [Yo'yg'ich](terms/parser.md)

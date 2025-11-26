@@ -1,27 +1,27 @@
-# Oʻzgaruvchi
+# Yorliq
 
 **Inglizcha:** Variable<br>
 **Ruscha:** Переменная<br>
 **Soha:** Dasturlash
 
-Oʻzgaruvchi - dasturlash tilida qiymatni saqlash uchun mo'ljallangan, nomlangan xotira joyidir. Siz uni kompyuter xotirasidagi yorliq yopishtirilgan quti deb tasavvur qilishingiz mumkin, uning ichida matn yoki son kabi ma'lumotlar turadi. Siz bu qutiga biror qiymatni yuklaysiz (masalan, yosh=30).
+**Yorliq** - dasturlash tilida qiymatni saqlash uchun moʻljallangan, nomlangan xotira joyidir. Siz uni kompyuter xotirasidagi yorliq yopishtirilgan quti deb tasavvur qilishingiz mumkin, uning ichida matn yoki son kabi ma'lumotlar turadi. Siz bu qutiga biror qiymatni yuklaysiz (masalan, `yosh = 30`).
 
-Ba'zi dasturlash tillarida, masalan, Rust tilida, oʻzgaruvchilar aslan oʻzgarmasdir. Uni oʻzgaruvchan qilish uchun maxsus **mut** kalitso'zidan foydalaniladi.
+Dasturlashda <abbr title="variable scope">yorliq qamrovi</abbr> — bu yorliq e'lon qilinganidan keyin dasturning qaysi qismlarida unga murojaat qilish yoki uni ishlatish mumkinligini belgilaydigan qoidalar toʻplamidir. Masalan, biror <abbr title="function">topshiriq</abbr> ichida e'lon qilingan mahalliy yorliq faqat shu topshiriqning ichki qismida qamrovga ega boʻladi. U topshiriqdan tashqarida mavjud emas va unga kirishga urinish xatolikka olib keladi.
 
-Dasturlashda o'zgaruvchi qamrovi (variable scope) — bu o'zgaruvchi e'lon qilinganidan keyin dasturning qaysi qismlarida unga murojaat qilish yoki uni ishlatish mumkinligini belgilaydigan qoidalar to'plamidir. Masalan, biror topshiriq ichida e'lon qilingan mahalliy o’zgaruvchi faqat shu topshiriqning ichki qismida qamrovga ega bo'ladi. U topshiriqdan tashqarida mavjud emas va unga kirishga urinish xatolikka olib keladi.
+## Yorliq turlari
 
-## Oʻzgaruvchi turlari
+Ba'zi dasturlash tillarida, yorliqlar aslan <abbr title="immutable">oʻzgarmas</abbr> boʻladi: masalan, Rust, Erlang/Elixir.
 
-### Oʻzgaruvchi va oʻzgarmas oʻzgaruvchilar {#variable-mutability}
+Rust tilida yorliqni <abbr title="mutable">oʻzgaruvchan</abbr> qilib yaratish uchun `mut` kalitsoʻzi ishlatiladi.
 
-Ba'zi dasturlash tillarida, oʻzgaruvchilar aslan oʻzgarmas boʻladi: masalan, Rust, Erlang/Elixir.
-
-Rust tilida oʻzgaruvchini oʻzgaruvchan qilib yaratish uchun `mut` kalitsoʻzi ishlatiladi.
-
-JavaScript tilida, oʻzgarmas oʻzgaruvchilar uchun `const` va oʻzgaruvchan oʻzgaruvchilar uchun esa `let` kalitsoʻzidan foydalaniladi.
+JavaScript tilida, oʻzgarmas yorliqlar uchun `const` va oʻzgaruvchan yorliqlar uchun esa `let` kalitsoʻzidan foydalaniladi.
 
 ## Aloqador atamalar
 
 - qamrov
-- o'zgaruvchan
-- o'zgarmas
+- oʻzgaruvchan
+- oʻzgarmas
+
+## E'tiborga olingan muqobillar
+
+- oʻzgaruvchi

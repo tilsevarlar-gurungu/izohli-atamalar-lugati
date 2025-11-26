@@ -48,4 +48,4 @@ Bu indeks barcha atamalarni inglizcha nomi boʻyicha alifbo tartibida keltiradi.
 [**Tuple**](../terms/tuple.md) - Yig'ma - Кортеж<br>
 
 ## V
-[**Variable**](../terms/variable.md) - Oʻzgaruvchi - Переменная<br>
+[**Variable**](../terms/variable.md) - Yorliq - Переменная<br>

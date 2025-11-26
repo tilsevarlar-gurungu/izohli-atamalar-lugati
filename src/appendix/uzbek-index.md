@@ -37,12 +37,10 @@ Bu indeks barcha atamalarni o'zbekcha nomi bo'yicha alfavit tartibida keltiradi.
 ## U
 [**Uyum**](../terms/heap.md) - Heap - Куча<br>
 
-## Oʻ
-[**Oʻzgaruvchi**](../terms/variable.md) - Variable - Переменная<br>
-
 ## X
 [**Xislat**](../terms/trait.md) - Trait - Трейт<br>
 
 ## Y
 [**Yigʻma**](../terms/tuple.md) - Tuple - Кортеж<br>
+[**Yorliq**](../terms/variable.md) - Variable - Переменная<br>
 [**Yoʻygʻich**](../terms/parser.md) - Parser - Синтаксический анализатор<br>

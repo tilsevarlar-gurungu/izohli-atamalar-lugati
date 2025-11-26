@@ -24,7 +24,7 @@ Bu indeks barcha atamalarni ruscha nomi bo'yicha alfavit tartibida keltiradi.
 [**Модуль**](../terms/module.md) - Module - Majmua<br>
 
 ## П
-[**Переменная**](../terms/variable.md) - Variable - Oʻzgaruvchi<br>
+[**Переменная**](../terms/variable.md) - Variable - Yorliq<br>
 [**Перечисление**](../terms/enumeration.md) - Enumeration - Sonlov<br>
 
 ## С
