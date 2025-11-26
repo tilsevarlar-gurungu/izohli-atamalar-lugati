@@ -33,6 +33,7 @@ Bu indeks barcha atamalarni o'zbekcha nomi bo'yicha alfavit tartibida keltiradi.
 [**Topshiriq**](../terms/function.md) - Function - Функция<br>
 [**Tushirib qoldirish**](../terms/elision.md) - Elision - Элизия<br>
 [**Tuzma**](../terms/struct.md) - Struct - Структура<br>
+[**Toʻn**](../terms/theme.md) - Theme - Тема<br>
 
 ## U
 [**Uyum**](../terms/heap.md) - Heap - Куча<br>

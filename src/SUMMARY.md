@@ -2,15 +2,15 @@
 
 [Kirish](intro.md)
 
-# Ko'rsatkichlar
+# Koʻrsatkichlar
 
-* [O'zbekcha-Inglizcha-Ruscha Ko'rsatkich](appendix/uzbek-index.md)
-* [Ruscha-Inglizcha-O'zbekcha Ko'rsatkich](appendix/russian-index.md)
-* [Inglizcha-Ruscha-O'zbekcha Ko'rsatkich](appendix/english-index.md)
+* [Oʻzbekcha-Inglizcha-Ruscha Koʻrsatkich](appendix/uzbek-index.md)
+* [Ruscha-Inglizcha-Oʻzbekcha Koʻrsatkich](appendix/russian-index.md)
+* [Inglizcha-Ruscha-Oʻzbekcha Koʻrsatkich](appendix/english-index.md)
 
 ---
 
-# Atamalar Ro'yxati
+# Atamalar Roʻyxati
 
 * [Alxorazma](terms/algorithm.md)
 * [Andaza](terms/class.md)
@@ -28,8 +28,9 @@
 * [Topshiriq](terms/function.md)
 * [Tushirib qoldirish](terms/elision.md)
 * [Tuzma](terms/struct.md)
+* [Toʻn](terms/theme.md)
 * [Uyum](terms/heap.md)
 * [Yorliq](terms/variable.md)
 * [Xislat](terms/trait.md)
-* [Yig'ma](terms/tuple.md)
-* [Yo'yg'ich](terms/parser.md)
+* [Yigʻma](terms/tuple.md)
+* [Yoʻygʻich](terms/parser.md)

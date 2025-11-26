@@ -34,6 +34,7 @@ Bu indeks barcha atamalarni ruscha nomi bo'yicha alfavit tartibida keltiradi.
 [**Соглашение**](../terms/convention.md) - Convention - Rusum<br>
 
 ## Т
+[**Тема**](../terms/theme.md) - Theme - Toʻn<br>
 [**Трейт**](../terms/trait.md) - Trait - Xislat<br>
 
 ## Ф

@@ -32,20 +32,21 @@ Bu indeks barcha atamalarni inglizcha nomi boʻyicha alifbo tartibida keltiradi.
 [**Loop**](../terms/loop.md) - Aylangich - Цикл<br>
 
 ## M
-[**Map**](../terms/map.md) - Lug'at - Ассоциативный массив<br>
+[**Map**](../terms/map.md) - Lugʻat - Ассоциативный массив<br>
 [**Method**](../terms/method.md) - Qobiliyat - Метод<br>
 [**Module**](../terms/module.md) - Majmua - Модуль<br>
 
 ## P
-[**Parser**](../terms/parser.md) - Yo'yg'ich - Синтаксический анализатор<br>
+[**Parser**](../terms/parser.md) - Yoʻygʻich - Синтаксический анализатор<br>
 
 ## S
 [**Stack**](../terms/stack.md) - Taxlam - Стек<br>
 [**Struct**](../terms/struct.md) - Tuzma - Структура<br>
 
 ## T
+[**Theme**](../terms/theme.md) - Toʻn - Тема<br>
 [**Trait**](../terms/trait.md) - Xislat - Трейт<br>
-[**Tuple**](../terms/tuple.md) - Yig'ma - Кортеж<br>
+[**Tuple**](../terms/tuple.md) - Yigʻma - Кортеж<br>
 
 ## V
 [**Variable**](../terms/variable.md) - Yorliq - Переменная<br>
