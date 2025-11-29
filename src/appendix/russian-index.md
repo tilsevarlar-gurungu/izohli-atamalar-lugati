@@ -6,6 +6,9 @@ Bu indeks barcha atamalarni ruscha nomi bo'yicha alfavit tartibida keltiradi.
 [**Алгоритм**](../terms/algorithm.md) - Algorithm - Alxorazma<br>
 [**Ассоциативный массив**](../terms/map.md) - Map - Lug'at<br>
 
+## В
+[**Встраиваемый**](../terms/embedded.md) - Embedded - Quyma<br>
+
 ## З
 [**Заимствование**](../terms/borrowing.md) - Borrowing - Olib turish<br>
 [**Замыкание**](../terms/closure.md) - Closure - Qoplovchi<br>

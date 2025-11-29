@@ -20,6 +20,7 @@ Bu indeks barcha atamalarni o'zbekcha nomi bo'yicha alfavit tartibida keltiradi.
 [**Qaytalagich**](../terms/iterator.md) - Iterator - Итератор<br>
 [**Qobiliyat**](../terms/method.md) - Method - Метод<br>
 [**Qoplovchi**](../terms/closure.md) - Closure - Замыкание<br>
+[**Quyma**](../terms/embedded.md) - Embedded - Встраиваемый<br>
 
 ## R
 [**Rusum**](../terms/convention.md) - Convention - Соглашение<br>
