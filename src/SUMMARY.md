@@ -15,6 +15,7 @@
 * [Alxorazma](terms/algorithm.md)
 * [Andaza](terms/class.md)
 * [Aylangich](terms/loop.md)
+* [Bilimsanar](terms/computer.md)
 * [Lugʻat](terms/map.md)
 * [Majmua](terms/module.md)
 * [Olib turish](terms/borrowing.md)

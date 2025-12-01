@@ -18,6 +18,7 @@ Bu indeks barcha atamalarni ruscha nomi bo'yicha alfavit tartibida keltiradi.
 
 ## К
 [**Класс**](../terms/class.md) - Class - Andaza<br>
+[**Компьютер**](../terms/computer.md) - Computer - Bilimsanar<br>
 [**Кортеж**](../terms/tuple.md) - Tuple - Yig'ma<br>
 [**Куча**](../terms/heap.md) - Heap- Uyum<br>
 

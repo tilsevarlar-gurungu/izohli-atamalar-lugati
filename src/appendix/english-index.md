@@ -12,6 +12,7 @@ Bu indeks barcha atamalarni inglizcha nomi boʻyicha alifbo tartibida keltiradi.
 ## C
 [**Class**](../terms/class.md) - Andaza - Класс<br>
 [**Closure**](../terms/closure.md) - Qoplovchi - Замыкание<br>
+[**Computer**](../terms/computer.md) - Bilimsanar - Компьютер<br>
 [**Convention**](../terms/convention.md) - Rusum - Соглашение<br>
 
 ## E

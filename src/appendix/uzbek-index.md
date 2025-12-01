@@ -7,6 +7,9 @@ Bu indeks barcha atamalarni o'zbekcha nomi bo'yicha alfavit tartibida keltiradi.
 [**Andaza**](../terms/class.md) - Class - Класс<br>
 [**Aylangich**](../terms/loop.md) - Loop - Цикл<br>
 
+## B
+[**Bilimsanar**](../terms/computer.md) - Computer - Компьютер<br>
+
 ## L
 [**Lugʻat**](../terms/map.md) - Map - Ассоциативный массив<br>
 
