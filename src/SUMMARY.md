@@ -20,6 +20,7 @@
 * [Olib turish](terms/borrowing.md)
 * [Qaytalagich](terms/iterator.md)
 * [Qobiliyat](terms/method.md)
+* [Qolip](terms/pattern.md)
 * [Qoplovchi](terms/closure.md)
 * [Quyma](terms/embedded.md)
 * [Rusum](terms/convention.md)

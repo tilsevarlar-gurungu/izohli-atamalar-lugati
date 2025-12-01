@@ -19,6 +19,7 @@ Bu indeks barcha atamalarni o'zbekcha nomi bo'yicha alfavit tartibida keltiradi.
 ## Q
 [**Qaytalagich**](../terms/iterator.md) - Iterator - Итератор<br>
 [**Qobiliyat**](../terms/method.md) - Method - Метод<br>
+[**Qolip**](../terms/pattern.md) - Pattern - Шаблон<br>
 [**Qoplovchi**](../terms/closure.md) - Closure - Замыкание<br>
 [**Quyma**](../terms/embedded.md) - Embedded - Встраиваемый<br>
 

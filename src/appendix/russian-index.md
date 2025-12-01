@@ -46,5 +46,8 @@ Bu indeks barcha atamalarni ruscha nomi bo'yicha alfavit tartibida keltiradi.
 ## Ц
 [**Цикл**](../terms/loop.md) - Loop - Aylangich<br>
 
+## Ш
+[**Шаблон**](../terms/pattern.md) - Pattern - Qolip<br>
+
 ## Э
 [**Элизия**](../terms/elision.md) - Elision  - Tushirib qoldirish<br>

@@ -39,6 +39,7 @@ Bu indeks barcha atamalarni inglizcha nomi boʻyicha alifbo tartibida keltiradi.
 
 ## P
 [**Parser**](../terms/parser.md) - Yoʻygʻich - Синтаксический анализатор<br>
+[**Pattern**](../terms/pattern.md) - Qolip - Шаблон<br>
 
 ## S
 [**Stack**](../terms/stack.md) - Taxlam - Стек<br>
