@@ -39,6 +39,7 @@ Bu indeks barcha atamalarni ruscha nomi bo'yicha alfavit tartibida keltiradi.
 
 ## Т
 [**Тема**](../terms/theme.md) - Theme - Toʻn<br>
+[**Тип**](../terms/type.md) - Type - Jins<br>
 [**Трейт**](../terms/trait.md) - Trait - Xislat<br>
 
 ## Ф

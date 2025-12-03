@@ -10,6 +10,9 @@ Bu indeks barcha atamalarni o'zbekcha nomi bo'yicha alfavit tartibida keltiradi.
 ## B
 [**Bilimsanar**](../terms/computer.md) - Computer - Компьютер<br>
 
+## J
+[**Jins**](../terms/type.md) - Type - Тип<br>
+
 ## L
 [**Lugʻat**](../terms/map.md) - Map - Ассоциативный массив<br>
 

@@ -50,6 +50,7 @@ Bu indeks barcha atamalarni inglizcha nomi boʻyicha alifbo tartibida keltiradi.
 [**Theme**](../terms/theme.md) - Toʻn - Тема<br>
 [**Trait**](../terms/trait.md) - Xislat - Трейт<br>
 [**Tuple**](../terms/tuple.md) - Yigʻma - Кортеж<br>
+[**Type**](../terms/type.md) - Jins - Тип<br>
 
 ## V
 [**Variable**](../terms/variable.md) - Yorliq - Переменная<br>
