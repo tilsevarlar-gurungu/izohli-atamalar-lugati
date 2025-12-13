@@ -34,6 +34,11 @@ jobs:
         run: |
           cargo install mdbook --no-default-features --features search --locked
 
+      - name: Install mdbook-fs-summary preprocessor  **<-- NEW STEP HERE**
+        # Installs the preprocessor that automatically generates the SUMMARY.md structure
+        run: |
+          cargo install mdbook-fs-summary
+
       - name: Build the mdBook
         # Runs the mdBook build command. The output is 'book/' by default.
         run: mdbook build

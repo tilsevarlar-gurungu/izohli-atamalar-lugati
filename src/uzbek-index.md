@@ -12,10 +12,17 @@ Bu koʻrsatkich barcha atamalarni oʻzbekcha nomi boʻyicha alifbo tartibida kel
     * [Qobiliyat](../terms/method.md)
 - [**Aylangich**](../terms/loop.md) - Loop - Цикл
     * *[Qaytalagich](../terms/iterator.md)*
+- [**Agʻdargich**](../terms/interpreter.md) - Interpreter - Интерпретатор
+    * *[Tuzgich](../terms/compiler.md)*
 
 ## B
 - [**Bilimsanar**](../terms/computer.md) - Computer - Компьютер
     * *[Alxorazma](../terms/algorithm.md)*
+- [**Bitik**](../terms/code.md) - Code - Код
+    * [Nuqson](../terms/bug.md)
+
+## I
+- [**Ijrochi**](../terms/processor.md) - Processor - Процессор
 
 ## J
 - [**Jins**](../terms/type.md) - Type - Тип
@@ -33,6 +40,9 @@ Bu koʻrsatkich barcha atamalarni oʻzbekcha nomi boʻyicha alifbo tartibida kel
 ## M
 - [**Majmua**](../terms/module.md) - Module - Модуль
     * [Topshiriq](../terms/function.md)
+
+## N
+- [**Nuqson**](../terms/bug.md) - Bug - Баг
 
 ## O
 - [**Olib turish**](../terms/borrowing.md) - Borrowing - Заимствование
@@ -70,6 +80,8 @@ Bu koʻrsatkich barcha atamalarni oʻzbekcha nomi boʻyicha alifbo tartibida kel
     * [Qoplovchi](../terms/closure.md)
     * [*Qobiliyat*](../terms/method.md)
 - [**Tushirib qoldirish**](../terms/elision.md) - Elision - Элизия
+- [**Tuzgich**](../terms/compiler.md) - Compiler - Компилятор
+    * *[Agʻdargich](../terms/interpreter.md)*
 - [**Tuzma**](../terms/struct.md) - Struct - Структура
     * [**Jins**](../terms/type.md)
 - [**Toʻn**](../terms/theme.md) - Theme - Тема
