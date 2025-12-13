@@ -39,7 +39,7 @@ jobs:
 
       - name: Build the mdBook
         # Runs the mdBook build command. The output is 'book/' by default.
-        run: mdbook build
+        run: mdbook build -v
 
       - name: Upload Pages Artifact
         # Uploads the static files from the book/ directory as an artifact
