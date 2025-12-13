@@ -2,8 +2,8 @@
 title = "Izohli Atamalar Lugʻati"
 authors = ["chapani"]
 
-[preprocessor.mdbook-fs-summary]
-index_file_name = ["00.md", "README.md", "uzbek-index.md", "index.md"]
+[preprocessor.fs-summary]
+index = "00.md"
 
 [output.html]
 mathjax-support = true
