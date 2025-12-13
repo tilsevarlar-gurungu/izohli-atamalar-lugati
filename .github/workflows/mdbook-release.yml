@@ -29,14 +29,12 @@ jobs:
           profile: minimal
           override: true
 
-      - name: Install mdBook
-        # Installs mdBook globally using cargo
+      - name: Install mdBook and Preprocessors
+        # Consolidate installation to ensure all tools are available in the PATH
         run: |
+          # Install mdBook
           cargo install mdbook --no-default-features --features search --locked
-
-      - name: Install mdbook-fs-summary preprocessor  **<-- NEW STEP HERE**
-        # Installs the preprocessor that automatically generates the SUMMARY.md structure
-        run: |
+          # Install the preprocessor
           cargo install mdbook-fs-summary
 
       - name: Build the mdBook
