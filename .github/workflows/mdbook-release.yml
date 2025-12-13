@@ -39,7 +39,10 @@ jobs:
 
       - name: Build the mdBook
         # Runs the mdBook build command. The output is 'book/' by default.
-        run: mdbook build -v
+        run: mdbook build
+        env:
+          # This should force the mdbook-fs-summary preprocessor to log debug messages
+          RUST_LOG: debug
 
       - name: Upload Pages Artifact
         # Uploads the static files from the book/ directory as an artifact
