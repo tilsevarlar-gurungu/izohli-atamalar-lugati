@@ -3,7 +3,6 @@ title = "Izohli Atamalar Lugʻati"
 authors = ["chapani"]
 
 [preprocessor.fs-summary]
-index = "00.md"
 
 [output.html]
 mathjax-support = true
