@@ -2,7 +2,7 @@
 title = "Izohli Atamalar Lugʻati"
 authors = ["chapani"]
 
-[preprocessor.fs-summary]
+[preprocessor.mdbook-fs-summary]
 index_file_name = ["00.md", "README.md", "uzbek-index.md", "index.md"]
 
 [output.html]
