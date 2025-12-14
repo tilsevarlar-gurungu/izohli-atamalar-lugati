@@ -25,6 +25,7 @@
 * [Qolip](terms/pattern.md)
 * [Qoplovchi](terms/closure.md)
 * [Quyma](terms/embedded.md)
+* [Risoladagilik](terms/idiomaticity.md)
 * [Rusum](terms/convention.md)
 * [Sonlov](terms/enumeration.md)
 * [Taxlam](terms/stack.md)

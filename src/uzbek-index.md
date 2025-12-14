@@ -20,6 +20,7 @@ Bu koʻrsatkich barcha atamalarni oʻzbekcha nomi boʻyicha alifbo tartibida kel
     * *[Alxorazma](../terms/algorithm.md)*
 - [**Bitik**](../terms/code.md) - Code - Код
     * [Nuqson](../terms/bug.md)
+    * [Risoladagilik](../terms/idiomaticity.md)
 
 ## I
 - [**Ijrochi**](../terms/processor.md) - Processor - Процессор
@@ -63,6 +64,7 @@ Bu koʻrsatkich barcha atamalarni oʻzbekcha nomi boʻyicha alifbo tartibida kel
 - [**Quyma**](../terms/embedded.md) - Embedded - Встраиваемый
 
 ## R
+- [**Risoladagilik**](../terms/idiomaticity.md) - Idiomaticity - Идиоматичность
 - [**Rusum**](../terms/convention.md) - Convention - Соглашение
 
 ## S
