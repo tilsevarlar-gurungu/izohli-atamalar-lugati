@@ -1,4 +1,4 @@
-# Oʻzbekcha-Inglizcha-Ruscha Koʻrsatkich
+# Oʻzbekcha - Inglizcha - Ruscha Koʻrsatkich
 
 Bu koʻrsatkich barcha atamalarni oʻzbekcha nomi boʻyicha alifbo tartibida keltiradi.
 
