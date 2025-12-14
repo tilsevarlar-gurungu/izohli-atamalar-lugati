@@ -16,7 +16,7 @@ Rust tilida yorliqni <abbr title="mutable">oʻzgaruvchan</abbr> qilib yaratish u
 
 JavaScript tilida, oʻzgarmas yorliqlar uchun `const` va oʻzgaruvchan yorliqlar uchun esa `let` kalitsoʻzidan foydalaniladi.
 
-## Aloqador atamalar
+## Aloqali atamalar
 
 - qamrov
 - oʻzgaruvchan

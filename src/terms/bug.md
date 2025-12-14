@@ -10,7 +10,7 @@
 
 Dasturchi kutadigan <abbr title="error">xato</abbr> bu dasturning normal ishlash vaqtida ruxsat berilmagan faylga kirish kabi kutilgan, ammo noqulay vaziyatlarni boshqarish uchun moʻljallangan. Dasturchi bunday xatolarni oldindan biladi va ularni tutib, toʻgʻri javob berish uchun maxsus <abbr title="code">bitik</abbr> yozadi.
 
-## Aloqador atamalar
+## Aloqali atamalar
 
 - xato (error)
 - bitik (code)

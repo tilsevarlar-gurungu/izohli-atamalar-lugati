@@ -28,7 +28,7 @@ Agar 1-oʻrin asosli boʻlsa, unda tizma quyidagicha boʻladi:
 |---|---|---|---|---|
 | Qiymat | Yanvar | Fevral | Mart | Aprel |
 
-## Aloqador atamalar
+## Aloqali atamalar
 
 - aylangich
 - [lugʻat](../terms/map.md)

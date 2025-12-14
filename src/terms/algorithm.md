@@ -24,7 +24,7 @@ yoki tartibi buzilsa, natija – mazali palov hosil boʻlmasligi mumkin. Demak,
 palov tayyorlash uchun zarur boʻlgan masalliqlar maʼlum bir tartibda
 (alxorazma asosida) qayta ishlanib, oxirida mukammal taom (natija) yaratiladi.
 
-## Aloqador atamalar
+## Aloqali atamalar
 
 - bosqich
 

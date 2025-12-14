@@ -4,7 +4,7 @@
 **Ruscha:** Класс<br>
 **Soha:** Dasturlash
 
-Andaza – bu kompyuter fanida, xususan,
+**Andaza** – bu <abbr title="computer">bilimsanar</abbr> fanida, xususan,
 <abbr title="Object-Oriented Programming (OOP)">jismli dasturlash</abbr>da
 (JD) <abbr title="object">jism</abbr>larni yaratish uchun qolip boʻlib xizmat
 qiladi. U bir qator <abbr title="property">xususiyat</abbr>lar (maʼlumotlar
@@ -15,7 +15,7 @@ belgilaydi. Andazalar tegishli maʼlumotlarni va shu maʼlumotlar ustida
 ishlaydigan <abbr title="function">topshiriq</abbr>larni guruhlash orqali
 <abbr title="code">bitik</abbr>ni tartibga solishga yordam beradi.
 
-## Aloqador atamalar
+## Aloqali atamalar
 
 - [topshiriq](../terms/function.md)
 - jism (object)

@@ -2,8 +2,6 @@
 title = "Izohli Atamalar Lugʻati"
 authors = ["chapani"]
 
-[preprocessor.fs-summary]
-
 [output.html]
 mathjax-support = true
 

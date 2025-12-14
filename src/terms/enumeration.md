@@ -4,11 +4,13 @@
 **Ruscha:** Перечисление<br>
 **Soha:** Dasturlash
 
-Sonlov dasturlash va kompyuter fanida maxsus ma'lumot turini belgilovchi tushuncha boʻlib, u bir qator, nomlangan, doimiy qiymatlardan tashkil topgan. Aslida, sonlov roʻyxatdagi elementlarni raqamlash yoki sanoqdan oʻtkazishni anglatadi. Shuning uchun, siz tavsiflovchi nomlardan (masalan, YANVAR, FEVRAL va hokazo) foydalansangiz ham, tizim ichkarida har bir a'zoga ketma-ket butun son qiymatini (odatda 0 dan boshlab) tayinlaydi. Bu moslashuv dasturchilarga bitiklarida mavhum raqamlar oʻrniga oʻqilishi oson, ma'noli nomlardan foydalanish imkonini beradi. Shu bilan birga kompyuterga ishlash uchun oddiy, tartiblangan ketma-ketlikni taqdim etadi. Natijada bitik yanada ishonchli va qarov uchun oson boʻladi.
+**Sonlov** dasturlash va <abbr title="computer">bilimsanar</abbr> fanida maxsus ma'lumot turini belgilovchi tushuncha boʻlib, u bir qator, nomlangan, doimiy qiymatlardan tashkil topgan. Aslida, sonlov roʻyxatdagi elementlarni raqamlash yoki sanoqdan oʻtkazishni anglatadi. Shuning uchun, siz tavsiflovchi nomlardan (masalan, YANVAR, FEVRAL va hokazo) foydalansangiz ham, tizim ichkarida har bir a'zoga ketma-ket butun son qiymatini (odatda 0 dan boshlab) tayinlaydi. Bu moslashuv dasturchilarga <abbr title="code">bitik</abbr>larida mavhum raqamlar oʻrniga oʻqilishi oson, ma'noli nomlardan foydalanish imkonini beradi. Shu bilan birga bilimsanarga ishlash uchun oddiy, tartiblangan ketma-ketlikni taqdim etadi. Natijada bitik yanada ishonchli va <abbr title="maintenance">qarov </abbr> uchun oson boʻladi.
 
-## Aloqador atamalar
+## Aloqali atamalar
 
 - tuzma
+- jins
+- sonlama (enums)
 
 ## E'tiborga olingan muqobillar
 

@@ -11,7 +11,7 @@
 <abbr title="loop">Aylangich</abbr> ma'lum <abbr title="code">bitik</abbr> boʻlagi qanday takrorlanishini nazorat qilish tuzilmasi boʻlsa, qaytalagich ketma-ketlikdagi elementlar qanday <abbr title="traverse">ziyorat</abbr> qilinishini va keyingi elementga qanday oʻtilishini aniqlovchi <abbr title="design pattern">dizayn qolipi</abbr>dir.
 
 
-## Aloqador atamalar
+## Aloqali atamalar
 
 - [aylangich](../terms/loop.md)
 - [tizma](../terms/array.md)

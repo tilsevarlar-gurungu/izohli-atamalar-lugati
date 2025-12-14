@@ -51,7 +51,7 @@ fn main() {
 Bu aniq ishlov berish qoplovchilarning Rustning egalik va olib turish qoidalariga qatʼiy rioya qilishini taʼminlaydi va xotira xavfsizligini kafolatlaydi. Qoplovchini `move` kalit soʻzi bilan ham aniqlash mumkin: `let owns_num = move |x: i32| x + num;`, bu holda qoplovchi `num` oʻzgaruvchisini oʻziga egalik qiladi.
 
 
-## Aloqador atamalar
+## Aloqali atamalar
 
 - topshiriq
 - nomsiz topshiriq

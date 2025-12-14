@@ -29,13 +29,11 @@ jobs:
           profile: minimal
           override: true
 
-      - name: Install mdBook and Preprocessors
+      - name: Install mdBook
         # Consolidate installation to ensure all tools are available in the PATH
         run: |
           # Install mdBook
           cargo install mdbook --no-default-features --features search --locked
-          # Install the preprocessor
-          cargo install mdbook-fs-summary
 
       - name: Build the mdBook
         # Runs the mdBook build command. The output is 'book/' by default.

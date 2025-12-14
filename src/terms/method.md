@@ -9,7 +9,7 @@
 ### Qobiliyat va topshiriq farqi
 Asosiy farq shundaki, <abbr title="function">topshiriq</abbr> hech qanday jismga tegishli boʻlmagan mustaqil bitik boʻlagi boʻlsa, qobiliyat esa doimo jismning ichki tarkibiy qismi boʻlib, oʻsha jism andazasiga tegishli hisoblanadi.
 
-## Aloqador atamalar
+## Aloqali atamalar
 
 - [topshiriq](../terms/function.md)
 - jism (object)

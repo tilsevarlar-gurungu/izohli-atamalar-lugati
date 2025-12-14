@@ -4,13 +4,14 @@
 **Ruscha:** Трейт<br>
 **Soha:** Dasturlash
 
-Rust Xislati (trait) bir tur amalga oshirishi mumkin bo'lgan usullar va tegishli elementlarning umumiy to'plamini belgilaydi. Ular Rustning umumiy dasturlash markazida turadi, chunki bu xislatni tatbiq qiladigan har qanday tur bilan ishlaydigan topshiriqlarni yozishga imkon beradi (xislat chegaralari deb ataladi). Xislatlar Java, C# va Go kabi Jismli Dasturlov (JD) tillardagi Interfeyslarga o'xshaydi. Bu tillardan farqli o'laroq, Rust siz aniqlamagan tur uchun ham xislatni tatbiq qilishga ruxsat beradi (lekin buning o'z qoidalari bor), bu mavjud uchinchi tomon yoki ona xazina turlariga yangi xatti-harakatlarni qo'shish imkonini beradi.
+**Xislat** - Rust tilida bir <abbr title="type">jins</abbr> amalga oshirishi mumkin boʻlgan usullar va tegishli elementlarning umumiy toʻplamini belgilaydi. Ular Rust'ning umumiy dasturlash markazida turadi, chunki bu xislatni tatbiq qiladigan har qanday jins bilan ishlaydigan topshiriqlarni yozishga imkon beradi (xislat chegaralari deb ataladi). Xislatlar Java, C# va Go kabi Jismli Dasturlov (JD) tillardagi <abbr title="interface">yuzlanma</abbr>larga oʻxshaydi. Bu tillardan farqli oʻlaroq, Rust siz aniqlamagan jins uchun ham xislatni tatbiq qilishga ruxsat beradi (lekin buning oʻz qoidalari bor), bu mavjud uchinchi tomon yoki <abbr title="standard library">ona xazina</abbr> jinslariga yangi xatti-harakatlarni qoʻshish imkonini beradi.
 
-## Aloqador atamalar
+## Aloqali atamalar
 
-- qamrov
-- tatbiz maydoni
-- xislat chegaralari
-- topshiriqli dasturlov
-- jismli dasturlov
+- qamrov (scope)
+- tatbiq maydoni (implementation block)
+- xislat chegaralari (trait boundary)
+- topshiriqli dasturlov (functional programming)
+- jismli dasturlov (object-oriented programming)
+- ona xazina (standard library)
 

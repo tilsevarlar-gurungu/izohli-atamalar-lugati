@@ -10,7 +10,7 @@ Dasturlash tillari koʻpincha jinslar bilan qanday ishlashiga qarab tasniflanadi
 
 Bundan tashqari, tillar <abbr title="strongly-typed">qattiq jinsli</abbr> (aniq koʻrsatmalarsiz yashirin almashtiruvlarga toʻsqinlik qiluvchi) yoki <abbr title="weakly-typed">yumshoq jinsli</abbr> (koʻplab yashirin almashtiruvlarga ruxsat beruvchi) boʻlishi mumkin.
 
-## Aloqador atamalar
+## Aloqali atamalar
 
 - tuzgich (compiler)
 - agʻdargich (interpreter)

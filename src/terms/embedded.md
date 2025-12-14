@@ -10,7 +10,7 @@
 
 Quyma dastur maʼlum bir qurilma qismi bilan bogʻlangan boʻlib, <abbr title="real-time">oniy holat</abbr>da ishlashni ustuvor deb bilsa, oddiy dastur umumiy kompyuterlarda moslashuvchan <abbr title="interface">yuzlanma</abbr> uchun moʻljallangan.
 
-## Aloqador atamalar
+## Aloqali atamalar
 
 - dastur
 - ijrochi (processor)
