@@ -39,5 +39,6 @@
 * [Uyum](terms/heap.md)
 * [Xislat](terms/trait.md)
 * [Yigʻma](terms/tuple.md)
+* [Yongʻoq](terms/rust-option.md), *Rust*
 * [Yorliq](terms/variable.md)
 * [Yoʻygʻich](terms/parser.md)

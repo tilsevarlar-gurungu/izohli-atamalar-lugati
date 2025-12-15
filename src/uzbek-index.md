@@ -72,6 +72,7 @@ Bu koʻrsatkich barcha atamalarni oʻzbekcha nomi boʻyicha alifbo tartibida kel
 
 ## S
 - [**Sonlov**](../terms/enumeration.md) - Enumeration - Перечисление
+    * [Yongʻoq](../terms/rust-option.md)
     * [**Jins**](../terms/type.md)
 
 ## T
@@ -104,6 +105,7 @@ Bu koʻrsatkich barcha atamalarni oʻzbekcha nomi boʻyicha alifbo tartibida kel
 ## Y
 - [**Yigʻma**](../terms/tuple.md) - Tuple - Кортеж
     * [**Jins**](../terms/type.md)
+- [**Yongʻoq**](../terms/rust-option.md), *Rust* - Option - Опшн
 - [**Yorliq**](../terms/variable.md) - Variable - Переменная
     * *[Olib turish](../terms/borrowing.md)*
 - [**Yoʻygʻich**](../terms/parser.md) - Parser - Синтаксический анализатор
