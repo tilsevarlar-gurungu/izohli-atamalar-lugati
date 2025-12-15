@@ -16,6 +16,7 @@
 * [Bitik](terms/code.md)
 * [Jins](terms/type.md)
 * [Ijrochi](terms/processor.md)
+* [Koʻp-qoʻllilik](terms/multitasking.md)
 * [Lugʻat](terms/map.md)
 * [Majmua](terms/module.md)
 * [Nuqson](terms/bug.md)

@@ -34,6 +34,9 @@ Bu koʻrsatkich barcha atamalarni oʻzbekcha nomi boʻyicha alifbo tartibida kel
     * [Tizma](../terms/array.md)
     * [Yigʻma](../terms/tuple.md)
 
+## K
+- [**Koʻp-qoʻllilik**](../terms/multitasking.md) - Multitasking - Многозадачность
+
 ## L
 - [**Lugʻat**](../terms/map.md) - Map - Ассоциативный массив
     * [**Jins**](../terms/type.md)
