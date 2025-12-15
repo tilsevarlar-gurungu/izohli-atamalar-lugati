@@ -8,7 +8,7 @@
 
 ## Aloqali atamalar
 
-- [tizma](../terms/array.md)
+- [tizma](./array.md)
 
 ## E'tiborga olingan muqobillar
 

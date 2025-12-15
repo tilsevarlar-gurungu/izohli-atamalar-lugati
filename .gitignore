@@ -8,3 +8,6 @@
 *.log
 .DS_Store
 thumbs.db
+
+/.direnv/
+/result

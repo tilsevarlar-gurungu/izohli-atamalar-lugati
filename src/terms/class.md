@@ -17,9 +17,9 @@ ishlaydigan <abbr title="function">topshiriq</abbr>larni guruhlash orqali
 
 ## Aloqali atamalar
 
-- [topshiriq](../terms/function.md)
+- [topshiriq](./function.md)
 - jism (object)
-- [qobiliyat](../terms/method.md)
+- [qobiliyat](./method.md)
 
 ## E'tiborga olingan muqobillar
 
