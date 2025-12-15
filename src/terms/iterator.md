@@ -13,8 +13,8 @@
 
 ## Aloqali atamalar
 
-- [aylangich](../terms/loop.md)
-- [tizma](../terms/array.md)
+- [aylangich](./loop.md)
+- [tizma](./array.md)
 - ketma-ketlik
 - dizayn qolipi (design pattern)
 - ziyorat (traversal)

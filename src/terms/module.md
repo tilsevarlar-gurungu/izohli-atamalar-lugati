@@ -8,7 +8,7 @@
 
 ## Aloqali atamalar
 
-- [topshiriq](../terms/function.md)
+- [topshiriq](./function.md)
 
 ## E'tiborga olingan muqobillar
 

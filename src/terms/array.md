@@ -31,8 +31,8 @@ Agar 1-oʻrin asosli boʻlsa, unda tizma quyidagicha boʻladi:
 ## Aloqali atamalar
 
 - aylangich
-- [lugʻat](../terms/map.md)
-- [tuzma](../terms/struct.md)
+- [lugʻat](./map.md)
+- [tuzma](./struct.md)
 - qaytalovchi
 
 ## E'tiborga olingan muqobillar

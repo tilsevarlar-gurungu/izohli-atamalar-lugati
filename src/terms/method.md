@@ -11,7 +11,7 @@ Asosiy farq shundaki, <abbr title="function">topshiriq</abbr> hech qanday jismga
 
 ## Aloqali atamalar
 
-- [topshiriq](../terms/function.md)
+- [topshiriq](./function.md)
 - jism (object)
 - andaza (class)
 - qobiliyatni ishlatish (method call)
