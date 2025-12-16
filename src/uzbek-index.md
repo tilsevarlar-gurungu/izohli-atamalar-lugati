@@ -49,7 +49,7 @@ Bu koʻrsatkich barcha atamalarni oʻzbekcha nomi boʻyicha alifbo tartibida kel
 - [**Nuqson**](./terms/bug.md) - Bug - Баг
 
 ## O
-- [**Olib turish**](./terms/borrowing.md) - Borrowing - Заимствование
+- [**Olib turuv**](./terms/borrowing.md) - Borrowing - Заимствование
     * [**Uyum**](./terms/heap.md)
     * [**Taxlam**](./terms/stack.md)
 
@@ -63,7 +63,7 @@ Bu koʻrsatkich barcha atamalarni oʻzbekcha nomi boʻyicha alifbo tartibida kel
     * *[Yoʻygʻich](./terms/parser.md)*
 - [**Qoplovchi**](./terms/closure.md) - Closure - Замыkanie
     * [**Topshiriq**](./terms/function.md)
-    * *[Olib turish](./terms/borrowing.md)*
+    * *[Olib turuv](./terms/borrowing.md)*
 - [**Quyma**](./terms/embedded.md) - Embedded - Встраиваемый
 
 ## R
@@ -78,14 +78,14 @@ Bu koʻrsatkich barcha atamalarni oʻzbekcha nomi boʻyicha alifbo tartibida kel
 ## T
 - [**Taxlam**](./terms/stack.md) - Stack - Стек
     * *[Uyum](./terms/heap.md)*
-    * *[Olib turish](./terms/borrowing.md)*
+    * *[Olib turuv](./terms/borrowing.md)*
     * [Yorliq](./terms/variable.md)
 - [**Tizma**](./terms/array.md) - Array - Массив
     * [**Jins**](./terms/type.md)
 - [**Topshiriq**](./terms/function.md) - Function - Функция
     * [Qoplovchi](./terms/closure.md)
     * [*Qobiliyat*](./terms/method.md)
-- [**Tushirib qoldirish**](./terms/elision.md) - Elision - Элизия
+- [**Tushirib qoldiruv**](./terms/elision.md) - Elision - Элизия
 - [**Tuzgich**](./terms/compiler.md) - Compiler - Компилятор
     * *[Agʻdargich](./terms/interpreter.md)*
 - [**Tuzma**](./terms/struct.md) - Struct - Структура
@@ -95,7 +95,7 @@ Bu koʻrsatkich barcha atamalarni oʻzbekcha nomi boʻyicha alifbo tartibida kel
 ## U
 - [**Uyum**](./terms/heap.md) - Heap - Куча
     * *[Taxlam](./terms/stack.md)*
-    * *[Olib turish](./terms/borrowing.md)*
+    * *[Olib turuv](./terms/borrowing.md)*
     * [Yorliq](./terms/variable.md)
 
 ## X
@@ -107,6 +107,6 @@ Bu koʻrsatkich barcha atamalarni oʻzbekcha nomi boʻyicha alifbo tartibida kel
     * [**Jins**](./terms/type.md)
 - [**Yongʻoq**](./terms/rust-option.md), *Rust* - Option - Опшн
 - [**Yorliq**](./terms/variable.md) - Variable - Переменная
-    * *[Olib turish](./terms/borrowing.md)*
+    * *[Olib turuv](./terms/borrowing.md)*
 - [**Yoʻygʻich**](./terms/parser.md) - Parser - Синтаксический анализатор
     * *[Qolip](./terms/pattern.md)*

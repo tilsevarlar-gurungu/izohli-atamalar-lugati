@@ -1,24 +1,56 @@
-# Olib turish
+# Olib turuv
 
 **Inglizcha:** Borrowing<br>
 **Ruscha:** Заимствование<br>
 **Soha:** Dasturlash
 
+Rust tilida <abbr title="borrowing">olib turuv</abbr> bu <abbr title="ownership">egalik</abbr> tizimining bir qismi boʻlib, <abbr title="variable">yorliq</abbr>larga ularning qiymatidan vaqtinchalik foydalanish imkoniyatini berish uchun ishlatiladi. Bu jarayonda dasturchi <abbr title="reference">qaratqich</abbr> yaratadi, bu aslida <abbr title="referenced object">qaralmish</abbr>ga ishora qiluvchi <abbr title="pointer">manzil ko‘rsatkichi</abbr> ustidagi xavfsiz <abbr title="abstraction">mavhumlashtirma</abbr>dir. Bu <abbr title="reference">qaratqich</abbr> yordamida <abbr title="deref reference">qaralmishga o‘tish</abbr> mumkin. <abbr title="compiler">Tuzgich</abbr> tarkibidagi maxsus vosita - <abbr title="borrow checker">olib turuv tekshiruvchisi</abbr>, <abbr title="compilation">tuzuv</abbr> vaqtida qoidalar toʻplamiga rioya qilinishini ta'minlaydi. Eng muhimi, bir vaqtning oʻzida bitta <abbr title="mutable">oʻzgaruvchan</abbr> qaratqich va cheklanmagan sondagi <abbr title="immutable">oʻzgarmas</abbr> qaratqichlar mavjud boʻlishi mumkin. Bu qoida manzil ko‘rsatkichlari orqali bevosita xotiraga kirishdan kelib chiqadigan koʻplab xotira bilan aloqali xatolarning oldini oladi.
 
-Ishoralar va murojaatlar bilan chambarchas bog'liq bo'lgan tushuncha ko'plab tillarda mavjud, lekin `olib turish`, ya'ni tuzuv vaqtida majburiy tatbiq etiladigan qoidalar tizimi sifatida, faqat Rust tiliga xosdir. Bu tushuncha `egalik` va `umr` bilan bir qatorda tilning xotira xavfsizligi modelining asosiy tarkibiy qismidir.
+## Olib turuvning bitikda ishlashi
 
-Olib turish bitikning ma'lumotga egalikni o'ziga olmay, balki murojaat (masalan, `&qiymat` yoki `&mut qiymat`) orqali vaqtinchalik ishlatishga imkon beradi va shu bilan xotira manzilini bir joydan ikkinchi joyga o'tkazish zaruriyatini yo'q qiladi. Rust Olib Turish Tekshiruvchisi (Borrow Checker yoki OTT) quyidagi xavfsizlik qoidasini qat'iy ravishda tatbiq qiladi: bir vaqtning o'zida siz bir yoki bir nechta o'zgarmas o'zgaruvchini olib turishga yoki aniq bir o'zgaruvchan o'zgaruvchini olib turishingiz mumkin, ammo hech qachon ikkalasiga ham bir vaqtda ega bo'la olmaysiz. Bu qat'iy tekshiruv tuzuv vaqtida amalga oshiriladi va shuning uchun C va C++ kabi an'anaviy tillarni qiynaydigan ma'lumotlar poygasi kabi butun bir xatolar sinfini bartaraf etadi. Swift yoki akademik tillar (masalan, Cyclone, Vale) kabi boshqa tillarda o'xshash mexanizmlar mavjud bo'lsa-da, Rust bu turdagi aniq, majburiy olib turishni o'z dizaynining markaziga qo'ygan eng mashhur dasturlash tilidir.
+```rust, ignore
+fn main() {
+    let mut x = 10;           // x qiymatga egalik qiladi
+
+    let r1 = &x;              // oʻzgarmas qaratqich
+    let r2 = &x;              // yana bir oʻzgarmas qaratqich
+    println!("{}, {}", r1, r2);
+
+    // r1 va r2 bu nuqtadan keyin ishlatilmaydi
+
+    let r3 = &mut x;          // oʻzgartiruvchi qaratqich
+    *r3 += 5;                 // manzildan qaralmishga o‘tish va qiymatni oʻzgartirish
+
+    // Quyidagi satrdagi bitik tuzgich xatosiga sabab boʻladi:
+    // let y = *r1;
+
+    // Yuqoridagi satrda r1'ni ishlatib boʻlmaydi!
+    // Xato sababi: Oʻzgarmas qaratqich (r1) hali ham ishlatilayotgan bir paytda,
+    // oʻzgaruvchan qaratqich (r3) yaratildi va u orqali (x) oʻzgartirildi.
+    // Rust bir vaqtning oʻzida x'ga oʻzgarmas qaratqich (oʻqish)
+    // va oʻzgaruvchan qaratqich (yozish) berishga ruxsat bermaydi.
+    // Bu ma'lumot poygasini oldini olish uchun
+    // Olib Turuv Tekshiruvchisi tomonidan qoʻyilgan qoida.
+
+    println!("{}", x);        // x yana ishlatishga yaroqli
+}
+```
 
 ## Aloqali atamalar
 
-- olib turish tekshiruvchisi
-- ishora
-- egalik
-- umr
-- tuzuv
+- olib turuv tekshiruvchisi (borrow checker)
+- qaratqich (reference)
+- qaralmish (referenced)
+- qaralmishga oʻtish (dereference)
+- manzil koʻrsatkichi (pointer)
+- manzildan qaralmishga oʻtish (dereference pointer)
+- egalik (ownership)
+- tuzgich (compiler)
+- tuzuv (compilation)
+- ma'lumot poygasi (data race)
 
 ## E'tiborga olingan muqobillar
 
 - ijara
 - kiralash
-- olib turish nazoratchisi
+- olib turuv nazoratchisi

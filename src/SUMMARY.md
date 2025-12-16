@@ -2,6 +2,8 @@
 
 [Kirish](intro.md)
 
+[Atama yasash usuli](methodology.md)
+
 [Oʻzbekcha-Inglizcha-Ruscha Koʻrsatkich](./uzbek-index.md)
 
 ---
@@ -20,7 +22,7 @@
 * [Lugʻat](terms/map.md)
 * [Majmua](terms/module.md)
 * [Nuqson](terms/bug.md)
-* [Olib turish](terms/borrowing.md)
+* [Olib turuv](terms/borrowing.md)
 * [Qaytalagich](terms/iterator.md)
 * [Qobiliyat](terms/method.md)
 * [Qolip](terms/pattern.md)
@@ -32,7 +34,7 @@
 * [Taxlam](terms/stack.md)
 * [Tizma](terms/array.md)
 * [Topshiriq](terms/function.md)
-* [Tushirib qoldirish](terms/elision.md)
+* [Tushirib qoldiruv](terms/elision.md)
 * [Tuzgich](terms/compiler.md)
 * [Tuzma](terms/struct.md)
 * [Toʻn](terms/theme.md)
