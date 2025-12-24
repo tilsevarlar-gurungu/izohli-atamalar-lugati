@@ -1,4 +1,4 @@
-name: Deploy mdBook to GitHub Pages on Release
+name: Lug'atni GitHub Pages'da Ishga Solish
 
 on:
   workflow_dispatch:
@@ -6,49 +6,48 @@ on:
     types: [published]
 
 permissions:
-  contents: write # Needed to push the built book to the gh-pages branch
-  pages: write # Needed for the deploy-pages action
-  id-token: write # Needed for the deploy-pages action
+  contents: write
+  pages: write
+  id-token: write
 
 jobs:
   build_and_deploy:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout repository
+      - name: Dafinaga o'tish
         uses: actions/checkout@v4
         with:
-          # Fetch all history for git actions in deployment step
-          fetch-depth: 0 
+          fetch-depth: 0
 
-      - name: Install Rust and mdBook
-        # Set up a minimal Rust environment to install mdBook
-        uses: actions-rs/toolchain@v1
+      - name: Rust Toolchain' o'rnatish
+        uses: dtolnay/rust-toolchain@stable
+
+      - name: Cache Cargo Qaramliklari
+        uses: actions/cache@v3
         with:
-          toolchain: stable
-          profile: minimal
-          override: true
+          path: |
+            ~/.cargo/registry
+            ~/.cargo/git
+            mdbook-tiqmalarim/target
+          key: ${{ runner.os }}-cargo-${{ hashFiles('mdbook-tiqmalarim/Cargo.lock') }}
 
-      - name: Install mdBook
-        # Consolidate installation to ensure all tools are available in the PATH
+      - name: mdBook'ni o'rnatish
         run: |
-          # Install mdBook
           cargo install mdbook --no-default-features --features search --locked
 
-      - name: Build the mdBook
-        # Runs the mdBook build command. The output is 'book/' by default.
-        run: mdbook build
-        env:
-          # This should force the mdbook-fs-summary preprocessor to log debug messages
-          RUST_LOG: debug
+      - name: Xos oldishlovchilarni o'rnatish
+        # Bu mdbook-tiqmalarim ichidagi barcha oldishlovchilarni o'rnatadi
+        run: cargo build --release --manifest-path mdbook-tiqmalarim/Cargo.toml
 
-      - name: Upload Pages Artifact
-        # Uploads the static files from the book/ directory as an artifact
+      - name: mdBook'ni qurish
+        run: mdbook build
+
+      - name: Hosila Sahifalarni yuklash
         uses: actions/upload-pages-artifact@v3
         with:
-          path: book # The default output directory for mdBook
+          path: book
 
-      - name: Deploy to GitHub Pages
+      - name: GitHub Pages'da ishga solish
         id: deployment
         uses: actions/deploy-pages@v4
-        # This step uses the artifact uploaded in the previous step

@@ -1,0 +1,8 @@
+[workspace]
+members = [
+    "atamalar-kirish",
+    "atama-umumiy",
+    "atama-orinlovchi",
+    "atama-tamgalovchi",
+]
+resolver = "2"

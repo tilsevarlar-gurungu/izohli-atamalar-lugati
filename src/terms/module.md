@@ -1,15 +1,12 @@
-# Majmua
+# Boʻlinim
 
 **Inglizcha:** Module<br>
 **Ruscha:** Модуль <br>
-**Soha:** Dasturlash
+**Soha:** Loyihalov
 
-**Majmua** – bu odatda bir fayl yoki bir nechta fayllar toʻplamidan iborat boʻlgan, tegishli <abbr title="function">topshiriq</abbr>lar, <abbr title="class">andaza</abbr>lar va oʻzgaruvchilarni guruhlashtiruvchi mustaqil <abbr title="code">bitik</abbr> birligidir. Uning asosiy maqsadi – bitikni mantiqiy, qayta ishlatiladigan qismlarga boʻlish, boʻlina olishni targʻib qilish va nomlar toʻqnashuvini oldini olish hamda dasturchilarga bitik qismlarini turli loyihalar oʻrtasida osongina baham koʻrish imkonini berish orqali katta dasturlarni soddalashtirishdir.
+**Boʻlinim** – bu odatda bir fayl yoki bir nechta fayllar toʻplamidan iborat boʻlgan, tegishli topshiriqlar, andazalar va yorliqlarni guruhlashtiruvchi mustaqil bitik birligidir. Uning asosiy maqsadi – bitikni mantiqiy, qayta ishlatiladigan qismlarga boʻlish, boʻlina oluvni targʻib qilish va nomlar toʻqnashuvini oldini olish hamda dasturchilarga bitik qismlarini turli loyihalar oʻrtasida osongina baham koʻrish imkonini berish orqali katta dasturlarni soddalashtirishdir.
 
-## Aloqali atamalar
+## E’tiborga olingan muqobillar
 
-- [topshiriq](./function.md)
-
-## E'tiborga olingan muqobillar
-
+- majmua
 - modul

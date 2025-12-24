@@ -1,3 +1,8 @@
+# --- Rust / Cargo ---
+/target/
+target/
+src/mdbook-term-indexer/target/
+
 # mdBook Generated Output
 /book/
 

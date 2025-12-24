@@ -2,19 +2,22 @@
 
 **Inglizcha:** Array<br>
 **Ruscha:** Массив<br>
-**Soha:** Dasturlash
+**Ota-atama:** Ketma-ketlik<br>
+**Soha:** Dasturlov
 
-Tizma – bu bir xil turdagi ma'lumot elementlarining ketma-ket, qoʻshni xotira
+Tizma – bu bir xil turdagi ma’lumot elementlarining ketma-ket, qoʻshni xotira
 joylarida saqlanadigan toʻplamidir. Har bir tizma elementiga uning oʻrni orqali
 murojaat qilinadi. Tizma elementlarining oʻrni ketma-ket keluvchi raqamlar
 orqali ifodalanadi: masalan `0, 1, 2 ... n`. Boshqacha qilib aytganda,
 bu raqamlar tizma elementlarining manzili hisoblanadi.
 
 Aksar dasturlash tillarida birinchi elementning oʻrni 0 (nol) bilan ifodalanadi.
-Masalan, `oylar[0]` bu `yanvar`, ya'ni yilning birinchi oyi boʻlishi mumkin.
-Ba'zi tillarda esa, birinchi elementning oʻrni 1 (bir) raqami bilan belgilanadi.
+Masalan, `oylar[0]` bu `yanvar`, ya’ni yilning birinchi oyi boʻlishi mumkin.
+Ba’zi tillarda esa, birinchi elementning oʻrni 1 (bir) raqami bilan belgilanadi.
 
-## Tizmaning tuzilishi
+Tizmalar aylangich va qaytalagich lar yordamida oʻzgartirilishi mumkin.
+
+### Tizmaning tuzilishi
 
 0-oʻrin asosli tizma quyidagicha koʻrinadi:
 
@@ -28,14 +31,8 @@ Agar 1-oʻrin asosli boʻlsa, unda tizma quyidagicha boʻladi:
 |---|---|---|---|---|
 | Qiymat | Yanvar | Fevral | Mart | Aprel |
 
-## Aloqali atamalar
 
-- aylangich
-- [lugʻat](./map.md)
-- [tuzma](./struct.md)
-- qaytalovchi
-
-## E'tiborga olingan muqobillar
+## E’tiborga olingan muqobillar
 
 - ketma-ketlik
 - massiv

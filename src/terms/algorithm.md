@@ -2,16 +2,17 @@
 
 **Inglizcha:** Algorithm<br>
 **Ruscha:** Алгоритм<br>
-**Soha:** Dasturlash
+**Soha:** Dasturlov<br>
+**Ota-atama:** Bilimsanar
 
 **Alxorazma** – bu aniq bir muammoni hal qilish yoki hisob-kitobni amalga
 oshirish uchun moʻljallangan, oʻz-oʻzidan toʻliq boʻlgan, bosqichlar
-yoki qoidalar ketma-ketligidir. Kompyuter fanlarida alxorazmalar kiritiluvchi
+yoki qoidalar ketma-ketligidir. Bilimsanar fanlarida alxorazmalar kiritiluvchi
 maʼlumotlarni tartiblangan, cheklangan amaliyotlar ketma-ketligi orqali kerakli
 natijaga aylantiradigan dastur bajarilishi uchun asosiy reja vazifasini oʻtaydi.
 Bu atama tarixiy ildizlarga ega boʻlib, buyuk IX asr matematigi
 Muhammad ibn Muso al-Xorazmiyning ismining lotin shakli – *Algoritmi*dan kelib
-chiqqan. Uning arab raqamlari va hisoblash usullari haqidagi ta'sirli risolasi
+chiqqan. Uning arab raqamlari va hisoblash usullari haqidagi ta’sirli risolasi
 Gʻarbga tizimli matematik tartiblarni olib kirdi, bu esa keyinchalik zamonaviy
 alxorazma tushunchasining paydo boʻlishiga sabab boʻldi.
 
@@ -24,11 +25,7 @@ yoki tartibi buzilsa, natija – mazali palov hosil boʻlmasligi mumkin. Demak,
 palov tayyorlash uchun zarur boʻlgan masalliqlar maʼlum bir tartibda
 (alxorazma asosida) qayta ishlanib, oxirida mukammal taom (natija) yaratiladi.
 
-## Aloqali atamalar
-
-- bosqich
-
-## E'tiborga olingan muqobillar
+## E’tiborga olingan muqobillar
 
 - algoritm
 - alxorizm

@@ -1,0 +1,8 @@
+[package]
+name = "atama-umumiy"
+version = "0.1.0"
+edition = "2024"
+
+[dependencies]
+mdbook = "0.4"
+serde = { version = "1.0", features = ["derive"] }

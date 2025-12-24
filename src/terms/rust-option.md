@@ -2,12 +2,13 @@
 
 **Inglizcha:** Option<br>
 **Ruscha:** Опшн<br>
-**Soha:** Dasturlash
+**Soha:** Dasturlov<br>
+**Aloqali:** Rust
 
-Rust'da **Yongʻoq** <abbr title="enum">sonlama</abbr>si - bu qiymatning mavjud boʻlishi yoki boʻlmasligini aniq ifodalash uchun ishlatiladigan muhim sonlama turidir. U boshqa tillardagi *null* yoki *nil* kabi noaniq qiymatlardan farqli oʻlaroq, dasturchini qiymatning yoʻqligini nazoratli tarzda boshqarishga majburlaydi. Yongʻoq ikki holatdan birini oʻz ichiga oladi: yo qiymat mavjud boʻlsa, <abbr title="Some">Magʻizli</abbr> Some(T)) holati, yoki qiymat umuman yoʻq boʻlsa, <abbr title="None">Puch</abbr> (None) holati. Yongʻoq'dan foydalanish <abbr title="bug">nuqson</abbr>larni (ayniqsa, *null*ga kirish xatolarini) oldini olishga yordam beradi va <abbr title="code">bitik</abbr>ni oʻqishni yanada ishonchli qiladi.
+Rust’da **Yongʻoq** sonlamasi - bu qiymatning mavjud boʻlishi yoki boʻlmasligini aniq ifodalash uchun ishlatiladigan muhim sonlama turidir. U boshqa tillardagi *null* yoki *nil* kabi noaniq qiymatlardan farqli oʻlaroq, dasturchini qiymatning yoʻqligini nazoratli tarzda boshqarishga majburlaydi. Yongʻoq ikki holatdan birini oʻz ichiga oladi: yo qiymat mavjud boʻlsa, Magʻizli Some(T)) holati, yoki qiymat umuman yoʻq boʻlsa, Puch (None) holati. Yongʻoq’dan foydalanish nuqsonlarni (ayniqsa, *null*ga kirish xatolarini) oldini olishga yordam beradi va bitikni oʻqishni yanada ishonchli qiladi.
 
 ```rust,ignore
-// Yongʻoq (Option) turini e'lon qilish
+// Yongʻoq (Option) turini e’lon qilish
 enum Yongʻoq<J: jins> { // J: jins (T: type)
     Puch,            // Qiymat yoʻq (None)
     Magʻizli(J),     // J jinsidagi qiymat mavjud (Some(J))
@@ -32,14 +33,7 @@ match natija {
 }
 ```
 
-## Aloqali atamalar
-
-- sonlov (enumeration)
-- sonlama (enums)
-- puch (None)
-- magʻizli (Some)
-
-## E'tiborga olingan muqobillar
+## E’tiborga olingan muqobillar
 
 - tanlov
 - opsiya

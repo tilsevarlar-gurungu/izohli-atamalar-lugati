@@ -4,4 +4,13 @@ authors = ["chapani"]
 
 [output.html]
 mathjax-support = true
+additional-css = ["src/styles/extra.css"]
 
+[preprocessor.atama-orinlovchi]
+command = "mdbook-tiqmalarim/target/release/atama-orinlovchi"
+
+[preprocessor.atama-tamgalovchi]
+command = "mdbook-tiqmalarim/target/release/atama-tamgalovchi"
+
+[preprocessor.atamalar-kirish]
+command = "mdbook-tiqmalarim/target/release/atamalar-kirish"
