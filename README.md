@@ -3,7 +3,7 @@
 ---
 Ajdodlarimizdan meros qolgan *kelishik*, *yigʻindi*, *tenglama*, *maxraj*, *surat* kabi atamalardan ilhomlangan holda oʻzbek tilli insonlar uchun tushunarli boʻlgan atamalar yaratish loyihasi.
 
-> 📖 [Lugʻatdan](https://chapani.github.io/izohli-atamalar-lugati/) foydalanish uchun mana bu sahifaga oʻting: [https://chapani.github.io/izohli-atamalar-lugati/](https://chapani.github.io/izohli-atamalar-lugati/)
+> 📖 [Lugʻatdan](https://tilsevarlar-gurungu.github.io/izohli-atamalar-lugati/) foydalanish uchun mana bu sahifaga oʻting: [https://tilsevarlar-gurungu.github.io/izohli-atamalar-lugati/](https://tilsevarlar-gurungu.github.io/izohli-atamalar-lugati/)
 
 
 ## Shior
