@@ -16,3 +16,5 @@ Quyma dastur maʼlum bir qurilma qismi bilan bogʻlangan boʻlib, oniy holatda i
 - yotqiziqli
 - qurilma dasturi
 - oʻrnatilgan dasturiy ta’minot
+
+**Muallif**: Alisher Jalolov
