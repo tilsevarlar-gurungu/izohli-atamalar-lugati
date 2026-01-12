@@ -9,3 +9,4 @@
 ## E’tiborga olingan muqobillar
 
 - ijro mobayni
+- ijro asnosi
