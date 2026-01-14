@@ -1,36 +1,35 @@
-# Loyihaga Hissa Qo'shish Qoidalari
+# Loyihaga Hissa Qöşiş Qoidalari
 
 ---
 
-Bu loyiha **O'zbek tilidagi** izohli texnik atamalar lug'atini yaratishga qaratilgan.
+Bu loyiha **Özbek tilidagi** izohli tehnik atamalar luğatini yaratişga qaratilgan.
 
 
 ## Loyihaning asosiy maqsadi nima?
-Asosiy maqsad texnik manbalarni ingliz tilidan o'zbek tiliga o'girayotganlar uchun qulay atamalar manbasini yaratish. Tarjimon har gal yangi inglizcha iboraga duch kelganda, "bu qanday bo'larkan" deb vaqtini isrof qilmasdan, bizning lug'atdan foydalansin. Agar topolmasa, unda PR orqali tarjima qilinishi kerak bo'lgan so'zlar ro'yxatiga qo'shsin. Undan ham yaxshisi, o'zi tarjima qilib o'z hissasini qo'shsin.
+Asosiy maqsad tehnik manbalarni ingliz tilidan özbek tiliga ögirayotganlar uçun qulay atamalar manbasini yaratiş. Tarjimon har gal yangi inglizça iboraga duç kelganda, "bu qanday bölarkan" deb vaqtini isrof qilmasdan, bizning luğatdan foydalansin. Agar topolmasa, unda PR orqali tarjima qilinişi kerak bölgan sözlar röyhatiga qöşsin. Undan ham yahşisi, özi tarjima qilib öz hissasini qöşsin.
 
-## Atamani tanlashda qanday qoidalar bor?
-Atama quyidagi qoidalarning aksariga mos kelishi kerak:
-- O'zbek tilining ichki qobiliyatlari asosida yaratilgan
-- Atama o'zi ta'riflayotgan mazmunga mos keladi
-- Atama o'ziga aloqador yoki birga ishlatiladigan so'zlar bilan uyg'unlikda qo'llana oladi
+## Atamani tanlaşda qanday qoidalar bor?
+Atama quyidagi qoidalarning aksariga mos kelişi kerak:
+- Özbek tilining içki qobiliyatlari asosida yaratilgan
+- Atama özi tariflayotgan mazmunga mos keladi
+- Atama öziga aloqador yoki birga işlatiladigan sözlar bilan uyğunlikda qöllana oladi
 - Atama bir mazmunni mustaqil va noyob tarzda ifodalaydi
 - Qisqa atama uzun atamadan afzalroq
-- Uzun ammo ma'noli atama qisqa ma'nosiz atamada afzalroq
-- Inglizcha atama boshqa chet tildagi atamadan afzalroq (kompyuter sohasidagi atamalar ko'pincha ingliz tilida paydo bo'lishi bilan bo'gliq)
+- Uzun ammo manoli atama qisqa manosiz atamada afzalroq
+- Inglizça atama boşqa çet tildagi atamadan afzalroq (kompyuter sohasidagi atamalar köpinça ingliz tilida paydo bölişi bilan bögliq)
 
-## Qanday atamalar ma'qul emas?
-- Chet tildan ko'r-ko'rona ko'chirilgan
-- Chet tildan ko'r-ko'rona tarjima qilingan (ya'ni surjik)
-- Bir necha atama uchun birday qo'llaniladigan (masalan, turkchadagi go'zal so'zi. Ularda hamma narsa go'zal bo'lishi mumkin. Ovqat ham go'zal, odam ham go'zal, manzara ham go'zal, ob-havo ham go'zal)
+## Qanday atamalar maqul emas?
+- Çet tildan kör-körona köçirilgan
+- Çet tildan kör-körona tarjima qilingan (yani surjik)
+- Bir neça atama uçun birday qöllaniladigan (masalan, turkçadagi gözal sözi. Ularda hamma narsa gözal bölişi mumkin. Ovqat ham gözal, odam ham gözal, manzara ham gözal, ob-havo ham gözal)
 
-## Nega izoh, birga-bir so'z lug'ati bo'lsa bo'lmaydimi?
-Atamalarga izoh berishning birlamchi maqsadi, o'sha atamaning qanday qo'llanishini ko'rsatib berish. Atama muallifi, o'sha atamani o'zi ishlatganda qanchalik muvaffaqiyatli chiqqanini seza oladi.
+## Nega izoh, birga-bir söz luğati bölsa bölmaydimi?
+Atamalarga izoh berişning birlamçi maqsadi, öşa atamaning qanday qöllanişini körsatib beriş. Atama muallifi, öşa atamani özi işlatganda qançalik muvaffaqiyatli çiqqanini seza oladi.
 
-Izohlarning boshqa tarjimonlar uchun ham foydasi bor. Ular izohlar orqali atamalar qanday ishlatilishini ko'rishlari mumkin.
+Izohlarning boşqa tarjimonlar uçun ham foydasi bor. Ular izohlar orqali atamalar qanday işlatilişini körişlari mumkin.
 
-Undan tashqari, izoh sahifasida aloqador, birga qo'llaniladigan atamalar ro'yxati ham beriladi. Masalan, **Array/Tizma** atamasining muqobiliga izoh yozganimizda, unga yaqin, yoki aloqador bo'lgan index, iterate over an array, associated arrays, maps kabi atamalarning o'zbekcha muqobillari ham keltiriladi.
+Undan taşqari, izoh sahifasida aloqador, birga qöllaniladigan atamalar röyhati ham beriladi. Masalan, **Array/Tizma** atamasining muqobiliga izoh yozganimizda, unga yaqin, yoki aloqador bölgan indeh, iterate over an array, associated arrays, maps kabi atamalarning özbekça muqobillari ham keltiriladi.
 
 
-## Atamaga e'tirozim bor
-Barcha e'tiroz, qo'llov, munozara GitHub PR sahifasi orqali bo'lishiladi. Bu barcha fikrlarni bir yerga jamlash va tarixiy qayd uchun xizmat qiladi.
-
+## Atamaga etirozim bor
+Barça etiroz, qöllov, munozara GitHub PR sahifasi orqali bölişiladi. Bu barça fikrlarni bir yerga jamlaş va tarihiy qayd uçun hizmat qiladi.

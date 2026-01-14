@@ -1,32 +1,31 @@
-# Izohli Atamalar Lugʻati
-*Inglizcha va ruscha muqobillari bilan*
+# Izohli Atamalar Luğati
+*Inglizça va rusça muqobillari bilan*
 ---
-Ajdodlarimizdan meros qolgan *kelishik*, *yigʻindi*, *tenglama*, *maxraj*, *surat* kabi atamalardan ilhomlangan holda oʻzbek tilli insonlar uchun tushunarli boʻlgan atamalar yaratish loyihasi.
+Ajdodlarimizdan meros qolgan *kelişik*, *yiğindi*, *tenglama*, *mahraj*, *surat* kabi atamalardan ilhomlangan holda özbek tilli insonlar uçun tuşunarli bölgan atamalar yaratiş loyihasi.
 
-> 📖 [Lugʻatdan](https://tilsevarlar-gurungu.github.io/izohli-atamalar-lugati/) foydalanish uchun mana bu sahifaga oʻting: [https://tilsevarlar-gurungu.github.io/izohli-atamalar-lugati/](https://tilsevarlar-gurungu.github.io/izohli-atamalar-lugati/)
+> 📖 [Luğatdan](https://tilsevarlar-gurungu.github.io/izohli-atamalar-lugati/) foydalaniş uçun mana bu sahifaga öting: [https://tilsevarlar-gurungu.github.io/izohli-atamalar-lugati/](https://tilsevarlar-gurungu.github.io/izohli-atamalar-lugati/)
 
 
-## Shior
+## Şior
 
-Murosasiz yaratuvchanlik!
+Murosasiz yaratuvçanlik!
 
 
 ## Tamoyillar
 
-- Oʻzbek tilining ichki qobiliyatlaridan foydalanish
+- Özbek tilining içki qobiliyatlaridan foydalaniş
 - Atama bilan mohiyatning yaqinligi
-- Yaratuvchanlik va yangiliklardan qochmaslik
+- Yaratuvçanlik va yangiliklardan qoçmaslik
 
 
-## Hissa qoʻshish
+## Hissa qöşiş
 
-Bu juda maroqli va kelajak avlod uchun foydali loyiha. Oʻz hissangizni qoʻshishdan mahrum qolmang!
+Bu juda maroqli va kelajak avlod uçun foydali loyiha. Öz hissangizni qöşişdan mahrum qolmang!
 
-[Loyihada qatnashish tafsilotlari](CONTRIBUTING.md)
+[Loyihada qatnaşiş tafsilotlari](CONTRIBUTING.md)
 
-## Litsenziyalash
+## Litsenziyalaş
 
-Ushbu repozitoriyadagi barcha kontent (lugʻat matni, taʻriflar va ular bilan bogʻliq maʼlumotlar) **Creative Commons Zero v1.0 Universal (CC0 1.0) Public Domain Dedication** ostida jamoat mulkiga bagʻishlangan.
+Uşbu repozitoriyadagi barça kontent (luğat matni, tariflar va ular bilan boğliq malumotlar) **Creative Commons Zero v1.0 Universal (CC0 1.0) Public Domain Dedication** ostida jamoat mulkiga bağişlangan.
 
-Bu shuni anglatadiki, ishni erkin, har qanday maqsadlar uchun, cheklovlarsiz va **mualliflikni koʻrsatmasdan** foydalanish, oʻzgartirish va tarqatish mumkin.
-
+Bu şuni anglatadiki, işni erkin, har qanday maqsadlar uçun, çeklovlarsiz va **mualliflikni körsatmasdan** foydalaniş, özgartiriş va tarqatiş mumkin.
