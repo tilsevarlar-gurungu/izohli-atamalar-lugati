@@ -1,11 +1,11 @@
-# Yumshoq-jinsli
+# Yumşoq-jinsli
 
-**Inglizcha:** Weakly-Typed<br>
-**Ruscha:** Слабая типизация<br>
+**Inglizça:** Weakly-Typed<br>
+**Rusça:** Слабая типизация<br>
 **Soha:** Dasturlov
 
-**Yumshoq-jinsli** — bu ma’lumot jinslariga nisbatan erkin va moslanuvchan munosabatda bo‘ladigan dasturlov tillariga xos xususiyatdir. Bunday tizimda amallarni bajarish vaqtida bir turdagi ma’lumot boshqasiga avtomatik tarzda (dasturchining ishtirokisiz) aylantirilishi mumkin. Masalan, son va matnni qo‘shishga harakat qilinganda, tizim xato bermasdan, sonni matnga aylantirib yuboraveradi. Garchi bu usul bitikni tezroq yozish imkonini bersa-da, kutilmagan natijalarga va yashirin mantiqiy nuqsonlarga sabab bo‘lishi mumkin. Yumshoq-jinsli tizimlar Qattiq-jinsli tizimlarga qaraganda kamroq intizom talab qiladi, ammo dasturning ishonchliligini nazorat qilishni qiyinlashtiradi.
+**Yumşoq-jinsli** — bu malumot jinslariga nisbatan erkin va moslanuvçan munosabatda böladigan dasturlov tillariga hos hususiyatdir. Bunday tizimda amallarni bajariş vaqtida bir turdagi malumot boşqasiga avtomatik tarzda (dasturçining iştirokisiz) aylantirilişi mumkin. Masalan, son va matnni qöşişga harakat qilinganda, tizim hato bermasdan, sonni matnga aylantirib yuboraveradi. Garçi bu usul bitikni tezroq yoziş imkonini bersa-da, kutilmagan natijalarga va yaşirin mantiqiy nuqsonlarga sabab bölişi mumkin. Yumşoq-jinsli tizimlar Qattiq-jinsli tizimlarga qaraganda kamroq intizom talab qiladi, ammo dasturning işonçliligini nazorat qilişni qiyinlaştiradi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- kuchsiz jinsli
+- kuçsiz jinsli

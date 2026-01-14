@@ -1,14 +1,14 @@
-# Aylangich
+# Aylangiç
 
-**Inglizcha:** Loop<br>
-**Ruscha:** Цикл<br>
+**Inglizça:** Loop<br>
+**Rusça:** Цикл<br>
 **Soha:** Dasturlov
 
-**Aylangich** - dasturchiga belgilangan shart bajarilguncha bitik boʻlagini qayta-qayta bajarish imkonini beruvchi asosiy boshqaruv tuzilmalaridandir. Ular tizmaning har bir elementi aylanib oʻtib, ulardan foydalanish yoki ularni oʻzgartirish imkoniyatini beradi. Bir xil koʻrsatmalarni bir necha marta yozish zaruratidan qochib, `for` aylanichlari (takrorlashlar soni maʼlum boʻlganda ishlatiladi) va `while` aylanichlari (takrorlashlar soni shartga bogʻliq boʻlganda ishlatiladi) dasturlarni sezilarli darajada samaraliroq va ixchamroq qiladi. Shu bilan birga, Rust dasturlash tilida `loop` kalit soʻzi cheksiz aylanish uchun ishlatiladi.
+**Aylangiç** - dasturçiga belgilangan şart bajarilgunça bitik bölagini qayta-qayta bajariş imkonini beruvçi asosiy boşqaruv tuzilmalaridandir. Ular tizmaning har bir elementi aylanib ötib, ulardan foydalaniş yoki ularni özgartiriş imkoniyatini beradi. Bir hil körsatmalarni bir neça marta yoziş zaruratidan qoçib, `for` aylaniçlari (takrorlaşlar soni malum bölganda işlatiladi) va `while` aylaniçlari (takrorlaşlar soni şartga boğliq bölganda işlatiladi) dasturlarni sezilarli darajada samaraliroq va ihçamroq qiladi. Şu bilan birga, Rust dasturlaş tilida `loop` kalit sözi çeksiz aylaniş uçun işlatiladi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - sikl
-- aylantirgich
+- aylantirgiç
 - aylanma
 - doira

@@ -1,12 +1,12 @@
-# Olib Turuv Tekshiruvchisi
+# Olib Turuv Tekşiruvçisi
 
-**Inglizcha:** Borrow Checker<br>
-**Ruscha:** Проверка заимствований<br>
+**Inglizça:** Borrow Checker<br>
+**Rusça:** Проверка заимствований<br>
 **Aloqali:** Rust<br>
 **Soha:** Dasturlov
 
-**Olib Turuv** Tekshiruvchisi — bu Rust tilidagi tuzuvning bir qismi boʻlib, xotira-omonlik qoidalarini ta’minlash uchun xizmat qiladi. U bitikni tekshirish paytida egalik va qaratqich qoidalariga amal qilinganini nazorat qiladi. Ushbu tizim bir vaqtning oʻzida bir nechta oʻzgaruvchan qaratqich boʻlmasligini yoki ma’lumot poygasi kelib chiqmasligini kafolatlaydi. Shuningdek, u har bir yorliqning umrini nazorat qilib, puch manzilga ishora qilish kabi xatolarning oldini oladi. Agar qoidalar buzilsa, tuzuv xatolikka uchraydi va dasturni yaratishga yoʻl qoʻymaydi.
+**Olib Turuv** Tekşiruvçisi — bu Rust tilidagi tuzuvning bir qismi bölib, hotira-omonlik qoidalarini taminlaş uçun hizmat qiladi. U bitikni tekşiriş paytida egalik va qaratqiç qoidalariga amal qilinganini nazorat qiladi. Uşbu tizim bir vaqtning özida bir neçta özgaruvçan qaratqiç bölmasligini yoki malumot poygasi kelib çiqmasligini kafolatlaydi. Şuningdek, u har bir yorliqning umrini nazorat qilib, puç manzilga işora qiliş kabi hatolarning oldini oladi. Agar qoidalar buzilsa, tuzuv hatolikka uçraydi va dasturni yaratişga yöl qöymaydi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- Olib Turuv Nazoratchisi
+- Olib Turuv Nazoratçisi

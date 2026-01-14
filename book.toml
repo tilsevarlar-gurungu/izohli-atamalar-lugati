@@ -1,10 +1,11 @@
 [book]
-title = "Izohli Atamalar Lugʻati"
+title = "Izohli Atamalar Luğati"
 authors = ["chapani"]
 
 [output.html]
 mathjax-support = true
-additional-css = ["src/styles/extra.css"]
+additional-css = ["assets/ial.css"]
+additional-js = ["assets/ial.js"]
 
 [preprocessor.atama-orinlovchi]
 command = "mdbook-tiqmalarim/target/release/atama-orinlovchi"

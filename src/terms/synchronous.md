@@ -1,12 +1,12 @@
 # Navbatli Ijro
 
-**Inglizcha:** Synchronous<br>
-**Ruscha:** Синхронность<br>
+**Inglizça:** Synchronous<br>
+**Rusça:** Синхронность<br>
 **Soha:** Dasturlov
 
-**Navbatli ijro** — bu bitiklarning qat’iy ketma-ketlikda bajarilishidir. Bunda har bir topshiriq o‘zidan oldingisi to‘liq tugashini kutadi, ya’ni Markaziy Ijro Bo‘linmasi bir ishni bitirmasdan turib keyingisiga o‘tmaydi. Bu usul oddiy va tushunarli bo‘lsa-da, katta hajmdagi ma’lumotlar bilan ishlashda bilimsanar tezligini pasaytirib qo‘yishi mumkin. Navbatsiz ijrodan farqi shundaki, bu yerda jarayonlar bir-biriga bog‘liq bo‘ladi va birgina to‘xtalish butun tizimning vaqtinchalik "to‘xtab" qolishiga olib keladi.
+**Navbatli ijro** — bu bitiklarning qatiy ketma-ketlikda bajarilişidir. Bunda har bir topşiriq özidan oldingisi töliq tugaşini kutadi, yani Markaziy Ijro Bölinmasi bir işni bitirmasdan turib keyingisiga ötmaydi. Bu usul oddiy va tuşunarli bölsa-da, katta hajmdagi malumotlar bilan işlaşda bilimsanar tezligini pasaytirib qöyişi mumkin. Navbatsiz ijrodan farqi şundaki, bu yerda jarayonlar bir-biriga boğliq böladi va birgina töhtaliş butun tizimning vaqtinçalik "töhtab" qolişiga olib keladi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - safli ijro
 - tartibli ijro

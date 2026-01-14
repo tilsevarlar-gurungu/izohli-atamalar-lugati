@@ -6,15 +6,15 @@ fn sina_alxorazma_misolining_yoyuvini() {
     // 1. Namuna ma'lumotni xuddi berilganiday tayyorla
     let matn = r#"# Alxorazma
 
-**Inglizcha:** Algorithm<br>
-**Ruscha:** Алгоритм<br>
+**Inglizça:** Algorithm<br>
+**Rusça:** Алгоритм<br>
 **Soha:** Dasturlov<br>
 **Ota-atama:** Bilimsanar
 
 **Alxorazma** – bu aniq bir muammoni hal qilish yoki hisob-kitobni amalga
 oshirish uchun moʻljallangan.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - algoritm
 - alxorizm"#;
@@ -38,7 +38,7 @@ oshirish uchun moʻljallangan.
     assert_eq!(atama.ota, Some("Bilimsanar".to_string()));
 
     // Matnning asliday saqlanganligini tekshir
-    assert!(atama.matn.contains("## E’tiborga olingan muqobillar"));
+    assert!(atama.matn.contains("## Etiborga olingan muqobillar"));
     assert!(atama.matn.contains("- alxorizm"));
 }
 
@@ -47,8 +47,8 @@ fn sina_bazi_ixtiyoriy_qiymatlari_bolmagan_malumot_yoyuvini() {
     // Soha, Ota-atama, yoki Sifat shakli qiymatlari boʻlmagan
     // atamani tekshir
     let matn = r#"# Minimal
-**Inglizcha:** Min
-**Ruscha:** Мин"#;
+**Inglizça:** Min
+**Rusça:** Мин"#;
 
     let yolak = Path::new("terms/min.md");
     let atama = xotiradagi_atamani_yoy(yolak, matn.to_string());
@@ -65,8 +65,8 @@ fn sina_ozbekcha_saralov_kirishimini() {
 
     let mut atamalar = vec![
         toqima_atama_yarat("Sabzi"),
-        toqima_atama_yarat("Oʻrdak"),
-        toqima_atama_yarat("Shamol"),
+        toqima_atama_yarat("Ördak"),
+        toqima_atama_yarat("Şamol"),
         toqima_atama_yarat("Olma"),
     ];
 
@@ -80,14 +80,14 @@ fn sina_ozbekcha_saralov_kirishimini() {
 
     assert_eq!(atamalar[0].sarlavha, "Olma");
     assert_eq!(atamalar[1].sarlavha, "Sabzi");
-    assert_eq!(atamalar[2].sarlavha, "Oʻrdak");
-    assert_eq!(atamalar[3].sarlavha, "Shamol");
+    assert_eq!(atamalar[2].sarlavha, "Ördak");
+    assert_eq!(atamalar[3].sarlavha, "Şamol");
 }
 
 // saralov sinovlari uchun yordamchi topshiriq
 fn toqima_atama_yarat(sarlavha: &str) -> Atama {
     xotiradagi_atamani_yoy(
         Path::new("test.md"),
-        format!("# {}\n**Inglizcha:** N/A\n**Ruscha:** N/A", sarlavha),
+        format!("# {}\n**Inglizça:** N/A\n**Rusça:** N/A", sarlavha),
     )
 }

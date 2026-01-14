@@ -1,12 +1,12 @@
-# Foydalanuvchi Yuzlanmasi
+# Foydalanuvçi Yuzlanmasi
 
-**Inglizcha:** User Interface (UI)<br>
-**Ruscha:** Пользовательский интерфейс<br>
+**Inglizça:** User Interface (UI)<br>
+**Rusça:** Пользовательский интерфейс<br>
 **Qisqartma:** FY<br>
 **Soha:** Dasturlov
 
-**Foydalanuvchi yuzlanmasi** (FY) — bu inson va bilimsanar oʻrtasidagi muloqotni ta’minlovchi barcha tasviriy qismlar va boshqaruv vositalari majmuidir. Unga kalittaxta orqali kiritiladigan buyruqlar, ekrandagi tugmalar, menyular va turli xil toʻnlar kiradi. Yaxshi loyihalangan FY foydalanuvchiga dastur imkoniyatlaridan oson foydalanishga yordam beradi va foydalanuvchi tajribasi (FT) sifatini oshiradi. Dasturchi FY yaratishda har bir jismning tartibini va joylashuvini shunday aniqlashi kerakki, tizim oniy holatda foydalanuvchi buyruqlariga javob qaytara olsin.
+**Foydalanuvçi yuzlanmasi** (FY) — bu inson va bilimsanar örtasidagi muloqotni taminlovçi barça tasviriy qismlar va boşqaruv vositalari majmuidir. Unga kalittahta orqali kiritiladigan buyruqlar, ekrandagi tugmalar, menyular va turli hil tönlar kiradi. Yahşi loyihalangan FY foydalanuvçiga dastur imkoniyatlaridan oson foydalanişga yordam beradi va foydalanuvçi tajribasi (FT) sifatini oşiradi. Dasturçi FY yaratişda har bir jismning tartibini va joylaşuvini şunday aniqlaşi kerakki, tizim oniy holatda foydalanuvçi buyruqlariga javob qaytara olsin.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- Foydalanuvchi Interfeysi
+- Foydalanuvçi Interfeysi

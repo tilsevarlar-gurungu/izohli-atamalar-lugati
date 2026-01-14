@@ -1,12 +1,12 @@
 # Oniy
 
-**Inglizcha:** Realtime<br>
-**Ruscha:** Системы реального времени<br>
+**Inglizça:** Realtime<br>
+**Rusça:** Системы реального времени<br>
 **Soha:** Dasturlov
 
-**Oniy** vaqt tartibida ishlovchi dastur yoki tizimlar ma’lumotlarni kechikishlarsiz, aynan sodir boʻlgan paytning oʻzida qayta ishlashi shart. Bunday tizimlarda ijrochi topshiriqlarni shunday tez bajarishi kerakki, natija tashqi dunyo bilan ondosh tarzda mos kelishi ta’minlansin. Masalan, quyma tizimlar yoki oʻzini-oʻzi boshqaruvchi tizimlarda oniy holatda qaror qabul qilish juda muhim, chunki har qanday kechikish tizimning xavfsizligiga yoki izchillik darajasiga salbiy ta’sir koʻrsatishi mumkin.
+**Oniy** vaqt tartibida işlovçi dastur yoki tizimlar malumotlarni keçikişlarsiz, aynan sodir bölgan paytning özida qayta işlaşi şart. Bunday tizimlarda ijroçi topşiriqlarni şunday tez bajarişi kerakki, natija taşqi dunyo bilan ondoş tarzda mos kelişi taminlansin. Masalan, quyma tizimlar yoki özini-özi boşqaruvçi tizimlarda oniy holatda qaror qabul qiliş juda muhim, çunki har qanday keçikiş tizimning havfsizligiga yoki izçillik darajasiga salbiy tasir körsatişi mumkin.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- shu-paytlik
+- şu-paytlik
 - hamzamonlik

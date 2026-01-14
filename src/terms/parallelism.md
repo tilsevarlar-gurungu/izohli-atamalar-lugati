@@ -1,14 +1,14 @@
-# Yondoshlik
+# Yondoşlik
 
-**Inglizcha:** Parallel<br>
-**Ruscha:** Параллельный<br>
+**Inglizça:** Parallel<br>
+**Rusça:** Параллельный<br>
 **Soha:** Qurilma
 
-**Yondoshlik** — bu bilimsanar ichida bir nechta topshiriqlarning aynan bir vaqtning o‘zida, turli o‘zaklar yordamida amalga oshirilishidir. Bu usul tizimning unumdorligini sezilarli darajada oshiradi, chunki Markaziy Ijro Bo‘linmasi barcha vazifalarni navbatma-navbat emas, balki yonma-yon tartibda qayta ishlaydi. Masalan, katta hajmdagi ma’lumotlarni saralashda, har bir bo‘linim o‘z qismini alohida o‘zakda bajarsa, umumiy vaqt tejaladi. Bu jarayon dastur ichidagi zahiralardan eng samarali darajada foydalanish imkonini beradi.
+**Yondoşlik** — bu bilimsanar içida bir neçta topşiriqlarning aynan bir vaqtning özida, turli özaklar yordamida amalga oşirilişidir. Bu usul tizimning unumdorligini sezilarli darajada oşiradi, çunki Markaziy Ijro Bölinmasi barça vazifalarni navbatma-navbat emas, balki yonma-yon tartibda qayta işlaydi. Masalan, katta hajmdagi malumotlarni saralaşda, har bir bölinim öz qismini alohida özakda bajarsa, umumiy vaqt tejaladi. Bu jarayon dastur içidagi zahiralardan eng samarali darajada foydalaniş imkonini beradi.
 
-Yondosh va ondosh ijro usullari o‘rtasidagi asosiy farq — bu vazifalarning qanday taqsimlanishidadir. ondosh ijroda bir nechta topshiriq bitta vaqt oralig‘ida boshlanadi va bajariladi, lekin ular bitta o‘zakda juda tez almashib turishi mumkin (go‘yoki bir vaqtda bajarilayotgandek tuyuladi). Yondosh ijroda esa, topshiriqlar haqiqatdan ham aynan bir vaqtda, bir nechta mustaqil o‘zaklar orqali amalga oshiriladi. Oddiy qilib aytganda, ondoshlik — bu ko‘p ishlarni bir vaqtda "boshqarish" (navbatma-navbat bo‘lsa ham), yondoshlik esa ko‘p ishlarni bir vaqtda "bajarish" demakdir.
+Yondoş va ondoş ijro usullari örtasidagi asosiy farq — bu vazifalarning qanday taqsimlanişidadir. ondoş ijroda bir neçta topşiriq bitta vaqt oraliğida boşlanadi va bajariladi, lekin ular bitta özakda juda tez almaşib turişi mumkin (göyoki bir vaqtda bajarilayotgandek tuyuladi). Yondoş ijroda esa, topşiriqlar haqiqatdan ham aynan bir vaqtda, bir neçta mustaqil özaklar orqali amalga oşiriladi. Oddiy qilib aytganda, ondoşlik — bu köp işlarni bir vaqtda "boşqariş" (navbatma-navbat bölsa ham), yondoşlik esa köp işlarni bir vaqtda "bajariş" demakdir.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - parallel
 - yonma-yonlik

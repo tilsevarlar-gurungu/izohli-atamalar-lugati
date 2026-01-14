@@ -1,12 +1,12 @@
-# Oʻzgarmas
+# Özgarmas
 
-**Inglizcha:** Immutable<br>
-**Ruscha:** Неизменяемый<br>
+**Inglizça:** Immutable<br>
+**Rusça:** Неизменяемый<br>
 **Soha:** Dasturlov
 
-**Oʻzgarmas** — bu dasturlovda yaratilgandan keyin holati yoki tarkibini oʻzgartirib boʻlmaydigan jism yoki ma’lumot tuzilmasidir. Agar sizga ushbu ma’lumotning boshqacha koʻrinishi kerak boʻlsa, mavjud jismni tahrirlash oʻrniga, uning nusxasi asosida yangi jism yaratiladi. Bu xususiyat topshiriqli dasturlov (TD) yondashuvida juda muhim boʻlib, ondosh ishlov berish jarayonlarida bir vaqtning oʻzida bir nechta tola ma’lumotni oʻzgartirishga urinishi natijasida kelib chiqadigan ma’lumot poygasi kabi nuqsonlarning oldini oladi. Masalan, koʻplab tillarda jumla turlari oʻzgarmas hisoblanadi, bu esa xavfsizlikni va zahiralardan samarali foydalanishni ta’minlaydi.
+**Özgarmas** — bu dasturlovda yaratilgandan keyin holati yoki tarkibini özgartirib bölmaydigan jism yoki malumot tuzilmasidir. Agar sizga uşbu malumotning boşqaça körinişi kerak bölsa, mavjud jismni tahrirlaş örniga, uning nushasi asosida yangi jism yaratiladi. Bu hususiyat topşiriqli dasturlov (TD) yondaşuvida juda muhim bölib, ondoş işlov beriş jarayonlarida bir vaqtning özida bir neçta tola malumotni özgartirişga urinişi natijasida kelib çiqadigan malumot poygasi kabi nuqsonlarning oldini oladi. Masalan, köplab tillarda jumla turlari özgarmas hisoblanadi, bu esa havfsizlikni va zahiralardan samarali foydalanişni taminlaydi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - qattiq
 - sobit

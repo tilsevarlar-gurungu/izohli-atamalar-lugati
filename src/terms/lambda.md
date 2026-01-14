@@ -1,13 +1,13 @@
-# Nomsiz Topshiriq
+# Nomsiz Topşiriq
 
-**Inglizcha:** Lambda<br>
-**Ruscha:** Лямбда-выражение<br>
+**Inglizça:** Lambda<br>
+**Rusça:** Лямбда-выражение<br>
 **Soha:** Dasturlov
 
-**Nomsiz topshiriq** — bu muayyan bir nomga ega bo‘lmagan, qisqa va vaqtinchalik hisob-kitoblar uchun mo‘ljallangan kichik topshiriq turidir. Dasturchi undan ko‘pincha boshqa bir topshiriq ichida qiymat sifatida yoki qaytalagich bilan ishlashda foydalanadi. Bu usul bitikning ixcham bo‘lishini ta’minlaydi va topshiriqli dasturlov (FP) uslubida bitik yozishni osonlashtiradi. Garchi u nomsiz bo‘lsa-da, kerakli joyda chaqirilib, o‘ziga yuklatilgan vazifani darhol ijro etadi.
+**Nomsiz topşiriq** — bu muayyan bir nomga ega bölmagan, qisqa va vaqtinçalik hisob-kitoblar uçun möljallangan kiçik topşiriq turidir. Dasturçi undan köpinça boşqa bir topşiriq içida qiymat sifatida yoki qaytalagiç bilan işlaşda foydalanadi. Bu usul bitikning ihçam bölişini taminlaydi va topşiriqli dasturlov (FP) uslubida bitik yozişni osonlaştiradi. Garçi u nomsiz bölsa-da, kerakli joyda çaqirilib, öziga yuklatilgan vazifani darhol ijro etadi.
 
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- otsiz topshiriq
-- ismsiz topshiriq
+- otsiz topşiriq
+- ismsiz topşiriq

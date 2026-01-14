@@ -1,20 +1,20 @@
 # Quyma
 
-**Inglizcha:** Embedded<br>
-**Ruscha:** Встраиваемый<br>
+**Inglizça:** Embedded<br>
+**Rusça:** Встраиваемый<br>
 **Soha:** Dasturlov<br>
 **Aloqali:** Qurilma
 
-**Quyma** dastur – bu bilimsanar boʻlmagan qurilmalarning topshiriq va amaliyotlarini boshqarish uchun ularga bevosita kiritilgan ixtisoslashgan bitikdir. U cheklangan xotira, ijrochi quvvati va oniy holat cheklovlari bilan cheklangan holda, yuqori ishonchlilik va samaradorlik bilan maxsus topshiriqni bajarish uchun moʻljallangan. Aqlli soatda, avtomobilning ABS tizimida yoki aqlli muzlatgichda ishlaydigan bitiklar quyma dasturga misol boʻla oladi.
+**Quyma** dastur – bu bilimsanar bölmagan qurilmalarning topşiriq va amaliyotlarini boşqariş uçun ularga bevosita kiritilgan ihtisoslaşgan bitikdir. U çeklangan hotira, ijroçi quvvati va oniy holat çeklovlari bilan çeklangan holda, yuqori işonçlilik va samaradorlik bilan mahsus topşiriqni bajariş uçun möljallangan. Aqlli soatda, avtomobilning ABS tizimida yoki aqlli muzlatgiçda işlaydigan bitiklar quyma dasturga misol böla oladi.
 
 ### Oddiy dasturdan farqi
 
-Quyma dastur maʼlum bir qurilma qismi bilan bogʻlangan boʻlib, oniy holatda ishlashni ustuvor deb bilsa, oddiy dastur umumiy bilimsanarlarda moslashuvchan yuzlanma uchun moʻljallangan.
+Quyma dastur malum bir qurilma qismi bilan boğlangan bölib, oniy holatda işlaşni ustuvor deb bilsa, oddiy dastur umumiy bilimsanarlarda moslaşuvçan yuzlanma uçun möljallangan.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - yotqiziqli
 - qurilma dasturi
-- oʻrnatilgan dasturiy ta’minot
+- örnatilgan dasturiy taminot
 
-**Muallif**: Alisher Jalolov
+**Muallif**: Alişer Jalolov

@@ -1,11 +1,11 @@
-# Pogʻonalilik
+# Poğonalilik
 
-**Inglizcha:** Hierarchy<br>
-**Ruscha:** Иерархия<br>
+**Inglizça:** Hierarchy<br>
+**Rusça:** Иерархия<br>
 **Soha:** Dasturlov
 
-**Pogʻonalilik** — bu ma’lumotlar, yorliqlar yoki tizim qismlarining yuqoridan pastga qarab, ma’lum bir tobelik asosida tartiblanishidir. Jismli dasturlov (JD) yondashuvida bu tushuncha juda muhim boʻlib, u "ota" va "bola" jismlar oʻrtasidagi bogʻliqlikni, ya’ni merosxoʻrlikni ifodalaydi. Masalan, fayllar tizimidagi jildlar va ularning ichidagi inli hujjatlar yoki boʻlinimlar tuzilishi aynan pogʻonalilik tamoyiliga asoslanadi. Toʻgʻri tashkil etilgan pogʻonalilik murakkab dastur bitigini mantiqiy qismlarga ajratishga, zahiralarni boshqarishni osonlashtirishga va bitikning qayta ishlatilishini ta’minlashga xizmat qiladi.
+**Poğonalilik** — bu malumotlar, yorliqlar yoki tizim qismlarining yuqoridan pastga qarab, malum bir tobelik asosida tartiblanişidir. Jismli dasturlov (JD) yondaşuvida bu tuşunça juda muhim bölib, u "ota" va "bola" jismlar örtasidagi boğliqlikni, yani meroshörlikni ifodalaydi. Masalan, fayllar tizimidagi jildlar va ularning içidagi inli hujjatlar yoki bölinimlar tuzilişi aynan poğonalilik tamoyiliga asoslanadi. Töğri taşkil etilgan poğonalilik murakkab dastur bitigini mantiqiy qismlarga ajratişga, zahiralarni boşqarişni osonlaştirişga va bitikning qayta işlatilişini taminlaşga hizmat qiladi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - tabaqalilik

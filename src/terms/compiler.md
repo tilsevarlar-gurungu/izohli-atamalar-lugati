@@ -1,12 +1,12 @@
-# Tuzgich
+# Tuzgiç
 
-**Inglizcha:** Compiler<br>
-**Ruscha:** Компилятор<br>
+**Inglizça:** Compiler<br>
+**Rusça:** Компилятор<br>
 **Soha:** Dasturlov
 
-**Tuzgich** bilimsanar dasturining muhim vositasi boʻlib, u yuqori qatlamli bitikni bir urinishda toʻliq oʻqiydi, tahlil qiladi va uni quyi qatlamli bitik yoki toʻgʻridan-toʻgʻri mashina bitigiga oʻgiradi. Agʻdargichdan farqli oʻlaroq, tuzgich ijro etishdan oldin bitikning barchasini bajariqqa "tuzib chiqadi". Bu yakuniy fayl juda tez ishlaydi, chunki ijrochi uni qoʻshimcha aʻgdarishsiz bevosita ishga tushirishi mumkin. Biroq, tuzgich bitikdagi har qanday xatoni topmaguncha dasturni ishga tushirib boʻlmaydi.
+**Tuzgiç** bilimsanar dasturining muhim vositasi bölib, u yuqori qatlamli bitikni bir urinişda töliq öqiydi, tahlil qiladi va uni quyi qatlamli bitik yoki töğridan-töğri maşina bitigiga ögiradi. Ağdargiçdan farqli ölaroq, tuzgiç ijro etişdan oldin bitikning barçasini bajariqqa "tuzib çiqadi". Bu yakuniy fayl juda tez işlaydi, çunki ijroçi uni qöşimça ağdarişsiz bevosita işga tuşirişi mumkin. Biroq, tuzgiç bitikdagi har qanday hatoni topmagunça dasturni işga tuşirib bölmaydi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - kompilyator
-- oʻgirgich
+- ögirgiç

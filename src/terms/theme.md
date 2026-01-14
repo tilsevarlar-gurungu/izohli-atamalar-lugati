@@ -1,13 +1,13 @@
-# Toʻn
+# Tön
 
-**Inglizcha:** Theme<br>
-**Ruscha:** Тема<br>
+**Inglizça:** Theme<br>
+**Rusça:** Тема<br>
 **Soha:** Dasturlov
 
-**Toʻn** - foydalanuvchi yuzlanmasi dizaynida dastur yoki operatsion tizimning butun tasviriy koʻrinishini belgilaydigan moslamalar toʻplamidir. Toʻn kiydirish esa ushbu koʻrinishni qoʻllash yoki moslashtirish jarayonidir. Toʻnlar shunchaki ortmanzarani oʻzgartirishdan tashqari, har bir element (tugmalar va roʻyxatlar kabi) uchun ranglar, fontlar, belgilar, boʻshliqlar va tasviriy uslubni belgilaydi. Eng keng tarqalgan misollar: *toʻq toʻn*, bu kam yorugʻlikda koʻz zoʻriqishini kamaytirish uchun toʻq ortmanzarada yorugʻ matndan foydalanadi, va *toʻn*, bu qogʻozdagi bosmani taqlid qilib, och ortkoʻrinishda toʻq matndan foydalanadi.
+**Tön** - foydalanuvçi yuzlanmasi dizaynida dastur yoki operatsion tizimning butun tasviriy körinişini belgilaydigan moslamalar töplamidir. Tön kiydiriş esa uşbu körinişni qöllaş yoki moslaştiriş jarayonidir. Tönlar şunçaki ortmanzarani özgartirişdan taşqari, har bir element (tugmalar va röyhatlar kabi) uçun ranglar, fontlar, belgilar, böşliqlar va tasviriy uslubni belgilaydi. Eng keng tarqalgan misollar: *töq tön*, bu kam yoruğlikda köz zöriqişini kamaytiriş uçun töq ortmanzarada yoruğ matndan foydalanadi, va *tön*, bu qoğozdagi bosmani taqlid qilib, oç ortkörinişda töq matndan foydalanadi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- shakl
+- şakl
 - mavzu
 - tema

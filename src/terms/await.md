@@ -1,11 +1,11 @@
 # Poylov
 
-**Inglizcha:** Await<br>
-**Ruscha:** Ожидание<br>
+**Inglizça:** Await<br>
+**Rusça:** Ожидание<br>
 **Soha:** Dasturlov
 
-Navbatsiz ijro jarayonida muayyan bir topshiriq natijasini kutish uchun **poylov** tushunchasidan foydalaniladi. Bu usul bitik ichida uzoq vaqt oladigan amal (masalan, xotiradan katta ma’lumotni oʻqish) bajarilayotganida, dasturning boshqa qismlari ishlashdan toʻxtab qolmasligini ta’minlaydi. Ya’ni, Markaziy Ijro Bo‘linmasi ushbu natija tayyor boʻlguncha boshqa foydali ishlar bilan band boʻladi. Natija tayyor boʻlgach, jarayon toʻxtagan joyidan davom etadi. Bu yondashuv bilimsanar zahiralarini tejash va tizimning silliq ishlashi uchun juda qadrlidir.
+Navbatsiz ijro jarayonida muayyan bir topşiriq natijasini kutiş uçun **poylov** tuşunçasidan foydalaniladi. Bu usul bitik içida uzoq vaqt oladigan amal (masalan, hotiradan katta malumotni öqiş) bajarilayotganida, dasturning boşqa qismlari işlaşdan töhtab qolmasligini taminlaydi. Yani, Markaziy Ijro Bölinmasi uşbu natija tayyor bölgunça boşqa foydali işlar bilan band böladi. Natija tayyor bölgaç, jarayon töhtagan joyidan davom etadi. Bu yondaşuv bilimsanar zahiralarini tejaş va tizimning silliq işlaşi uçun juda qadrlidir.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - kutuv

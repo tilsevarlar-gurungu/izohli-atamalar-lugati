@@ -1,14 +1,14 @@
-# Topshiriq Murvati
+# Topşiriq Murvati
 
-**Inglizcha:** Function Parameter<br>
-**Ruscha:** Параметр функции<br>
+**Inglizça:** Function Parameter<br>
+**Rusça:** Параметр функции<br>
 **Soha:** Dasturlov
 
-**Topshiriq murvati** — bu biror topshiriq bajarilishi uchun tashqaridan qabul qilinishi kerak boʻlgan ma’lumotning ta’rifdagi oʻrnidir. Topshiriqli Dasturlov (TD) yondashuvida bu tushuncha juda muhim, chunki u topshiriqni har safar har xil ma’lumotlar bilan ishlashga qodir, umumiy koʻrinishga keltiradi.
+**Topşiriq murvati** — bu biror topşiriq bajarilişi uçun taşqaridan qabul qilinişi kerak bölgan malumotning tarifdagi örnidir. Topşiriqli Dasturlov (TD) yondaşuvida bu tuşunça juda muhim, çunki u topşiriqni har safar har hil malumotlar bilan işlaşga qodir, umumiy körinişga keltiradi.
 
-Topshiriq murvati topshiriq e’lon qilinayotganda (ya’ni uning ta’rifida) qavslar ichida yoziladi va u oʻziga xos yorliq vazifasini oʻtaydi. Dastur ishga tushib, topshiriq chaqirilganda, ushbu oʻringa haqiqiy qiymat beriladi. Agar dastur barqaror-jinsli tilda yozilgan boʻlsа, har bir topshiriq murvatining oʻziga xos ma’lumot jinsi (masalan, son yoki jumla) boʻlishi shart, bu esa tuzuv jarayonida xatolarning oldini oladi.
+Topşiriq murvati topşiriq elon qilinayotganda (yani uning tarifida) qavslar içida yoziladi va u öziga hos yorliq vazifasini ötaydi. Dastur işga tuşib, topşiriq çaqirilganda, uşbu öringa haqiqiy qiymat beriladi. Agar dastur barqaror-jinsli tilda yozilgan bölsa, har bir topşiriq murvatining öziga hos malumot jinsi (masalan, son yoki jumla) bölişi şart, bu esa tuzuv jarayonida hatolarning oldini oladi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- topshiriq parametri
-- topshiriq talabi
+- topşiriq parametri
+- topşiriq talabi

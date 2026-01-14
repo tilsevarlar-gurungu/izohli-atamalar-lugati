@@ -1,12 +1,12 @@
 # Bitik
 
-**Inglizcha:** Code<br>
-**Ruscha:** Код<br>
+**Inglizça:** Code<br>
+**Rusça:** Код<br>
 **Soha:** Dasturlov
 
-**Bitik** bilimsanar tizimiga bajarilishi lozim boʻlgan amallar ketma-ketligini aniq belgilovchi mantiqiy koʻrsatmalar majmuidir. Bu, aslida, ma’lum bir hisoblash muammosini hal qilish uchun moʻljallangan alxorazmaning bilimsanar tushunadigan tilda yozilgan rasmiy ifodasidir. Dasturchilar yuqori qatlamli tillar (masalan, Python, Java) yordamida bitik yozadilar, soʻngra bu bitik maxsus agʻdargichlar yordamida bilimsanarning ijrochi toʻgʻridan-toʻgʻri tushunadigan ikkilik tizimga oʻgiradi. Bitikning sifati va tuzilishi dasturning ishonchliligi, samaradorligi va tezligini belgilab beruvchi asosiy omildir.
+**Bitik** bilimsanar tizimiga bajarilişi lozim bölgan amallar ketma-ketligini aniq belgilovçi mantiqiy körsatmalar majmuidir. Bu, aslida, malum bir hisoblaş muammosini hal qiliş uçun möljallangan alhorazmaning bilimsanar tuşunadigan tilda yozilgan rasmiy ifodasidir. Dasturçilar yuqori qatlamli tillar (masalan, Python, Java) yordamida bitik yozadilar, söngra bu bitik mahsus ağdargiçlar yordamida bilimsanarning ijroçi töğridan-töğri tuşunadigan ikkilik tizimga ögiradi. Bitikning sifati va tuzilişi dasturning işonçliligi, samaradorligi va tezligini belgilab beruvçi asosiy omildir.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - kod
 - yozuv

@@ -1,13 +1,13 @@
 # Biriktirma
 
-**Inglizcha:** Dictionary<br>
-**Ruscha:** Ассоциативный массив<br>
+**Inglizça:** Dictionary<br>
+**Rusça:** Ассоциативный массив<br>
 **Soha:** Dasturlov
 
-**Biriktirma** bilimsanar fanida ma’lumotlarni saqlash va ularga kirishni tezlashtirish uchun ishlatiladigan muhim maʼlumotlar tuzilmasidir. U kalit va unga mos keladigan qiymat juftliklaridan tashkil topgan boʻlib, har bir kalit noyobdir. Biriktirmada ma’lumotlarni qidirish, qoʻshish va oʻchirish jarayonlari, odatda, \\(O(1)\\) ("bir" doimiy vaqt) murakkablikda amalga oshiriladi, bu esa uni katta hajmdagi maʼlumotlar bilan ishlashda juda samarali qiladi. Bu samaradorlik kalitni qiymat saqlangan xotira manziliga aylantiradigan qiymalovchi topshiriq yordamida erishiladi, garchi ba’zida toʻqnashuvlar (ikki xil kalit bir xil manzilni koʻrsatishi) yuz berishi mumkin boʻlsa-da, ular maxsus usullar bilan hal qilinadi. Shuning uchun, biriktirmalar dasturlovda, masalan, tezkor qidiruv jadvallarini yaratishda yoki ma’lumotlar bazalarini oʻrinlovda keng qoʻllaniladi.
+**Biriktirma** bilimsanar fanida malumotlarni saqlaş va ularga kirişni tezlaştiriş uçun işlatiladigan muhim malumotlar tuzilmasidir. U kalit va unga mos keladigan qiymat juftliklaridan taşkil topgan bölib, har bir kalit noyobdir. Biriktirmada malumotlarni qidiriş, qöşiş va öçiriş jarayonlari, odatda, \\(O(1)\\) ("bir" doimiy vaqt) murakkablikda amalga oşiriladi, bu esa uni katta hajmdagi malumotlar bilan işlaşda juda samarali qiladi. Bu samaradorlik kalitni qiymat saqlangan hotira manziliga aylantiradigan qiymalovçi topşiriq yordamida erişiladi, garçi bazida töqnaşuvlar (ikki hil kalit bir hil manzilni körsatişi) yuz berişi mumkin bölsa-da, ular mahsus usullar bilan hal qilinadi. Şuning uçun, biriktirmalar dasturlovda, masalan, tezkor qidiruv jadvallarini yaratişda yoki malumotlar bazalarini örinlovda keng qöllaniladi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- gʻaladon
+- ğaladon
 - kalitli tizma
-- xarita
+- harita

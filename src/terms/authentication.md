@@ -1,11 +1,11 @@
 # Kimligini Tasdiqlov
 
-**Inglizcha:** Authentication<br>
-**Ruscha:** Аутентификация<br>
+**Inglizça:** Authentication<br>
+**Rusça:** Аутентификация<br>
 **Soha:** Dasturlov
 
-**Kimligini Tasdiqlov** jarayoni bilimsanar xavfsizligining eng asosiy qismidir. Bu jarayonda tizim foydalanuvchining haqiqatda o‘zi ekanligini tekshiradi. Odatda bu maxsus bitiklar yordamida o‘ronlar, barmoq izlari yoki kalitlar orqali amalga oshiriladi. Kimligini Tasdiqlov muvaffaqiyatli o‘tgandan keyingina foydalanuvchiga muayyan xazina yoki ma’lumotlar bilan ishlash uchun vakolat beruv amalga oshiriladi. Bu esa mahramlilik qoidalarini saqlash va tizimga begonalarning kirishini oldini olish uchun xizmat qiladi.
+**Kimligini Tasdiqlov** jarayoni bilimsanar havfsizligining eng asosiy qismidir. Bu jarayonda tizim foydalanuvçining haqiqatda özi ekanligini tekşiradi. Odatda bu mahsus bitiklar yordamida öronlar, barmoq izlari yoki kalitlar orqali amalga oşiriladi. Kimligini Tasdiqlov muvaffaqiyatli ötgandan keyingina foydalanuvçiga muayyan hazina yoki malumotlar bilan işlaş uçun vakolat beruv amalga oşiriladi. Bu esa mahramlilik qoidalarini saqlaş va tizimga begonalarning kirişini oldini oliş uçun hizmat qiladi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- shaxsni tasdiqlov
+- şahsni tasdiqlov

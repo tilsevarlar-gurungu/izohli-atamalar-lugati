@@ -1,0 +1,28 @@
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+<style>
+  /* Hide the body IMMEDIATELY. 
+     We use opacity: 0 so the transition 
+     can work later in extra.css 
+  */
+  .fonts-loading body {
+    opacity: 0 !important;
+  }
+</style>
+
+<script>
+  // Add a class to the HTML tag while loading
+  document.documentElement.classList.add('fonts-loading');
+
+  // Wait for EB Garamond to be fully ready
+  document.fonts.load('1rem "EB Garamond"').then(() => {
+    document.documentElement.classList.remove('fonts-loading');
+  });
+
+  // Safety timeout: If font fails to load in 1.5s, show text anyway
+  setTimeout(() => {
+    document.documentElement.classList.remove('fonts-loading');
+  }, 1500);
+</script>

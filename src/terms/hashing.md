@@ -1,13 +1,13 @@
 # Qiymalov
 
-**Inglizcha:** Hashing<br>
-**Ruscha:** Хеширование<br>
+**Inglizça:** Hashing<br>
+**Rusça:** Хеширование<br>
 **Soha:** Dasturlov
 
-**Qiymalov** — bu har qanday hajmdagi ma’lumotni (masalan, foydalanuvchi kiritgan oʻronni) o‘zgarmas uzunlikdagi maxsus belgilar ketma-ketligiga aylantirib beruvchi bir tomonlama matematik jarayon boʻlib, u ma’lumotlarning xavfsizligi va izchilligini ta’minlashda markaziy oʻrin tutadi. Bu usulning o‘ziga xosligi shundaki, olingan qiymalovchi natijadan asl ma’lumotni qayta tiklash imkonsizdir va hattoki kiritilgan ma’lumotdagi bitta kichik belgi o‘zgarishi ham butunlay boshqacha natija beradi. Boshqaruv tizimi yoki dastur foydalanuvchi ma’lumotlarini saqlashda aynan shu texnologiyadan foydalanadi, natijada hatto zahiralarga ruxsatsiz kirish imkoni boʻlganda ham asl oʻronlar maxfiyligicha qoladi.
+**Qiymalov** — bu har qanday hajmdagi malumotni (masalan, foydalanuvçi kiritgan öronni) özgarmas uzunlikdagi mahsus belgilar ketma-ketligiga aylantirib beruvçi bir tomonlama matematik jarayon bölib, u malumotlarning havfsizligi va izçilligini taminlaşda markaziy örin tutadi. Bu usulning öziga hosligi şundaki, olingan qiymalovçi natijadan asl malumotni qayta tiklaş imkonsizdir va hattoki kiritilgan malumotdagi bitta kiçik belgi özgarişi ham butunlay boşqaça natija beradi. Boşqaruv tizimi yoki dastur foydalanuvçi malumotlarini saqlaşda aynan şu tehnologiyadan foydalanadi, natijada hatto zahiralarga ruhsatsiz kiriş imkoni bölganda ham asl öronlar mahfiyligiça qoladi.
 
-Qiymalov atamasi oʻzbek tilida goʻshtni maydalab "qiyma" qilish ma’nosidan kelib chiqqan boʻlib, bu jarayon oʻronlarni himoya qilishda juda oʻrinli qoʻllaniladi: goʻsht maydalanib qiyma boʻlgach, uni qanday boʻlaklardan iborat boʻlganini bilish mumkin boʻlsa-da, uni qaytadan asl goʻsht boʻlagi holiga keltirib boʻlmagani kabi, qiymalovchi topshiriq ham ma’lumotlarni shunday "chopib" tashlaydiki, natijadan asl oʻronni tiklash imkonsiz boʻlib qoladi. Ushbu usul zahiralarni himoya qilish uchun ishlatilishining sababi shundaki, dastur bazasida foydalanuvchining haqiqiy oʻroni emas, balki uning "qiymalangan" nusxasi saqlanadi; bu esa hatto tizimda nuqson tufayli ma’lumotlar sizib chiqqanda ham, tajovuzkorlar asl belgilarni bilib ololmasligini ta’minlaydi. Shunday qilib, ma’lumotlarni matematik "chopish" orqali ularning qaytmasligini kafolatlash qiymalov jarayonining asosi hisoblanadi.
+Qiymalov atamasi özbek tilida göştni maydalab "qiyma" qiliş manosidan kelib çiqqan bölib, bu jarayon öronlarni himoya qilişda juda örinli qöllaniladi: göşt maydalanib qiyma bölgaç, uni qanday bölaklardan iborat bölganini biliş mumkin bölsa-da, uni qaytadan asl göşt bölagi holiga keltirib bölmagani kabi, qiymalovçi topşiriq ham malumotlarni şunday "çopib" taşlaydiki, natijadan asl öronni tiklaş imkonsiz bölib qoladi. Uşbu usul zahiralarni himoya qiliş uçun işlatilişining sababi şundaki, dastur bazasida foydalanuvçining haqiqiy öroni emas, balki uning "qiymalangan" nushasi saqlanadi; bu esa hatto tizimda nuqson tufayli malumotlar sizib çiqqanda ham, tajovuzkorlar asl belgilarni bilib ololmasligini taminlaydi. Şunday qilib, malumotlarni matematik "çopiş" orqali ularning qaytmasligini kafolatlaş qiymalov jarayonining asosi hisoblanadi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- heshlov
+- heşlov

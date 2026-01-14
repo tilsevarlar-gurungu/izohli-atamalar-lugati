@@ -1,14 +1,14 @@
-# Maxfiylik
+# Mahfiylik
 
-**Inglizcha:** Privacy<br>
-**Ruscha:** Конфиденциальность<br>
-**Soha:** Xavfsizlik
+**Inglizça:** Privacy<br>
+**Rusça:** Конфиденциальность<br>
+**Soha:** Havfsizlik
 
-**Maxfiylik** — bu shaxsiy yoki tizim ma’lumotlariga kimlar, qachon va qaysi darajada kirishi mumkinligini nazorat qilish huquqi hamda jarayonidir. Dastur va tizimlar yaratilayotganda foydalanuvchi ma’lumotlarining ruxsatsiz shaxslardan himoyalanganligi, ularning boshqa bo‘linimlarga yoki uchinchi tomonlarga ochiqlanmasligi loyihalashning asosiy sharti hisoblanadi. Boshqaruv tizimi doirasida maxfiylikni ta’minlash uchun kirish huquqlarini cheklash, ma’lumotlarni qiymalovchi usullar bilan himoyalash va zahiralarga faqat vakolatli shaxslargagina ruxsat berish kabi choralar ko‘riladi. Bu tushuncha nafaqat texnik, balki huquqiy va axloqiy me’yorlarni ham o‘z ichiga olib, raqamli olamda shaxsiy daxlsizlikni saqlashga xizmat qiladi.
+**Mahfiylik** — bu şahsiy yoki tizim malumotlariga kimlar, qaçon va qaysi darajada kirişi mumkinligini nazorat qiliş huquqi hamda jarayonidir. Dastur va tizimlar yaratilayotganda foydalanuvçi malumotlarining ruhsatsiz şahslardan himoyalanganligi, ularning boşqa bölinimlarga yoki uçinçi tomonlarga oçiqlanmasligi loyihalaşning asosiy şarti hisoblanadi. Boşqaruv tizimi doirasida mahfiylikni taminlaş uçun kiriş huquqlarini çeklaş, malumotlarni qiymalovçi usullar bilan himoyalaş va zahiralarga faqat vakolatli şahslargagina ruhsat beriş kabi çoralar köriladi. Bu tuşunça nafaqat tehnik, balki huquqiy va ahloqiy meyorlarni ham öz içiga olib, raqamli olamda şahsiy dahlsizlikni saqlaşga hizmat qiladi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- shaxsiylik
-- xususiylik
-- oʻzlik
+- şahsiylik
+- hususiylik
+- özlik
 - mahramlilik

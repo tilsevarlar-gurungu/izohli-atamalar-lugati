@@ -11,16 +11,16 @@ fn sina_orinlovchi_korsatkich_yaratadi_va_sahifalarga_kirgizadimi() {
 
     // 1. Oʻchmas xotirada kitob SUMMARY'sida yoʻq atama faylini yarat
     let atama_matni = r#"# Algoritm
-**Inglizcha:** Algorithm
-**Ruscha:** Алгоритм
+**Inglizça:** Algorithm
+**Rusça:** Алгоритм
 **Soha:** Informatika"#;
     fs::write(terms_yolagi.join("algoritm.md"), atama_matni).unwrap();
 
     // 2. Koʻrsatkich uchun oʻrinni ushlab turuvchisi bor kitob yarat
     let mut kitob = Book::new();
     kitob.sections.push(BookItem::Chapter(Chapter::new(
-        "Bosh Sahifa",
-        "Oʻrin ushlab turuvchi matn".to_string(),
+        "Boş Sahifa",
+        "Örin uşlab turuvçhi matn".to_string(),
         PathBuf::from("terms.md"),
         vec![],
     )));
@@ -80,14 +80,14 @@ fn sina_orinlovchi_qisqartma_va_pogonalarni_yuritadimi() {
     fs::create_dir(&terms_yolagi).unwrap();
 
     let ota_matn = r#"# API
-**Inglizcha:** Application Programming Interface
-**Ruscha:** API
+**Inglizça:** Application Programming Interface
+**Rusça:** API
 **Qisqartma:** API"#;
     fs::write(terms_yolagi.join("api.md"), ota_matn).unwrap();
 
     let bola_matn = r#"# REST API
-**Inglizcha:** REST API
-**Ruscha:** REST API
+**Inglizça:** REST API
+**Rusça:** REST API
 **Ota-atama:** API"#;
     fs::write(terms_yolagi.join("rest.md"), bola_matn).unwrap();
 
@@ -101,7 +101,7 @@ fn sina_orinlovchi_qisqartma_va_pogonalarni_yuritadimi() {
         .iter()
         .find(|unsur| {
             if let BookItem::Chapter(bob) = unsur {
-                bob.name == "Oʻzbekcha - Inglizcha - Ruscha Koʻrsatkich"
+                bob.name == "Özbekça - Inglizça - Rusça Körsatkiç"
             } else {
                 false
             }

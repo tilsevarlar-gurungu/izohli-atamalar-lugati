@@ -1,40 +1,40 @@
-# Alxorazma
+# Alhorazma
 
-**Inglizcha:** Algorithm<br>
-**Ruscha:** Алгоритм<br>
+**Inglizça:** Algorithm<br>
+**Rusça:** Алгоритм<br>
 **Soha:** Dasturlov<br>
 **Ota-atama:** Bilimsanar
 
-**Alxorazma** – bu aniq bir muammoni hal qilish yoki hisob-kitobni amalga
-oshirish uchun moʻljallangan, oʻz-oʻzidan toʻliq boʻlgan, bosqichlar
-yoki qoidalar ketma-ketligidir. Bilimsanar fanlarida alxorazmalar kiritiluvchi
-maʼlumotlarni tartiblangan, cheklangan amaliyotlar ketma-ketligi orqali kerakli
-natijaga aylantiradigan dastur bajarilishi uchun asosiy reja vazifasini oʻtaydi.
-Bu atama tarixiy ildizlarga ega boʻlib, buyuk IX asr matematigi
-Muhammad ibn Muso al-Xorazmiyning ismining lotin shakli – *Algoritmi*dan kelib
-chiqqan. Uning arab raqamlari va hisoblash usullari haqidagi ta’sirli risolasi
-Gʻarbga tizimli matematik tartiblarni olib kirdi, bu esa keyinchalik zamonaviy
-alxorazma tushunchasining paydo boʻlishiga sabab boʻldi.
+**Alhorazma** – bu aniq bir muammoni hal qiliş yoki hisob-kitobni amalga
+oşiriş uçun möljallangan, öz-özidan töliq bölgan, bosqiçlar
+yoki qoidalar ketma-ketligidir. Bilimsanar fanlarida alhorazmalar kiritiluvçi
+malumotlarni tartiblangan, çeklangan amaliyotlar ketma-ketligi orqali kerakli
+natijaga aylantiradigan dastur bajarilişi uçun asosiy reja vazifasini ötaydi.
+Bu atama tarihiy ildizlarga ega bölib, buyuk IX asr qomusiy olimi
+Muhammad ibn Muso al-Horazmiy ismining lotin şakli – *Algoritmi*'dan kelib
+çiqqan. Uning arab raqamlari va hisoblaş usullari haqidagi maşhur risolasi
+Ğarbga tizimli matematik tartiblarni olib kirdi, bu esa keyinçalik zamonaviy
+alhorazma tuşunçasining paydo bölişiga sabab böldi.
 
-**Alxorazma** kundalik hayotimizning ajralmas qismidir. Masalan, Oʻzbekistonning
-milliy taomi – palov tayyorlash jarayoni ham mukammal bir alxorazmadir. Bu
-jarayon aniq qadamlarga boʻlinadi: avval goʻsht va sabzi qovuriladi
-(zirvakni tayyorlash), keyin guruch qoʻshiladi va suv solinadi. Har bir bosqich
-oʻzining qatʼiy qoidalariga amal qiladi. Agar biror qadam oʻtkazib yuborilsa
-yoki tartibi buzilsa, natija – mazali palov hosil boʻlmasligi mumkin. Demak,
-palov tayyorlash uchun zarur boʻlgan masalliqlar maʼlum bir tartibda
-(alxorazma asosida) qayta ishlanib, oxirida mukammal taom (natija) yaratiladi.
+**Alhorazma** kundalik hayotimizning ajralmas qismidir. Masalan, Özbekiston'ning
+milliy taomi – palov tayyorlaş jarayoni ham mukammal bir alhorazmadir. Bu
+jarayon aniq qadamlarga bölinadi: avval göşt va sabzi qovuriladi
+(zirvakni tayyorlaş), keyin guruç qöşiladi va suv solinadi. Har bir bosqiç
+özining qatiy qoidalariga amal qiladi. Agar biror qadam ötkazib yuborilsa
+yoki tartibi buzilsa, natija – mazali palov hosil bölmasligi mumkin. Demak,
+palov tayyorlaş uçun zarur bölgan masalliqlar malum bir tartibda
+(alhorazma asosida) qayta işlanib, ohirida mukammal taom (natija) yaratiladi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - algoritm
-- alxorizm
-- alxorizma
+- alhorizm
+- alhorizma
 
 ## Nega bu atama tanlandi?
 
-Oʻzbekistonda juda kamchilik insonlar inglizcha *algorithm* atamasi
-al-Xorazmiy nomi bilan bogʻliqligini biladi. Bu haqiqatni ommalashtirish uchun
-eng samarali usul - oʻsha atamani al-Xorazmiyning ismiga yaqinlashtirish. Shoyadki,
-uni eshitgan odamlar "iya, bu Xorazm degan soʻzga oʻxsharkan" deb taajjubga
-tushishadi va bir umrga eslab qolishadi.
+Özbekiston'da juda kamçilik insonlar inglizça *algorithm* atamasi
+al-Horazmiy nomi bilan boğliqligini biladi. Bu haqiqatni ommalaştiriş uçun
+eng samarali usul - öşa atamani al-Horazmiy'ning ismiga yaqinlaştiriş. Şoyadki,
+uni eşitgan odamlar "iya, bu Horazm degan sözga öhşarkan" deb taajjubga
+tuşişadi va bir umrga eslab qolişadi.

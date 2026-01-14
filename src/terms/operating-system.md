@@ -1,20 +1,20 @@
-# Boshqaruv Tizimi
+# Boşqaruv Tizimi
 
-**Inglizcha:** Operating System (OS)<br>
-**Ruscha:** Операционная Система (ОС)<br>
+**Inglizça:** Operating System (OS)<br>
+**Rusça:** Операционная Система (ОС)<br>
 **Qisqartma:** BT<br>
 **Soha:** Qurilma
 
-**Boshqaruv Tizimi** — bu bilimsanar qurilma quyma dasturi va foydalanuvchi oʻrtasidagi asosiy bogʻlovchi boʻgʻin boʻlib, barcha zahiralarni boshqaradigan maxsus dasturiy majmuadir. Uning markazida magʻiz joylashgan boʻlib, u Markaziy Ijro Bo‘linmasi vaqtini taqsimlash, xotirani boshqarish hamda fayllar tizimini tartibga solish kabi hayotiy muhim topshiriqlarni bajaradi. Boshqaruv tizimi boʻlmasa, kalittaxtadan kiritilgan har bir kiritma yoki ekranga chiqariladigan har bir bit uchun dasturchi boshidan murakkab bitiklar yozishiga toʻgʻri kelgan boʻlar edi.
+**Boşqaruv Tizimi** — bu bilimsanar qurilma quyma dasturi va foydalanuvçi örtasidagi asosiy boğlovçi böğin bölib, barça zahiralarni boşqaradigan mahsus dasturiy majmuadir. Uning markazida mağiz joylaşgan bölib, u Markaziy Ijro Bölinmasi vaqtini taqsimlaş, hotirani boşqariş hamda fayllar tizimini tartibga soliş kabi hayotiy muhim topşiriqlarni bajaradi. Boşqaruv tizimi bölmasa, kalittahtadan kiritilgan har bir kiritma yoki ekranga çiqariladigan har bir bit uçun dasturçi boşidan murakkab bitiklar yozişiga töğri kelgan bölar edi.
 
-### Boshqaruv tizimining asosiy vazifalari:
+### Boşqaruv tizimining asosiy vazifalari:
 
-- *Zahiralarni taqsimlash:* Qaysi dastur qancha xotira va hisoblash quvvati olishini belgilaydi.
-- *Jarayonlarni boshqarish:* Bir vaqtning oʻzida koʻp-qoʻllilikni taʻminlaydi.
-- *Xavfsizlik:* Turli foydalanuvchilar va boʻlinimlar oʻrtasidagi ma’lumotlar himoyasini kafolatlaydi.
+- *Zahiralarni taqsimlaş:* Qaysi dastur qança hotira va hisoblaş quvvati olişini belgilaydi.
+- *Jarayonlarni boşqariş:* Bir vaqtning özida köp-qöllilikni taminlaydi.
+- *Havfsizlik:* Turli foydalanuvçilar va bölinimlar örtasidagi malumotlar himoyasini kafolatlaydi.
 
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - operatsion tizim
 - amaliyot tizimi

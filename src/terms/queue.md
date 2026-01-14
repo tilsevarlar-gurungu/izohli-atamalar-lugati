@@ -1,13 +1,13 @@
 # Navbat
 
-**Inglizcha:** Queue<br>
-**Ruscha:** Очередь<br>
-**Aloqali:** Ilk Kirgan Ilk Chiqar<br>
+**Inglizça:** Queue<br>
+**Rusça:** Очередь<br>
+**Aloqali:** Ilk Kirgan Ilk Çiqar<br>
 **Soha:** Dasturlov
 
-**Navbat** — bu ma’lumotlar bilan ishlashda kiritilgan tartib boʻyicha ketma-ketlikni ta’minlovchi tizmadir. Dasturlashda bu tizma shunday ishlaydiki, unga birinchi boʻlib kirgan ma’lumot har doim birinchi boʻlib chiqib ketadi (IKICh). Masalan, markaziy ijro boʻlinmasi (MIB) topshiriqlarni bajarishda ushbu tizmadan foydalanadi, ya’ni navbatli ijro jarayonida har bir bitik oʻz vaqtida zahira bilan ta’minlanadi va tartib bilan qayta ishlanadi.
+**Navbat** — bu malumotlar bilan işlaşda kiritilgan tartib böyiça ketma-ketlikni taminlovçi tizmadir. Dasturlaşda bu tizma şunday işlaydiki, unga birinçi bölib kirgan malumot har doim birinçi bölib çiqib ketadi (IKIÇ). Masalan, markaziy ijro bölinmasi (MIB) topşiriqlarni bajarişda uşbu tizmadan foydalanadi, yani navbatli ijro jarayonida har bir bitik öz vaqtida zahira bilan taminlanadi va tartib bilan qayta işlanadi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - saf
 - qator

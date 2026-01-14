@@ -1,14 +1,14 @@
-# Kulgich
+# Kulgiç
 
-**Inglizcha:** Emoticon<br>
-**Ruscha:** Смайлик<br>
+**Inglizça:** Emoticon<br>
+**Rusça:** Смайлик<br>
 **Soha:** Matn<br>
 
-**Kulgich** atamasi inglizcha "emotion" (hissiyot) va "icon" (belgi) so‘zlaridan kelib chiqqan bo‘lib, yozma nutqda hissiyotlarni ifodalash uchun qo‘llanadi. Ular oddiy kalittaxta belgilari va tinish belgilarining ketma-ketligidan yasaladi (masalan, tabassum uchun `:-)` yoki ko‘z qisish uchun `;-)`). Kulgichlar 1982-yilda bilimsanar orqali muloqotda hazilni jiddiylikdan ajratish uchun o‘ylab topilgan va raqamli muloqotning eng birinchi vositalaridan biri bo‘lgan.
+**Kulgiç** atamasi inglizça "emotion" (hissiyot) va "icon" (belgi) sözlaridan kelib çiqqan bölib, yozma nutqda hissiyotlarni ifodalaş uçun qöllanadi. Ular oddiy kalittahta belgilari va tiniş belgilarining ketma-ketligidan yasaladi (masalan, tabassum uçun `:-)` yoki köz qisiş uçun `;-)`). Kulgiçlar 1982-yilda bilimsanar orqali muloqotda hazilni jiddiylikdan ajratiş uçun öylab topilgan va raqamli muloqotning eng birinçi vositalaridan biri bölgan.
 
-Shuni ta’kidlash kerakki, kalittaxta belgilaridan yasalgan bu kulgichlar zamonaviy hisbelgilardan tubdan farq qiladi. Kulgichlar faqat matnli belgilar to‘plami bo‘lsa, hisbelgilar tayyor harf tasvirlardir (masalan, 😀 yoki 😉). Shuningdek, hisbelgi (emoji) so‘zi yaponcha "tasviriy belgi" degan ma’noni anglatadi va uning "hissiyot" (emotion) so‘zi bilan hech qanday bog‘liqligi yo‘q. Bugungi kunda bu ikki tushuncha ko‘pincha aralashtirib yuborilsa-da, hisbelgilar nafaqat kulayotgan yuzlarni, balki turli xil narsalarni — masalan, quyosh ☀️, mashina 🚗 yoki ovqat 🍎 kabi jismlarni ham ifodalashi bilan ajralib turadi.
+Şuni takidlaş kerakki, kalittahta belgilaridan yasalgan bu kulgiçlar zamonaviy hisbelgilardan tubdan farq qiladi. Kulgiçlar faqat matnli belgilar töplami bölsa, hisbelgilar tayyor harf tasvirlardir (masalan, 😀 yoki 😉). Şuningdek, hisbelgi (emoji) sözi yaponça "tasviriy belgi" degan manoni anglatadi va uning "hissiyot" (emotion) sözi bilan heç qanday boğliqligi yöq. Bugungi kunda bu ikki tuşunça köpinça aralaştirib yuborilsa-da, hisbelgilar nafaqat kulayotgan yuzlarni, balki turli hil narsalarni — masalan, quyoş ☀️, maşina 🚗 yoki ovqat 🍎 kabi jismlarni ham ifodalaşi bilan ajralib turadi.
 
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - smaylik

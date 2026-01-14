@@ -1,12 +1,12 @@
 # Bitim
 
-**Inglizcha:** Interface<br>
-**Ruscha:** Интерфейс<br>
+**Inglizça:** Interface<br>
+**Rusça:** Интерфейс<br>
 **Soha:** Jismli Dasturlov
 
-**Bitim** — bu Jismli Dasturlovda biror surat bajarishi shart bo‘lgan amallar to‘plamini belgilovchi qoidalar to‘plamidir. U o‘zida hech qanday tayyor bitikni saqlamaydi, balki faqat qaysi topshiriqlar mavjud bo‘lishi kerakligini e’lon qiladi. Boshqacha aytganda, bitim — bu shartnoma: agar biror surat ushbu bitimga amal qilsa, u undagi barcha amallarni o‘zida mujassam etishga va’da beradi. Bu usul dastur me’morchiligida turlicha boʻlgan jismlar bilan bir xil uslubda muloqot qilish va tizimni kengaytirishni osonlashtiradi.
+**Bitim** — bu Jismli Dasturlovda biror surat bajarişi şart bölgan amallar töplamini belgilovçi qoidalar töplamidir. U özida heç qanday tayyor bitikni saqlamaydi, balki faqat qaysi topşiriqlar mavjud bölişi kerakligini elon qiladi. Boşqaça aytganda, bitim — bu şartnoma: agar biror surat uşbu bitimga amal qilsa, u undagi barça amallarni özida mujassam etişga vada beradi. Bu usul dastur memorçiligida turliça bölgan jismlar bilan bir hil uslubda muloqot qiliş va tizimni kengaytirişni osonlaştiradi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - yuzlanma
 - interfeys

@@ -1,12 +1,12 @@
 # Yassi
 
-**Inglizcha:** Flat<br>
-**Ruscha:** Плоский<br>
+**Inglizça:** Flat<br>
+**Rusça:** Плоский<br>
 **Soha:** Dasturlov
 
-**Yassi** — bu dasturlovda ma’lumotlar tuzilmasi yoki dastur bitigining murakkab inli darajalarsiz, sodda va bir pog‘onali holatda bo‘lishini tavsiflovchi tushunchadir. Masalan, inli tizmalarni bitta oddiy tizmaga aylantirish yoki ko‘p qatlamli shart bandlari o‘rniga mantiqni ketma-ket yozish bitikning yassiligini ta’minlaydi. Yassi tuzilmalar MIB (Markaziy Ijro Bo‘linmasi) uchun ma’lumotni qayta ishlashni tezlashtiradi va dasturchi uchun bitikning o‘qilishini hamda unga xizmat ko‘rsatishni ancha osonlashtiradi. Ko‘p hollarda "murakkablikdan ko‘ra soddalik, inlilikdan ko‘ra yassilik afzal" degan tamoyil dastur me’morchiligining asosi hisoblanadi.
+**Yassi** — bu dasturlovda malumotlar tuzilmasi yoki dastur bitigining murakkab inli darajalarsiz, sodda va bir poğonali holatda bölişini tavsiflovçi tuşunçadir. Masalan, inli tizmalarni bitta oddiy tizmaga aylantiriş yoki köp qatlamli şart bandlari örniga mantiqni ketma-ket yoziş bitikning yassiligini taminlaydi. Yassi tuzilmalar MIB (Markaziy Ijro Bölinmasi) uçun malumotni qayta işlaşni tezlaştiradi va dasturçi uçun bitikning öqilişini hamda unga hizmat körsatişni ança osonlaştiradi. Köp hollarda "murakkablikdan köra soddalik, inlilikdan köra yassilik afzal" degan tamoyil dastur memorçiligining asosi hisoblanadi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - tekis
 - yoyiq

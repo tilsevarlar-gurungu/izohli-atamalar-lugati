@@ -1,16 +1,16 @@
-# O‘ron
+# Öron
 
-**Inglizcha:** Password<br>
-**Ruscha:** Пароль<br>
+**Inglizça:** Password<br>
+**Rusça:** Пароль<br>
 **Soha:** Dasturlov
 
-**Oʻron** — bu foydalanuvchining shaxsini tasdiqlash va zahiralarga kirish huquqini berish uchun ishlatiladigan maxfiy belgilar ketma-ketligidir. Boshqaruv tizimi yoki biror dastur foydalanuvchidan kalittaxta orqali ushbu so‘zni kiritishni so‘raydi. Xavfsizlikni ta’minlash uchun maxfiy so‘z tizimda ochiq ko‘rinishda emas, balki maxsus qiymalovchi matematik amallar (xesh) yordamida o‘zgartirilgan holda saqlanadi. Agar kiritilgan ma’lumot saqlangan nusxa bilan mos kelsa, foydalanuvchiga tizimning tegishli bo‘linimlaridan foydalanishga ruxsat beriladi.
+**Öron** — bu foydalanuvçining şahsini tasdiqlaş va zahiralarga kiriş huquqini beriş uçun işlatiladigan mahfiy belgilar ketma-ketligidir. Boşqaruv tizimi yoki biror dastur foydalanuvçidan kalittahta orqali uşbu sözni kiritişni söraydi. Havfsizlikni taminlaş uçun mahfiy söz tizimda oçiq körinişda emas, balki mahsus qiymalovçi matematik amallar (heş) yordamida özgartirilgan holda saqlanadi. Agar kiritilgan malumot saqlangan nusha bilan mos kelsa, foydalanuvçiga tizimning tegişli bölinimlaridan foydalanişga ruhsat beriladi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- maxfiy s‘oz
-- sirs‘oz
-- ochars‘oz
-- sirli s‘oz
+- mahfiy soz
+- sirsoz
+- oçarsoz
+- sirli soz
 - tilsim
 - parol

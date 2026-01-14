@@ -1,11 +1,11 @@
-# Ma’lumot Poygasi
+# Malumot Poygasi
 
-**Inglizcha:** Data Race<br>
-**Ruscha:** Гонка данных<br>
+**Inglizça:** Data Race<br>
+**Rusça:** Гонка данных<br>
 **Soha:** Dasturlov
 
-**Ma’lumot Poygasi** — bu koʻp-tolali tizimlarda bir vaqtning oʻzida bir nechta tola bir xil xotira manziliga murojaat qilganda, ulardan kamida bittasi yozish amalini bajarsa va bu jarayonlar oʻzaro muvofiqlashtirilmagan boʻlsa yuzaga keladigan xatodir. Bunday holatda ma’lumotlarning yakuniy qiymati qaysi tola birinchi tugashiga bogʻliq boʻlib qoladi, bu esa dasturda kutilmagan va tushunarsiz natijalarga olib keladi. Rust kabi tillarda olib turuv tekshiruvchisi bunday xatolar hali tuzuv jarayonidayoq oldini olishga yordam beradi, bu esa xotira-omonlik darajasini oshiradi.
+**Malumot Poygasi** — bu köp-tolali tizimlarda bir vaqtning özida bir neçta tola bir hil hotira manziliga murojaat qilganda, ulardan kamida bittasi yoziş amalini bajarsa va bu jarayonlar özaro muvofiqlaştirilmagan bölsa yuzaga keladigan hatodir. Bunday holatda malumotlarning yakuniy qiymati qaysi tola birinçi tugaşiga boğliq bölib qoladi, bu esa dasturda kutilmagan va tuşunarsiz natijalarga olib keladi. Rust kabi tillarda olib turuv tekşiruvçisi bunday hatolar hali tuzuv jarayonidayoq oldini olişga yordam beradi, bu esa hotira-omonlik darajasini oşiradi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- ma’lumot janjali
+- malumot janjali

@@ -1,13 +1,13 @@
-# Markaziy Ijro Boʻlinmasi
+# Markaziy Ijro Bölinmasi
 
-**Inglizcha:** Central Processing Unit (CPU)<br>
-**Ruscha:** Центральный процессор<br>
+**Inglizça:** Central Processing Unit (CPU)<br>
+**Rusça:** Центральный процессор<br>
 **Qisqartma:** MIB<br>
 **Soha:** Dasturlov
 
-**Markaziy Ijro Bo‘linmasi** (*MIB*) — bu bilimsanarning asosiy "miya"si bo‘lib, u barcha hisob-kitoblar va mantiqiy amallarni bajaradi. Uning vazifasi xotiradan kelayotgan bitiklarni o‘qish, ularni tahlil qilish va kerakli buyruqlarni ijro etishdir. Markaziy Ijro Bo‘linmasi ichida bir nechta oʻzaklar bo‘lishi mumkin, bu esa unga bir vaqtning o‘zida ko‘plab topshiriqlarni bajarish, ya’ni ko‘p-qo‘llilikni ta’minlash imkonini beradi. Har bir ijrochi qism ma’lumotlarni qayta ishlashda o‘ta yuqori tezlikda ishlaydi va butun boshqaruv tizimining barqarorligini kafolatlaydi.
+**Markaziy Ijro Bölinmasi** (*MIB*) — bu bilimsanarning asosiy "miya"si bölib, u barça hisob-kitoblar va mantiqiy amallarni bajaradi. Uning vazifasi hotiradan kelayotgan bitiklarni öqiş, ularni tahlil qiliş va kerakli buyruqlarni ijro etişdir. Markaziy Ijro Bölinmasi içida bir neçta özaklar bölişi mumkin, bu esa unga bir vaqtning özida köplab topşiriqlarni bajariş, yani köp-qöllilikni taminlaş imkonini beradi. Har bir ijroçi qism malumotlarni qayta işlaşda öta yuqori tezlikda işlaydi va butun boşqaruv tizimining barqarorligini kafolatlaydi.
 
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- Markaziy Protsessor Boʻlinmasi
+- Markaziy Protsessor Bölinmasi

@@ -1,11 +1,11 @@
-# Xususiyat
+# Hususiyat
 
-**Inglizcha:** Property<br>
-**Ruscha:** Свойство<br>
+**Inglizça:** Property<br>
+**Rusça:** Свойство<br>
 **Soha:** Dasturlov
 
-**Xususiyat** — bu biror jism yoki ma’lumot tuzilmasining oʻziga xos sifatini yoki holatini ifodalovchi ma’lumotdir. Uni jismning ichida saqlanadigan "ismli" yorliq deb tushunish mumkin. Masalan, agar "Foydalanuvchi" bir jism boʻlsa, uning ismi, yoshi yoki manzili uning xususiyatlari hisoblanadi. Xususiyatlar fitriy qiymatlarga ega boʻlishi, oʻzgaruvchan yoki oʻzgarmas holatda boʻlishi mumkin. Jismli dasturlovda bu tushuncha ma’lumotlarni yashirish va ularga xavfsiz murojaat qilish uchun xizmat qiladi, bu esa tizimning pogʻonalilik tuzilishini mustahkamlaydi.
+**Hususiyat** — bu biror jism yoki malumot tuzilmasining öziga hos sifatini yoki holatini ifodalovçi malumotdir. Uni jismning içida saqlanadigan "ismli" yorliq deb tuşuniş mumkin. Masalan, agar "Foydalanuvçi" bir jism bölsa, uning ismi, yoşi yoki manzili uning hususiyatlari hisoblanadi. Hususiyatlar fitriy qiymatlarga ega bölişi, özgaruvçan yoki özgarmas holatda bölişi mumkin. Jismli dasturlovda bu tuşunça malumotlarni yaşiriş va ularga havfsiz murojaat qiliş uçun hizmat qiladi, bu esa tizimning poğonalilik tuzilişini mustahkamlaydi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- xoslik
+- hoslik

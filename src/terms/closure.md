@@ -1,20 +1,20 @@
-# Qoplovchi
+# Qoplovçi
 
-**Inglizcha:** Closure<br>
-**Ruscha:** Замыкание<br>
+**Inglizça:** Closure<br>
+**Rusça:** Замыкание<br>
 **Soha:** Dasturlov
 
-**Qoplovchi** – bu oʻziga xos topshiriq boʻlib, u aniqlangan paytda atrofidagi muhitni "qoplab oladi" yoki eslab qoladi, hatto bu muhit mavjud boʻlishni toʻxtatgandan keyin ham. Bu shuni anglatadiki, topshiriq oʻzining atrofidagi qamrovdan olingan yerlimas yorliqlarga u tashqarida bajarilayotgan boʻlsa ham, kirish va ularni oʻzgartirish imkoniyatiga ega boʻladi. Bu kuchli xususiyat qadamlov (currying), kechiktirilgan ijro kabi topshiriqli dasturlov usullarini amalga oshirishga va maʼlumotlar maxfiyligi qoliplarini yaratishga yordam beradi.
+**Qoplovçi** – bu öziga hos topşiriq bölib, u aniqlangan paytda atrofidagi muhitni "qoplab oladi" yoki eslab qoladi, hatto bu muhit mavjud bölişni töhtatgandan keyin ham. Bu şuni anglatadiki, topşiriq özining atrofidagi qamrovdan olingan yerlimas yorliqlarga u taşqarida bajarilayotgan bölsa ham, kiriş va ularni özgartiriş imkoniyatiga ega böladi. Bu kuçli hususiyat qadamlov (currying), keçiktirilgan ijro kabi topşiriqli dasturlov usullarini amalga oşirişga va malumotlar mahfiyligi qoliplarini yaratişga yordam beradi.
 
-### Qoplovchi va nomsiz topshiriq oʻrtasidagi farq
+### Qoplovçi va nomsiz topşiriq örtasidagi farq
 
-Qoplovchi va nomsiz topshiriq oʻrtasidagi farq nozik, ammo muhimdir. Nomsiz topshiriq (yoki lambda) shunchaki shaxsni aniqlovchiga biriktirilmagan (ismi yoʻq) topshiriqdir. Boshqa tomondan, qoplovchi – bu topshiriqning oʻziga xos nusxasi boʻlib, u nomsiz boʻlishi ham mumkin, ammo u oʻzining atrofidagi muhitni qoplab oladi. Shunday qilib, har bir qoplovchi oddiy topshiriqdir, ammo har bir nomsiz topshiriq, agar u atrofidagi doiradan yorliqlarni haqiqatdan ham qoplab olmasa, qoplovchi hisoblanmaydi.
+Qoplovçi va nomsiz topşiriq örtasidagi farq nozik, ammo muhimdir. Nomsiz topşiriq (yoki lambda) şunçaki şahsni aniqlovçiga biriktirilmagan (ismi yöq) topşiriqdir. Boşqa tomondan, qoplovçi – bu topşiriqning öziga hos nushasi bölib, u nomsiz bölişi ham mumkin, ammo u özining atrofidagi muhitni qoplab oladi. Şunday qilib, har bir qoplovçi oddiy topşiriqdir, ammo har bir nomsiz topşiriq, agar u atrofidagi doiradan yorliqlarni haqiqatdan ham qoplab olmasa, qoplovçi hisoblanmaydi.
 
 ### Rust va Python misolida
 
 #### Python
 
-Python’da tashqi qavram yorliqqa murojaat qiladigan barcha inli topshiriqlar avtomatik ravishda qoplovchini hosil qiladi. Masalan:
+Pythonda taşqi qavram yorliqqa murojaat qiladigan barça inli topşiriqlar avtomatik ravişda qoplovçini hosil qiladi. Masalan:
 
 ```python, ignore
 def make_multiplier(x):
@@ -29,9 +29,9 @@ print(doubler(5)) # Natija: 10
 
 #### Rust
 
-Rustda qoplovchilar `|...|` yozuv qoidalaridan foydalanib aniqlanadigan nomsiz topshiriqlardir. Rust qoplovchisi oʻzining atrofidagi muhitni aniq qoplab oladi va bu egalik qoidalari bilan bogʻliq.
+Rustda qoplovçilar `|...|` yozuv qoidalaridan foydalanib aniqlanadigan nomsiz topşiriqlardir. Rust qoplovçisi özining atrofidagi muhitni aniq qoplab oladi va bu egalik qoidalari bilan boğliq.
 
-Quyidagi misolda, `num` yorliqsi qoplovchi tomonidan oʻzgarmas olib turuv sifatida qamrab olinadi:
+Quyidagi misolda, `num` yorliqsi qoplovçi tomonidan özgarmas olib turuv sifatida qamrab olinadi:
 
 ```rust, ignore
 fn main() {
@@ -48,10 +48,10 @@ fn main() {
 }
 ```
 
-Bu aniq ishlov berish qoplovchilarning Rust’ning egalik va olib turuv qoidalariga qatʼiy rioya qilishini taʼminlaydi va xotira xavfsizligini kafolatlaydi. Qoplovchini `move` kalit soʻzi bilan ham aniqlash mumkin: `let owns_num = move |x: i32| x + num;`, bu holda qoplovchi `num` yorligʻining oʻziga egalik qiladi.
+Bu aniq işlov beriş qoplovçilarning Rustning egalik va olib turuv qoidalariga qatiy rioya qilişini taminlaydi va hotira havfsizligini kafolatlaydi. Qoplovçini `move` kalit sözi bilan ham aniqlaş mumkin: `let owns_num = move |x: i32| x + num;`, bu holda qoplovçi `num` yorliğining öziga egalik qiladi.
 
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - yopiq
 - qamrovli

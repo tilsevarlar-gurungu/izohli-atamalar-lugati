@@ -1,18 +1,18 @@
 # Jins
 
-**Inglizcha:** Type<br>
-**Ruscha:** Тип<br>
+**Inglizça:** Type<br>
+**Rusça:** Тип<br>
 **Soha:** Dasturlov
 
-**Jins** — bu bir jism ushlab turishi mumkin boʻlgan qiymatlar toʻplamini va uning ustida bajarilishi mumkin boʻlgan amallar toʻplamini belgilaydigan tasnifdir. Jinslar dasturlash tillari uchun juda muhimdir, chunki ular tuzgich yoki agʻdargichga maʼlumotlarga qanday munosabatda boʻlishni aytadi. Masalan, butun son jinsi matematik amallarga ruxsat bersa, matn jinsi biriktirish va matn bilan ishlashga imkon beradi.
+**Jins** — bu bir jism uşlab turişi mumkin bölgan qiymatlar töplamini va uning ustida bajarilişi mumkin bölgan amallar töplamini belgilaydigan tasnifdir. Jinslar dasturlaş tillari uçun juda muhimdir, çunki ular tuzgiç yoki ağdargiçga malumotlarga qanday munosabatda bölişni aytadi. Masalan, butun son jinsi matematik amallarga ruhsat bersa, matn jinsi biriktiriş va matn bilan işlaşga imkon beradi.
 
-Dasturlash tillari koʻpincha jinslar bilan qanday ishlashiga qarab tasniflanadi. Tillar asosan barqaror yoki beqaror-jinsli deb tasniflanishi mumkin. Barqaror-jinsli tillarda har bir yorliqning jinsi tuzgich jarayonida maʼlum boʻlishi va tekshirilishi kerak, bu esa xatolarni erta aniqlashga yordam beradi. Aksincha, beqaror jinsli tillarda jinsni tekshirish bilimsanar ishlayotgan paytda (ijro vaqtida) sodir boʻladi.
+Dasturlaş tillari köpinça jinslar bilan qanday işlaşiga qarab tasniflanadi. Tillar asosan barqaror yoki beqaror-jinsli deb tasniflanişi mumkin. Barqaror-jinsli tillarda har bir yorliqning jinsi tuzgiç jarayonida malum bölişi va tekşirilişi kerak, bu esa hatolarni erta aniqlaşga yordam beradi. Aksinça, beqaror jinsli tillarda jinsni tekşiriş bilimsanar işlayotgan paytda (ijro vaqtida) sodir böladi.
 
-Bundan tashqari, tillar qattiq-jinsli (aniq koʻrsatmalarsiz yashirin almashtiruvlarga toʻsqinlik qiluvchi) yoki yumshoq-jinsli (koʻplab yashirin almashtiruvlarga ruxsat beruvchi) boʻlishi mumkin.
+Bundan taşqari, tillar qattiq-jinsli (aniq körsatmalarsiz yaşirin almaştiruvlarga tösqinlik qiluvçi) yoki yumşoq-jinsli (köplab yaşirin almaştiruvlarga ruhsat beruvçi) bölişi mumkin.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - tur
 - tip
-- xil
+- hil
 - nav

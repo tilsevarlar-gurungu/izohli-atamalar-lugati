@@ -1,12 +1,12 @@
 # Yerlimas
 
-**Inglizcha:** Non-local<br>
-**Ruscha:** Нелокальный<br>
+**Inglizça:** Non-local<br>
+**Rusça:** Нелокальный<br>
 **Soha:** Dasturlov
 
-**Yerlimas** — bu inli topshiriqlar ichida qo‘llaniladigan tushuncha bo‘lib, joriy ichki topshiriqning xususiy ("yerli") hududiga tegishli bo‘lmagan, lekin eng yuqori - olamshumumul - darajada ham bo‘lmagan yorliqni ifodalaydi. U asosan "ota" topshiriq ichida yaratilgan va uning barcha "bola" topshiriqlari uchun umumiy bo‘lgan oraliq xotira maydonidagi ma’lumotdir. Dasturchi biron bir yorliqni yerlimas deb e’lon qilganida, tizimga: "bu qiymatni joriy maydondan emas, balki bir pog‘ona yuqoridagi maydondan qidir", degan buyruqni beradi. Bu usul ma’lumotlarni butun dastur uchun olamshumul qilmasdan, faqat ma’lum bir topshiriqlar guruhi doirasida xavfsiz almashish imkonini beradi.
+**Yerlimas** — bu inli topşiriqlar içida qöllaniladigan tuşunça bölib, joriy içki topşiriqning hususiy ("yerli") hududiga tegişli bölmagan, lekin eng yuqori - olamşumumul - darajada ham bölmagan yorliqni ifodalaydi. U asosan "ota" topşiriq içida yaratilgan va uning barça "bola" topşiriqlari uçun umumiy bölgan oraliq hotira maydonidagi malumotdir. Dasturçi biron bir yorliqni yerlimas deb elon qilganida, tizimga: "bu qiymatni joriy maydondan emas, balki bir poğona yuqoridagi maydondan qidir", degan buyruqni beradi. Bu usul malumotlarni butun dastur uçun olamşumul qilmasdan, faqat malum bir topşiriqlar guruhi doirasida havfsiz almaşiş imkonini beradi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - nomahalliy
 - mahalliymas

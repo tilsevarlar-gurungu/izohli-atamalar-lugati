@@ -1,11 +1,11 @@
-# Mavhumlashtirma
+# Mavhumlaştirma
 
-**Inglizcha:** Abstraction<br>
-**Ruscha:** Абстракция<br>
+**Inglizça:** Abstraction<br>
+**Rusça:** Абстракция<br>
 **Soha:** Dasturlov
 
-**Mavhumlashtirma** — bu murakkab tizimlarni soddalashtirish usuli boʻlib, bunda jism yoki jarayonning faqat kerakli jihatlari qoldiriladi va ortiqcha tafsilotlar yashiriladi. Jismli dasturlov (JD) doirasida ushbu uslub foydalanuvchiga surat ichidagi murakkab alxorazmalarni bilmasdan turib, faqat kerakli amallardan foydalanish imkonini beradi. Masalan, haydovchi mashinani boshqarayotganda harakatlantirgich qanday ishlashini bilishi shart emas; u faqat boshqaruv vositalari (yuzlanma) bilan muloqot qiladi. Bu esa dasturni yanada tushunarli va boshqarishga oson qiladi.
+**Mavhumlaştirma** — bu murakkab tizimlarni soddalaştiriş usuli bölib, bunda jism yoki jarayonning faqat kerakli jihatlari qoldiriladi va ortiqça tafsilotlar yaşiriladi. Jismli dasturlov (JD) doirasida uşbu uslub foydalanuvçiga surat içidagi murakkab alhorazmalarni bilmasdan turib, faqat kerakli amallardan foydalaniş imkonini beradi. Masalan, haydovçi maşinani boşqarayotganda harakatlantirgiç qanday işlaşini bilişi şart emas; u faqat boşqaruv vositalari (yuzlanma) bilan muloqot qiladi. Bu esa dasturni yanada tuşunarli va boşqarişga oson qiladi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - abstraksiya

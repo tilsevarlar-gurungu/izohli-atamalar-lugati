@@ -1,12 +1,12 @@
-# Xotira omonligi
+# Hotira omonligi
 
-**Inglizcha:** Memory Safety<br>
-**Ruscha:** Безопасность работы с памятью<br>
-**Sifat shakli:** xotira-omon<br>
+**Inglizça:** Memory Safety<br>
+**Rusça:** Безопасность работы с памятью<br>
+**Sifat şakli:** hotira-omon<br>
 **Soha:** Dasturlov
 
-**Xotira omonligi** — bu dasturning TX (Tezkor Xotira) bilan ishlashda xavfli va ruxsat etilmagan harakatlardan himoyalanganlik darajasidir. U dastur bitigining oʻzi ruxsat berilmagan xotira hududlariga kirishi, allaqachon boʻshatilgan zahiralardan qayta foydalanishga urinishi yoki tizma chegarasidan tashqariga chiqib ketishi kabi jiddiy xatolarning oldini oladi. Xotira omonligi ta’minlanmagan tillarda bunday holatlar koʻpincha tizimning toʻsatdan yopilib qolishiga yoki xavfsizlik zaifliklariga (masalan, buffer overflow) olib keladi. Zamonaviy yondashuvlarda bunga yoki chiqindi yigʻuvchi tizimi orqali avtomatik tarzda, yoki Rust kabi xotira-omon tillardagi "egalik huquqi" qoidalari yordamida tuzuv vaqtidayoq erishiladi, bu esa dastur ijrosini ham tez, ham xavfsiz qiladi.
+**Hotira omonligi** — bu dasturning TH (Tezkor Hotira) bilan işlaşda havfli va ruhsat etilmagan harakatlardan himoyalanganlik darajasidir. U dastur bitigining özi ruhsat berilmagan hotira hududlariga kirişi, allaqaçon böşatilgan zahiralardan qayta foydalanişga urinişi yoki tizma çegarasidan taşqariga çiqib ketişi kabi jiddiy hatolarning oldini oladi. Hotira omonligi taminlanmagan tillarda bunday holatlar köpinça tizimning tösatdan yopilib qolişiga yoki havfsizlik zaifliklariga (masalan, buffer overflow) olib keladi. Zamonaviy yondaşuvlarda bunga yoki çiqindi yiğuvçi tizimi orqali avtomatik tarzda, yoki Rust kabi hotira-omon tillardagi "egalik huquqi" qoidalari yordamida tuzuv vaqtidayoq erişiladi, bu esa dastur ijrosini ham tez, ham havfsiz qiladi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- xotira xavfsizligi
+- hotira havfsizligi

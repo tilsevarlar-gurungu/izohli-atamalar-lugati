@@ -1,13 +1,13 @@
-# Magʻizli
+# Mağizli
 
-**Inglizcha:** Some<br>
-**Ruscha:** Вариант Some<br>
+**Inglizça:** Some<br>
+**Rusça:** Вариант Some<br>
 **Aloqali:** Rust<br>
 **Soha:** Dasturlov
 
-**Magʻizli** (Some) — Rust tilidagi Option sonlamasi jinsining qiymati boʻlib, u ma’lumotning xotirada mavjudligini bildiradi. Rustda xavfli `null` tushunchasi oʻrniga aynan shu tizim ishlatiladi: qiymat yo bor (Magʻizli), yoki u Puch (None). Agar biror topshiriq natija qaytarsa, u "magʻiz" sifatida Magʻizli (Some) qobigʻiga oʻraladi. Bu dasturchini ushbu magʻizni chaqib, ichidagi qiymatni olishdan oldin, natija Puch emasligini tekshirishga majbur qiladi. Bu yondashuv xotira omonligini ta’minlaydi va ijro vaqtida kutilmagan toʻxtashlarning oldini oladi.
+**Mağizli** (Some) — Rust tilidagi Option sonlamasi jinsining qiymati bölib, u malumotning hotirada mavjudligini bildiradi. Rustda havfli `null` tuşunçasi örniga aynan şu tizim işlatiladi: qiymat yo bor (Mağizli), yoki u Puç (None). Agar biror topşiriq natija qaytarsa, u "mağiz" sifatida Mağizli (Some) qobiğiga öraladi. Bu dasturçini uşbu mağizni çaqib, içidagi qiymatni olişdan oldin, natija Puç emasligini tekşirişga majbur qiladi. Bu yondaşuv hotira omonligini taminlaydi va ijro vaqtida kutilmagan töhtaşlarning oldini oladi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - nimadir
 - biror

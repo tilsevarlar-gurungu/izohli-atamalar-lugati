@@ -1,11 +1,11 @@
 # Ziyorat
 
-**Inglizcha:** Traversal<br>
-**Ruscha:** Обход<br>
+**Inglizça:** Traversal<br>
+**Rusça:** Обход<br>
 **Soha:** Dasturlov
 
-**Ziyorat** — bu ma’lumotlar tuzilmasidagi (masalan, tizma, ogʻoch yoki graf) har bir elementni ma’lum bir tartibda birma-bir ko‘zdan kechirish, ularga murojaat qilish yoki qayta ishlash jarayonidir. Ushbu jarayon davomida har bir tugun kamida bir marta "ziyorat" qilinadi, bu esa qidirish, elash yoki ma’lumotlarni o‘zgartirish kabi amallarni bajarish imkonini beradi. Ziyorat qilishning turli usullari mavjud (masalan, chuqurlik bo‘ylab yoki kenglik bo‘ylab), va tanlangan usul alxorazmaning qanchalik tez va samarali ishlashiga, ya’ni ma’lumotlarning qaysi tartibda qayta ishlanishiga bevosita ta’sir qiladi.
+**Ziyorat** — bu malumotlar tuzilmasidagi (masalan, tizma, oğoç yoki graf) har bir elementni malum bir tartibda birma-bir közdan keçiriş, ularga murojaat qiliş yoki qayta işlaş jarayonidir. Uşbu jarayon davomida har bir tugun kamida bir marta "ziyorat" qilinadi, bu esa qidiriş, elaş yoki malumotlarni özgartiriş kabi amallarni bajariş imkonini beradi. Ziyorat qilişning turli usullari mavjud (masalan, çuqurlik böylab yoki kenglik böylab), va tanlangan usul alhorazmaning qançalik tez va samarali işlaşiga, yani malumotlarning qaysi tartibda qayta işlanişiga bevosita tasir qiladi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- yurib chiquv
+- yurib çiquv

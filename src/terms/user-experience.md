@@ -1,12 +1,12 @@
-# Foydalanuvchi Tajribasi
+# Foydalanuvçi Tajribasi
 
-**Inglizcha:** User Experience (UX)<br>
-**Ruscha:** Пользовательский опыт<br>
+**Inglizça:** User Experience (UX)<br>
+**Rusça:** Пользовательский опыт<br>
 **Qisqartma:** FT<br>
 **Soha:** Dasturlov
 
-**Foydalanuvchi tajribasi** (FT) — bu shaxsning muayyan dastur yoki qurilma bilan muloqoti davomida olgan barcha taassurotlari majmuidir. Loyihalash jarayonida FTning asosiy maqsadi — foydalanuvchi yuzlanmasi (FY) orqali tizimni tushunarli, qulay va foydali qilishdir. Sifatli FT yaratish uchun foydalanuvchining ehtiyojlari oʻrganiladi va bilimsanar bilan ishlash jarayonida yuzaga kelishi mumkin boʻlgan har qanday nuqson yoki qiyinchiliklar oldindan bartaraf etiladi. Agar dastur mantiqiy va tezkor boʻlsa, foydalanuvchining oniy his-tuygʻulari ijobiy boʻladi.
+**Foydalanuvçi tajribasi** (FT) — bu şahsning muayyan dastur yoki qurilma bilan muloqoti davomida olgan barça taassurotlari majmuidir. Loyihalaş jarayonida FTning asosiy maqsadi — foydalanuvçi yuzlanmasi (FY) orqali tizimni tuşunarli, qulay va foydali qilişdir. Sifatli FT yaratiş uçun foydalanuvçining ehtiyojlari örganiladi va bilimsanar bilan işlaş jarayonida yuzaga kelişi mumkin bölgan har qanday nuqson yoki qiyinçiliklar oldindan bartaraf etiladi. Agar dastur mantiqiy va tezkor bölsa, foydalanuvçining oniy his-tuyğulari ijobiy böladi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- Foydalanuvchi Interfeysi
+- Foydalanuvçi Interfeysi

@@ -1,11 +1,11 @@
-# Yongʻoq
+# Yonğoq
 
-**Inglizcha:** Option<br>
-**Ruscha:** Опшн<br>
+**Inglizça:** Option<br>
+**Rusça:** Опшн<br>
 **Soha:** Dasturlov<br>
 **Aloqali:** Rust
 
-Rust’da **Yongʻoq** sonlamasi - bu qiymatning mavjud boʻlishi yoki boʻlmasligini aniq ifodalash uchun ishlatiladigan muhim sonlama turidir. U boshqa tillardagi *null* yoki *nil* kabi noaniq qiymatlardan farqli oʻlaroq, dasturchini qiymatning yoʻqligini nazoratli tarzda boshqarishga majburlaydi. Yongʻoq ikki holatdan birini oʻz ichiga oladi: yo qiymat mavjud boʻlsa, Magʻizli Some(T)) holati, yoki qiymat umuman yoʻq boʻlsa, Puch (None) holati. Yongʻoq’dan foydalanish nuqsonlarni (ayniqsa, *null*ga kirish xatolarini) oldini olishga yordam beradi va bitikni oʻqishni yanada ishonchli qiladi.
+Rustda **Yonğoq** sonlamasi - bu qiymatning mavjud bölişi yoki bölmasligini aniq ifodalaş uçun işlatiladigan muhim sonlama turidir. U boşqa tillardagi *null* yoki *nil* kabi noaniq qiymatlardan farqli ölaroq, dasturçini qiymatning yöqligini nazoratli tarzda boşqarişga majburlaydi. Yonğoq ikki holatdan birini öz içiga oladi: yo qiymat mavjud bölsa, Mağizli Some(T)) holati, yoki qiymat umuman yöq bölsa, Puç (None) holati. Yonğoqdan foydalaniş nuqsonlarni (ayniqsa, *null*ga kiriş hatolarini) oldini olişga yordam beradi va bitikni öqişni yanada işonçli qiladi.
 
 ```rust,ignore
 // Yongʻoq (Option) turini e’lon qilish
@@ -33,7 +33,7 @@ match natija {
 }
 ```
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - tanlov
 - opsiya

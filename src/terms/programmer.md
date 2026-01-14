@@ -1,13 +1,13 @@
-# Dasturchi
+# Dasturçi
 
-**Inglizcha:** Programmer<br>
-**Ruscha:** Программист<br>
+**Inglizça:** Programmer<br>
+**Rusça:** Программист<br>
 **Soha:** Dasturlov
 
-**Dasturchi** — bu bilimsanar yoki boshqa qurilmalar uchun ma’lum bir topshiriqlarni bajarishga mo‘ljallangan mantiqiy ko‘rsatmalar ketma-ketligini (bitikni) yaratuvchi mutaxassisdir. U muammolarni hal qilish uchun alxorazmalar tuzadi va ularni dasturlov tillari yordamida MIB tushunadigan ko‘rinishga keltiradi. Dasturchi faqat bitik yozish bilan cheklanmay, balki tizimdagi nuqsonlarni topish, xotira omonligini ta’minlash va zahiralardan unumli foydalanish kabi murakkab vazifalarni ham bajaradi. Uning asosiy quroli — mantiqiy fikrlash va turli bo‘linimlarni yagona, barkamol tizimga birlashtirish qobiliyatidir.
+**Dasturçi** — bu bilimsanar yoki boşqa qurilmalar uçun malum bir topşiriqlarni bajarişga möljallangan mantiqiy körsatmalar ketma-ketligini (bitikni) yaratuvçi mutahassisdir. U muammolarni hal qiliş uçun alhorazmalar tuzadi va ularni dasturlov tillari yordamida MIB tuşunadigan körinişga keltiradi. Dasturçi faqat bitik yoziş bilan çeklanmay, balki tizimdagi nuqsonlarni topiş, hotira omonligini taminlaş va zahiralardan unumli foydalaniş kabi murakkab vazifalarni ham bajaradi. Uning asosiy quroli — mantiqiy fikrlaş va turli bölinimlarni yagona, barkamol tizimga birlaştiriş qobiliyatidir.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- dasturlovchi
-- bitikchi
-- yozuvchi
+- dasturlovçi
+- bitikçi
+- yozuvçi

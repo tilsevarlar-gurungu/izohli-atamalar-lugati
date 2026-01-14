@@ -1,11 +1,11 @@
-# Oʻzgaruvchan
+# Özgaruvçan
 
-**Inglizcha:** Mutable<br>
-**Ruscha:** Изменяемый<br>
+**Inglizça:** Mutable<br>
+**Rusça:** Изменяемый<br>
 **Soha:** Dasturlov
 
-**Oʻzgaruvchan** — bu dasturlovda yaratilgandan keyin uning holati, ichki ma’lumotlari yoki qiymatlarini bevosita oʻzgartirish mumkin boʻlgan jism yoki ma’lumot tuzilmasidir. Bunday jismlar bilan ishlashda yangi nusxa yaratish shart emas, balki mavjud zahira ustida tahrirlash amali bajariladi, bu esa xotiradan samarali foydalanish imkonini beradi. Biroq, oʻzgaruvchan ma’lumotlar bilan ishlashda ehtiyotkorlik talab etiladi: agar bir vaqtning oʻzida bir nechta topshiriq yoki ondosh jarayon bitta jismni oʻzgartirishga urinsa, kutilmagan nuqsonlar yoki mantiqiy xatolar yuzaga kelishi mumkin. Koʻplab zamonaviy tillarda xavfsizlikni ta’minlash uchun yorliqlar fitratda oʻzgarmas qilib belgilanadi va ularni oʻzgaruvchan qilish uchun maxsus kalit soʻzlar (masalan, `mut`) ishlatiladi.
+**Özgaruvçan** — bu dasturlovda yaratilgandan keyin uning holati, içki malumotlari yoki qiymatlarini bevosita özgartiriş mumkin bölgan jism yoki malumot tuzilmasidir. Bunday jismlar bilan işlaşda yangi nusha yaratiş şart emas, balki mavjud zahira ustida tahrirlaş amali bajariladi, bu esa hotiradan samarali foydalaniş imkonini beradi. Biroq, özgaruvçan malumotlar bilan işlaşda ehtiyotkorlik talab etiladi: agar bir vaqtning özida bir neçta topşiriq yoki ondoş jarayon bitta jismni özgartirişga urinsa, kutilmagan nuqsonlar yoki mantiqiy hatolar yuzaga kelişi mumkin. Köplab zamonaviy tillarda havfsizlikni taminlaş uçun yorliqlar fitratda özgarmas qilib belgilanadi va ularni özgaruvçan qiliş uçun mahsus kalit sözlar (masalan, `mut`) işlatiladi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- yumshoq
+- yumşoq

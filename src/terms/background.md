@@ -1,11 +1,11 @@
 # Ortmanzara
 
-**Inglizcha:** Background<br>
-**Ruscha:** Фоновый режим<br>
+**Inglizça:** Background<br>
+**Rusça:** Фоновый режим<br>
 **Soha:** Dasturlov
 
-**Ortmanzara** — bu dastur jarayonlarining foydalanuvchi koʻziga koʻrinmasdan, ortda bajarilish holatidir. Masalan, Boshqaruv Tizimi bir vaqtning oʻzida bir nechta tola va jarayonlarni boshqarganda, ba’zi muhim topshiriqlar (ma’lumotlarni aynanlashtirish yoki yangilanishlarni yuklab olish kabi) ortmanzarada amalga oshiriladi. Bu holatda foydalanuvchi oldmanzarada boshqa biror qurilma yoki ilova bilan bemalol ishlashi mumkin, chunki ortdagi ishlar kalittaxta kiritmalariga yoki ekran yuzlanmasiga toʻsqinlik qilmaydi.
+**Ortmanzara** — bu dastur jarayonlarining foydalanuvçi köziga körinmasdan, ortda bajariliş holatidir. Masalan, Boşqaruv Tizimi bir vaqtning özida bir neçta tola va jarayonlarni boşqarganda, bazi muhim topşiriqlar (malumotlarni aynanlaştiriş yoki yangilanişlarni yuklab oliş kabi) ortmanzarada amalga oşiriladi. Bu holatda foydalanuvçi oldmanzarada boşqa biror qurilma yoki ilova bilan bemalol işlaşi mumkin, çunki ortdagi işlar kalittahta kiritmalariga yoki ekran yuzlanmasiga tösqinlik qilmaydi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - orqa fon

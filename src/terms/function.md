@@ -1,12 +1,12 @@
-# Topshiriq
+# Topşiriq
 
-**Inglizcha:** Function<br>
-**Ruscha:** Функция<br>
+**Inglizça:** Function<br>
+**Rusça:** Функция<br>
 **Soha:** Dasturlov
 
-**Topshiriq** – bu muayyan harakat yoki hisob-kitobni bajarish uchun moʻljallangan, nomlangan, qayta ishlatiladigan bitik boʻlagidir. Uni kichik, ixtisoslashgan uskuna deb tasavvur qiling: unga talab qiymatlari yoki talablar deb ataluvchi kiritish qiymatlarini uzatasiz, u oʻz taʼrifi ichidagi koʻrsatmalarni bajaradi va keyin odatda bitta chiqarma qiymatni hosil qiladi va natijani qaytaradi. Topshiriqdan chiqadigan bu natija **topshiriq qaytimi** deyiladi. Topshiriqlar dasturni tashkil etish uchun asosiy vosita boʻlib, dasturchilarga murakkab vazifalarni kichik, boshqariladigan va juda koʻp marta ishlatiladigan birliklarga ajratish imkonini beradi.
+**Topşiriq** – bu muayyan harakat yoki hisob-kitobni bajariş uçun möljallangan, nomlangan, qayta işlatiladigan bitik bölagidir. Uni kiçik, ihtisoslaşgan uskuna deb tasavvur qiling: unga talab qiymatlari yoki talablar deb ataluvçi kiritiş qiymatlarini uzatasiz, u öz tarifi içidagi körsatmalarni bajaradi va keyin odatda bitta çiqarma qiymatni hosil qiladi va natijani qaytaradi. Topşiriqdan çiqadigan bu natija **topşiriq qaytimi** deyiladi. Topşiriqlar dasturni taşkil etiş uçun asosiy vosita bölib, dasturçilarga murakkab vazifalarni kiçik, boşqariladigan va juda köp marta işlatiladigan birliklarga ajratiş imkonini beradi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - vazifa
 - funksiya

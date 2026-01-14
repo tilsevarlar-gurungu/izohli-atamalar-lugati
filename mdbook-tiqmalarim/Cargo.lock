@@ -91,7 +91,7 @@ checksum = "a23eb6b1614318a8071c9b2521f36b424b2c83db5eb3a0fead4a6c0809af6e61"
 
 [[package]]
 name = "atama-orinlovchi"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "atama-umumiy",
  "mdbook",
@@ -102,7 +102,7 @@ dependencies = [
 
 [[package]]
 name = "atama-tamgalovchi"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "atama-umumiy",
  "fancy-regex",
@@ -115,7 +115,7 @@ dependencies = [
 
 [[package]]
 name = "atama-umumiy"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "mdbook",
  "serde",
@@ -123,7 +123,7 @@ dependencies = [
 
 [[package]]
 name = "atamalar-kirish"
-version = "0.1.0"
+version = "0.1.1"
 dependencies = [
  "anyhow",
  "atama-umumiy",

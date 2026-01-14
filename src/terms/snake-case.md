@@ -1,11 +1,11 @@
 # Ilonsimon Nom
 
-**Inglizcha:** Snake Case<br>
-**Ruscha:** Змеиный регистр<br>
+**Inglizça:** Snake Case<br>
+**Rusça:** Змеиный регистр<br>
 **Soha:** Dasturlov
 
-**Ilonsimon nom** — bu bir nechta so‘zdan iborat nomlarni yozish uslubi bo‘lib, unda barcha harflar kichik yoziladi va so‘zlar o‘zaro ostki chiziq (_) bilan bog‘lanadi. Bu nomlash usuli so‘zlar zanjirining ko‘rinishi sudralib ketayotgan ilonni eslatgani uchun shunday ataladi. U ko‘pincha yorliqlar, fayl nomlari va ma’lumotlar ombori ustunlarini nomlashda qo‘llaniladi. Ilonsimon nom bitikning o‘qilishini osonlashtiradi va turli tizimlar o‘rtasida nomlashning yagona andozasini ta’minlashga xizmat qiladi.
+**Ilonsimon nom** — bu bir neçta sözdan iborat nomlarni yoziş uslubi bölib, unda barça harflar kiçik yoziladi va sözlar özaro ostki çiziq (_) bilan boğlanadi. Bu nomlaş usuli sözlar zanjirining körinişi sudralib ketayotgan ilonni eslatgani uçun şunday ataladi. U köpinça yorliqlar, fayl nomlari va malumotlar ombori ustunlarini nomlaşda qöllaniladi. Ilonsimon nom bitikning öqilişini osonlaştiradi va turli tizimlar örtasida nomlaşning yagona andozasini taminlaşga hizmat qiladi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- chiziqli nom
+- çiziqli nom

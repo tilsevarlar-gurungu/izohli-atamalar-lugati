@@ -1,13 +1,13 @@
-# Magʻiz
+# Mağiz
 
-**Inglizcha:** Kernel<br>
-**Ruscha:** Ядро<br>
-**Ota-atama:** Markaziy Ijro Boʻlinmasi<br>
-**Soha:** Boshqaruv Tizimi
+**Inglizça:** Kernel<br>
+**Rusça:** Ядро<br>
+**Ota-atama:** Markaziy Ijro Bölinmasi<br>
+**Soha:** Boşqaruv Tizimi
 
-**Magʻiz** — bu boshqaruv tizimining eng markaziy va asosiy qismi boʻlib, u bilimsanar qurilmalari va dastur oʻrtasidagi koʻprik vazifasini oʻtaydi. U Markaziy Ijro Bo‘linmasi, xotira va boshqa zahiralarni boshqarishga mas’uldir. Har bir dastur bajarilayotganda, uning soʻrovlari magʻiz orqali oʻtadi va aynan u qaysi topshiriqqa qancha vaqt yoki quvvat ajratishni hal qiladi. Magʻiz tizimning eng ichki qatlamida joylashgani uchun u oʻta yuqori xavfsizlik va izchillik bilan ishlashi shart, chunki undagi kichik nuqson butun bilimsanar ishini toʻxtatib qoʻyishi mumkin.
+**Mağiz** — bu boşqaruv tizimining eng markaziy va asosiy qismi bölib, u bilimsanar qurilmalari va dastur örtasidagi köprik vazifasini ötaydi. U Markaziy Ijro Bölinmasi, hotira va boşqa zahiralarni boşqarişga masuldir. Har bir dastur bajarilayotganda, uning sörovlari mağiz orqali ötadi va aynan u qaysi topşiriqqa qança vaqt yoki quvvat ajratişni hal qiladi. Mağiz tizimning eng içki qatlamida joylaşgani uçun u öta yuqori havfsizlik va izçillik bilan işlaşi şart, çunki undagi kiçik nuqson butun bilimsanar işini töhtatib qöyişi mumkin.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- oʻzak
+- özak
 - yadro

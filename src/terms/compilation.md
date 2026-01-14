@@ -1,12 +1,12 @@
 # Tuzuv
 
-**Inglizcha:** Compilation<br>
-**Ruscha:** Компиляция<br>
+**Inglizça:** Compilation<br>
+**Rusça:** Компиляция<br>
 **Soha:** Dasturlov
 
-**Tuzuv** — bu inson tushunadigan yuqori-qatlamli bitikni bilimsanar bevosita ijro eta oladigan mashina tiliga oʻtkazish jarayonidir. Ushbu jarayonni tuzgich amalga oshiradi. Tuzuv davomida dastlab yoʻygich bitikni tahlil qilib, mavhum yozuv ogʻochini yaratadi, soʻngra barcha topshiriq va yorliqlar tekshirilib, xatolar boʻlmasa, yakuniy bajariq fayli hosil qilinadi. Agʻdargichdan farqli oʻlaroq, tuzuv jarayoni dastur ishga tushishidan oldin toʻliq bajarib boʻlinadi, bu esa ijro vaqtida dasturning tezroq ishlashini ta’minlaydi.
+**Tuzuv** — bu inson tuşunadigan yuqori-qatlamli bitikni bilimsanar bevosita ijro eta oladigan maşina tiliga ötkaziş jarayonidir. Uşbu jarayonni tuzgiç amalga oşiradi. Tuzuv davomida dastlab yöygiç bitikni tahlil qilib, mavhum yozuv oğoçini yaratadi, söngra barça topşiriq va yorliqlar tekşirilib, hatolar bölmasa, yakuniy bajariq fayli hosil qilinadi. Ağdargiçdan farqli ölaroq, tuzuv jarayoni dastur işga tuşişidan oldin töliq bajarib bölinadi, bu esa ijro vaqtida dasturning tezroq işlaşini taminlaydi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - kompilyatsiya
-- yigʻuv
+- yiğuv

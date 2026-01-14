@@ -1,11 +1,11 @@
-# Manzil Koʻrsatkichi
+# Manzil Körsatkiçi
 
-**Inglizcha:** Pointer<br>
-**Ruscha:** Указатель<br>
+**Inglizça:** Pointer<br>
+**Rusça:** Указатель<br>
 **Soha:** Dasturlov
 
-**Koʻrsatkich** — bu oʻzida biror bir qiymatni emas, balki boshqa bir ma’lumot yoki jism saqlanayotgan TX (Tezkor Xotira) manzilini saqlaydigan maxsus yorliqdir. Uni ma’lumotning oʻzi emas, balki oʻsha ma’lumot yashayotgan "uydagi manzil" deb tasavvur qilish mumkin. Koʻrsatkichlar yordamida dastur xotira bilan toʻgʻridan-toʻgʻri ishlashi, katta hajmdagi zahiralarni nusxalamasdan, shunchaki ularning manzilini uzatish orqali tezkor ishlashi mumkin. Biroq, ular bilan ishlashda ehtiyotkorlik zarur: agar koʻrsatkich notoʻgʻri manzilga (masalan, boʻsh yoki ruxsat berilmagan hududga) yoʻnaltirilsa, bu xotira-omon boʻlmagan holatlarga va tizimning toʻsatdan yopilishiga olib keladi.
+**Körsatkiç** — bu özida biror bir qiymatni emas, balki boşqa bir malumot yoki jism saqlanayotgan TH (Tezkor Hotira) manzilini saqlaydigan mahsus yorliqdir. Uni malumotning özi emas, balki öşa malumot yaşayotgan "uydagi manzil" deb tasavvur qiliş mumkin. Körsatkiçlar yordamida dastur hotira bilan töğridan-töğri işlaşi, katta hajmdagi zahiralarni nushalamasdan, şunçaki ularning manzilini uzatiş orqali tezkor işlaşi mumkin. Biroq, ular bilan işlaşda ehtiyotkorlik zarur: agar körsatkiç notöğri manzilga (masalan, böş yoki ruhsat berilmagan hududga) yönaltirilsa, bu hotira-omon bölmagan holatlarga va tizimning tösatdan yopilişiga olib keladi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- koʻrsatkich
+- körsatkiç

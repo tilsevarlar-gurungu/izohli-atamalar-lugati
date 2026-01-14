@@ -1,11 +1,11 @@
 # Ortga surilgan
 
-**Inglizcha:** Deferred<br>
-**Ruscha:** Отложенное выполнение<br>
+**Inglizça:** Deferred<br>
+**Rusça:** Отложенное выполнение<br>
 **Soha:** Dasturlov
 
-**Ortga surilgan** — bu muayyan bir amal yoki hisob-kitobni darhol emas, balki ma’lum bir vaqt oʻtgach yoki kerakli sharoit yuzaga kelganda bajarish usulidir. Dasturlovda bu yondashuv koʻpincha zahiralarni tejash uchun ishlatiladi; masalan, ogʻir ma’lumotni yuklashni foydalanuvchi uni koʻrmaguncha kechiktirish mumkin. Shuningdek, navbatsiz ijro muhitida ham biror topshiriqning natijasini kutish va u tayyor boʻlguncha boshqa ishlarni davom ettirish "ortga surilgan ijro" tushunchasiga kiradi. Bu usul bilimsanar quvvatidan oqilona foydalanish imkonini beradi.
+**Ortga surilgan** — bu muayyan bir amal yoki hisob-kitobni darhol emas, balki malum bir vaqt ötgaç yoki kerakli şaroit yuzaga kelganda bajariş usulidir. Dasturlovda bu yondaşuv köpinça zahiralarni tejaş uçun işlatiladi; masalan, oğir malumotni yuklaşni foydalanuvçi uni körmagunça keçiktiriş mumkin. Şuningdek, navbatsiz ijro muhitida ham biror topşiriqning natijasini kutiş va u tayyor bölgunça boşqa işlarni davom ettiriş "ortga surilgan ijro" tuşunçasiga kiradi. Bu usul bilimsanar quvvatidan oqilona foydalaniş imkonini beradi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- kechiktirilgan
+- keçiktirilgan

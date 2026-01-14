@@ -1,11 +1,11 @@
-# Qaralmishga oʻtuv
+# Qaralmişga ötuv
 
-**Inglizcha:** Dereference<br>
-**Ruscha:** Разыменование<br>
+**Inglizça:** Dereference<br>
+**Rusça:** Разыменование<br>
 **Soha:** Dasturlov
 
-**Qaralmishga oʻtuv** — bu manzil koʻrsatkichi yoki qaratqich orqali u koʻrsatib turgan haqiqiy ma’lumotga (qiymatga) murojaat qilish jarayonidir. Dasturlovda biz koʻpincha xotira manzilining oʻzi bilan emas, balki oʻsha manzilda saqlangan jism bilan ishlashimiz kerak boʻladi. Masalan, bitta yorliq boshqa bir ma’lumot turgan joyni "koʻrsatib" tursa, biz oʻsha ma’lumotni oʻqish yoki oʻzgartirish uchun qaralmishga oʻtuv amalini bajaramiz. Rust tilida bu amal odatda `*` belgisi yordamida amalga oshiriladi va u xotira-omonlik qoidalariga muvofiq bajarilishi shart.
+**Qaralmişga ötuv** — bu manzil körsatkiçi yoki qaratqiç orqali u körsatib turgan haqiqiy malumotga (qiymatga) murojaat qiliş jarayonidir. Dasturlovda biz köpinça hotira manzilining özi bilan emas, balki öşa manzilda saqlangan jism bilan işlaşimiz kerak böladi. Masalan, bitta yorliq boşqa bir malumot turgan joyni "körsatib" tursa, biz öşa malumotni öqiş yoki özgartiriş uçun qaralmişga ötuv amalini bajaramiz. Rust tilida bu amal odatda `*` belgisi yordamida amalga oşiriladi va u hotira-omonlik qoidalariga muvofiq bajarilişi şart.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- qaralmishni ochuv
+- qaralmişni oçuv

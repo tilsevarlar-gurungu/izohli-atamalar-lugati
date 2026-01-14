@@ -1,11 +1,11 @@
 # Butoq
 
-**Inglizcha:** Branch<br>
-**Ruscha:** Ветка дерева<br>
+**Inglizça:** Branch<br>
+**Rusça:** Ветка дерева<br>
 **Soha:** Dasturlov
 
-**Butoq** — bu pog‘onali ma’lumotlar tuzilmasida, masalan, Daraxtda, bir tugunni (ota) boshqa bir tugun (bola) bilan bog‘lovchi yo‘ldir. Bitikda butoqlar ma’lumotlarning o‘zaro mantiqiy bog‘liqligini va yo‘nalishini ifodalaydi. Shuningdek, tahrirni boshqarish tizimlarida (masalan, Git) butoq tushunchasi asosiy bitikdan alohida ajralib chiqib, yangi xususiyatlar ustida ishlash imkonini beruvchi mustaqil rivojlanish yo‘nalishini anglatadi. Har bir butoq o‘z ichiga ma’lum bir mantiqiy o‘zgarishlarni jamlaydi va vaqti kelib asosiy poyaga (trunk) qayta ulanishi mumkin.
+**Butoq** — bu poğonali malumotlar tuzilmasida, masalan, Darahtda, bir tugunni (ota) boşqa bir tugun (bola) bilan boğlovçi yöldir. Bitikda butoqlar malumotlarning özaro mantiqiy boğliqligini va yönalişini ifodalaydi. Şuningdek, tahrirni boşqariş tizimlarida (masalan, Git) butoq tuşunçasi asosiy bitikdan alohida ajralib çiqib, yangi hususiyatlar ustida işlaş imkonini beruvçi mustaqil rivojlaniş yönalişini anglatadi. Har bir butoq öz içiga malum bir mantiqiy özgarişlarni jamlaydi va vaqti kelib asosiy poyaga (trunk) qayta ulanişi mumkin.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- shox
+- şoh

@@ -1,1 +1,1 @@
-# O'zbekcha - Inglizcha - Ruscha Ko'rsatkich
+# Özbekça - Inglizça - Rusça Körsatkiç

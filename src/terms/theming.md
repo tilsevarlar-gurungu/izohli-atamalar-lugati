@@ -1,11 +1,11 @@
-# Toʻn Kiydirish
+# Tön Kiydiriş
 
-**Inglizcha:** Theming<br>
-**Ruscha:** Тематизация<br>
+**Inglizça:** Theming<br>
+**Rusça:** Тематизация<br>
 **Soha:** Dasturlov
 
-**To‘n kiydirish** — bu dastur yoki veb-saytning asosiy mantiqiy qismiga tegmagan holda, uning tashqi ko‘rinishini (ranglar, shriftlar, tugma shakllari) o‘zgartirish jarayonidir. Xuddi insonga turli xil to‘n kiyishi uning qiyofasini o‘zgartirgani kabi, ushbu jarayon ham foydalanuvchi yuzlanmasiga (FY) yangi uslub beradi. To‘n kiydirish yordamida dasturga toʻq toʻn yoki shirkat ranglarini kiritish mumkin. Bu usul bitikning tarkibiy qismini tasviriy bezakdan ajratish imkonini beradi, natijada tashqi koʻrinishni oʻzgartirish oson va tez amalga oshadi.
+**Tön kiydiriş** — bu dastur yoki veb-saytning asosiy mantiqiy qismiga tegmagan holda, uning taşqi körinişini (ranglar, şriftlar, tugma şakllari) özgartiriş jarayonidir. Huddi insonga turli hil tön kiyişi uning qiyofasini özgartirgani kabi, uşbu jarayon ham foydalanuvçi yuzlanmasiga (FY) yangi uslub beradi. Tön kiydiriş yordamida dasturga töq tön yoki şirkat ranglarini kiritiş mumkin. Bu usul bitikning tarkibiy qismini tasviriy bezakdan ajratiş imkonini beradi, natijada taşqi körinişni özgartiriş oson va tez amalga oşadi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- tema qilish
+- tema qiliş

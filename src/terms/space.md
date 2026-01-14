@@ -1,12 +1,12 @@
-# Boʻshliq
+# Böşliq
 
-**Inglizcha:** Space<br>
-**Ruscha:** Пробел<br>
+**Inglizça:** Space<br>
+**Rusça:** Пробел<br>
 **Soha:** Dasturlov
 
-**Bo‘shliq** — dasturlovda va matn terishda belgilar orasidagi masofani ifodalovchi ko‘rinmas belgidir. Bitikda bo‘shliqlar amal belgilarini, yorliqlarni va kalit so‘zlarni bir-biridan ajratish orqali mantiqiy xatolarning oldini oladi. Aksariyat dasturlov tillarida ketma-ket kelgan bir nechta bo‘shliqlar bitta deb hisoblansa-da (whitespace), ba’zi tillarda bo‘shliqlar qator boshidan joy tashlash (chekinma) orqali bitikning mantiqiy qamrovini va pog‘onalilik tuzumini belgilaydi.
+**Böşliq** — dasturlovda va matn terişda belgilar orasidagi masofani ifodalovçi körinmas belgidir. Bitikda böşliqlar amal belgilarini, yorliqlarni va kalit sözlarni bir-biridan ajratiş orqali mantiqiy hatolarning oldini oladi. Aksariyat dasturlov tillarida ketma-ket kelgan bir neçta böşliqlar bitta deb hisoblansa-da (whitespace), bazi tillarda böşliqlar qator boşidan joy taşlaş (çekinma) orqali bitikning mantiqiy qamrovini va poğonalilik tuzumini belgilaydi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- boʻsh joy
+- böş joy
 - oraliq

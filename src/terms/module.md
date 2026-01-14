@@ -1,12 +1,12 @@
-# Boʻlinim
+# Bölinim
 
-**Inglizcha:** Module<br>
-**Ruscha:** Модуль <br>
+**Inglizça:** Module<br>
+**Rusça:** Модуль <br>
 **Soha:** Loyihalov
 
-**Boʻlinim** – bu odatda bir fayl yoki bir nechta fayllar toʻplamidan iborat boʻlgan, tegishli topshiriqlar, suratlar va yorliqlarni guruhlashtiruvchi mustaqil bitik birligidir. Uning asosiy maqsadi – bitikni mantiqiy, qayta ishlatiladigan qismlarga boʻlish, boʻlina oluvni targʻib qilish va nomlar toʻqnashuvini oldini olish hamda dasturchilarga bitik qismlarini turli loyihalar oʻrtasida osongina baham koʻrish imkonini berish orqali katta dasturlarni soddalashtirishdir.
+**Bölinim** – bu odatda bir fayl yoki bir neçta fayllar töplamidan iborat bölgan, tegişli topşiriqlar, suratlar va yorliqlarni guruhlaştiruvçi mustaqil bitik birligidir. Uning asosiy maqsadi – bitikni mantiqiy, qayta işlatiladigan qismlarga böliş, bölina oluvni tarğib qiliş va nomlar töqnaşuvini oldini oliş hamda dasturçilarga bitik qismlarini turli loyihalar örtasida osongina baham köriş imkonini beriş orqali katta dasturlarni soddalaştirişdir.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - majmua
 - modul

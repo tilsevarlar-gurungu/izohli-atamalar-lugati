@@ -1,12 +1,12 @@
 # Dastur
 
-**Inglizcha:** Software<br>
-**Ruscha:** Программное обеспечение<br>
+**Inglizça:** Software<br>
+**Rusça:** Программное обеспечение<br>
 **Soha:** Dasturlov
 
-**Dastur** — bu bilimsanar qurilmasining ishlashini ta’minlaydigan va foydalanuvchi talablarini bajaradigan barcha bitiklar va koʻrsatmalar majmuidir. U asosan ikki qismga boʻlinadi: boshqaruv tizimi (tizimli dasturlar) va foydalanuvchi bevosita ishlatadigan ilovalar. Sifatli dastur yaratish uchun boʻlinmali loyihalov tamoyillariga amal qilish, har bir boʻlinim oʻz vazifasini aniq bajarishini ta’minlash va kod ichidagi nuqsonlarni oʻz vaqtida bartaraf etish talab etiladi.
+**Dastur** — bu bilimsanar qurilmasining işlaşini taminlaydigan va foydalanuvçi talablarini bajaradigan barça bitiklar va körsatmalar majmuidir. U asosan ikki qismga bölinadi: boşqaruv tizimi (tizimli dasturlar) va foydalanuvçi bevosita işlatadigan ilovalar. Sifatli dastur yaratiş uçun bölinmali loyihalov tamoyillariga amal qiliş, har bir bölinim öz vazifasini aniq bajarişini taminlaş va kod içidagi nuqsonlarni öz vaqtida bartaraf etiş talab etiladi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - ilova
 - programma

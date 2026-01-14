@@ -1,13 +1,13 @@
-# Puch
+# Puç
 
-**Inglizcha:** Null<br>
-**Ruscha:** Пустое значение<br>
+**Inglizça:** Null<br>
+**Rusça:** Пустое значение<br>
 **Soha:** Dasturlov
 
-**Puch** — bu dastur ichidagi yorliqning hech qanday qiymatga ega emasligini yoki biron-bir jismga qaralmayotganini bildiruvchi maxsus holatdir. Bilimsanar xotirasida bu koʻpincha "boʻshliq" yoki "mavjud emaslik" sifatida talqin qilinadi. Agar bitik ichida kutilmaganda puch qiymat bilan hisob-kitob bajarishga urinilsa, bu tizimda nuqson paydo boʻlishiga yoki dasturning kutilmaganda toʻxtab qolishiga olib kelishi mumkin. Shu sababli, zamonaviy me’morchiliklarda va xotira-omon tillarda (masalan, Rust tilidagi yongʻoq kabi tuzilmalar orqali) puch qiymatlar bilan ishlashda ehtiyotkorlik choralari koʻriladi.
+**Puç** — bu dastur içidagi yorliqning heç qanday qiymatga ega emasligini yoki biron-bir jismga qaralmayotganini bildiruvçi mahsus holatdir. Bilimsanar hotirasida bu köpinça "böşliq" yoki "mavjud emaslik" sifatida talqin qilinadi. Agar bitik içida kutilmaganda puç qiymat bilan hisob-kitob bajarişga urinilsa, bu tizimda nuqson paydo bölişiga yoki dasturning kutilmaganda töhtab qolişiga olib kelişi mumkin. Şu sababli, zamonaviy memorçiliklarda va hotira-omon tillarda (masalan, Rust tilidagi yonğoq kabi tuzilmalar orqali) puç qiymatlar bilan işlaşda ehtiyotkorlik çoralari köriladi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - nol
-- hech
-- yoʻq
+- heç
+- yöq

@@ -11,8 +11,8 @@ fn sina_tamgalovchi_jumlani_almashtiradimi() {
 
     // Tamgʻalovchi oʻz ma'lumotlar omborida saqlaydigan atama fayli
     let atama_matni = r#"# API
-**Inglizcha:** Application Programming Interface
-**Ruscha:** API
+**Inglizça:** Application Programming Interface
+**Rusça:** API
 **Qisqartma:** API"#;
     fs::write(terms_yolagi.join("api.md"), atama_matni).unwrap();
 
@@ -20,7 +20,7 @@ fn sina_tamgalovchi_jumlani_almashtiradimi() {
 
     // tamgʻalamoqchi boʻlayotgan matnimiz
     let matn = r#"# Kirish
-**Inglizcha:** Oʻrin Egallovchi
+**Inglizça:** Oʻrin Egallovchi
 
 Men har kuni API ishlataman.
 ```rust,ignore
@@ -53,7 +53,7 @@ const API = 1;
     assert!(
         kirish
             .content
-            .contains(r#"<abbr title="Application Programming Interface / API">API</abbr>"#),
+            .contains(r#"<abbr data-en-ru="Application Programming Interface / API" aria-label="Application Programming Interface / API">API</abbr>"#),
         "'API' oddiy jumlasi tamgʻalanmagan ekan. Matn quyidagicha edi:\n{}",
         kirish.content
     );
@@ -72,15 +72,15 @@ fn sina_sifat_shakli_tamgalandimi() {
     fs::create_dir(&terms_yolagi).unwrap();
 
     let atama_matni = r#"# Atamalilik
-**Inglizcha:** Term
-**Ruscha:** Термин
-**Sifat shakli:** atamali"#;
+**Inglizça:** Term
+**Rusça:** Термин
+**Sifat şakli:** atamali"#;
     fs::write(terms_yolagi.join("atama.md"), atama_matni).unwrap();
 
     let mut kitob = Book::new();
 
     let matn = r#"# Sifatlarni Sinash
-**Inglizcha:** Test
+**Inglizça:** Test
 
 Ushbu gapda atamali birikma bor.
 
@@ -107,8 +107,9 @@ Ushbu gapda atamali birikma bor.
 
     // Tamgʻalovchi "sifat shakli"dagi atamani ham tamgʻalaganligini tekshir
     assert!(
-        bob.content
-            .contains(r#"<abbr title="Term / Термин">atamali</abbr>"#),
+        bob.content.contains(
+            r#"<abbr data-en-ru="Term / Термин" aria-label="Term / Термин">atamali</abbr>"#
+        ),
         "'atamali' Sifat shakli  tamgʻalanmagan ekan. Matn quyidagicha edi:\n{}",
         bob.content
     );

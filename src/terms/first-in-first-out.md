@@ -1,13 +1,13 @@
-# Ilk Kirgan Ilk Chiqar
+# Ilk Kirgan Ilk Çiqar
 
-**Inglizcha:** First-In First-Out (FIFO)<br>
-**Ruscha:** Первым пришёл — первым ушёл<br>
-**Qisqartma:** IKICh<br>
+**Inglizça:** First-In First-Out (FIFO)<br>
+**Rusça:** Первым пришёл — первым ушёл<br>
+**Qisqartma:** IKIÇ<br>
 **Soha:** Dasturlov
 
-**Ilk kirgan ilk chiqar** (FIFO) tamoyili navbat tizmasining asosi hisoblanadi. Bunda ma’lumotlar tizma ichiga qaysi tartibda kiritilgan boʻlsa, xuddi shu tartibda qayta ishlanadi. Ushbu usul bilimsanar xotirasida topshiriqlarni tartibga solish va navbatli ijro jarayonini toʻgʻri tashkil qilish uchun juda muhimdir. Agar birinchi boʻlib kelgan ma’lumot birinchi boʻlib bajarilmasa, dasturning mantiqiy izchilligi buzilishi mumkin.
+**Ilk kirgan ilk çiqar** (FIFO) tamoyili navbat tizmasining asosi hisoblanadi. Bunda malumotlar tizma içiga qaysi tartibda kiritilgan bölsa, huddi şu tartibda qayta işlanadi. Uşbu usul bilimsanar hotirasida topşiriqlarni tartibga soliş va navbatli ijro jarayonini töğri taşkil qiliş uçun juda muhimdir. Agar birinçi bölib kelgan malumot birinçi bölib bajarilmasa, dasturning mantiqiy izçilligi buzilişi mumkin.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- Birinchi Kirgan Birinchi Chiqar
-- Avval Kirgan Avval Chiqar
+- Birinçi Kirgan Birinçi Çiqar
+- Avval Kirgan Avval Çiqar

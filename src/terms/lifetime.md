@@ -1,13 +1,13 @@
 # Umr
 
-**Inglizcha:** Umr<br>
-**Ruscha:** Время жизни<br>
+**Inglizça:** Umr<br>
+**Rusça:** Время жизни<br>
 **Aloqali:** Rust<br>
 **Soha:** Dasturlov
 
-**Umr** — bu bitik ichidagi biror yorliq yoki ma’lumotning xotirada amal qilish va saqlanish muddati hisoblanadi. Dasturlov jarayonida, xususan Rust kabi tillarda, tuzgich har bir qaratqich uchun uning umrini qat’iy tekshiradi. Bu xotira-omonlik tamoyilini ta’minlash uchun zarur bo‘lib, ma’lumot o‘chirilganidan keyin unga noto‘g‘ri murojaat qilishning oldini oladi. Agar biror ma’lumotning umri u tugagandan keyin ham ishlatilmoqchi bo‘lsa, tuzgich xatolik haqida xabar beradi.
+**Umr** — bu bitik içidagi biror yorliq yoki malumotning hotirada amal qiliş va saqlaniş muddati hisoblanadi. Dasturlov jarayonida, hususan Rust kabi tillarda, tuzgiç har bir qaratqiç uçun uning umrini qatiy tekşiradi. Bu hotira-omonlik tamoyilini taminlaş uçun zarur bölib, malumot öçirilganidan keyin unga notöğri murojaat qilişning oldini oladi. Agar biror malumotning umri u tugagandan keyin ham işlatilmoqçi bölsa, tuzgiç hatolik haqida habar beradi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - hayot davomiyligi
 - hayot

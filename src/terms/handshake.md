@@ -1,11 +1,11 @@
-# Qoʻl-siquv
+# Qöl-siquv
 
-**Inglizcha:** Handshake<br>
-**Ruscha:** Рукопожатие<br>
-**Soha:** Xavfsizlik
+**Inglizça:** Handshake<br>
+**Rusça:** Рукопожатие<br>
+**Soha:** Havfsizlik
 
-**Qoʻl-siquv** — bu ikki tizim yoki qurilma o‘rtasida aloqa o‘rnatishdan oldin amalga oshiriladigan kelishuv jarayonidir. Kimligini tasdiqlov va vakolat beruv bosqichlarida bu jarayon o‘ta muhim, chunki u orqali tomonlar bir-birlarining shaxsini tekshirishadi va ma’lumot almashish uchun xavfsiz qoidalarni (shifrlash usullari va kalitlarni) belgilab olishadi. Ushbu dastlabki kelishuv muvaffaqiyatli yakunlangach, bilimsanar xavfsiz kanal orqali bitiklarni va ma’lumotlarni uzatishni boshlaydi. Bu mexanizm begona shaxslarning tarmoq oqimiga aralashishidan himoya qiladi.
+**Qöl-siquv** — bu ikki tizim yoki qurilma örtasida aloqa örnatişdan oldin amalga oşiriladigan kelişuv jarayonidir. Kimligini tasdiqlov va vakolat beruv bosqiçlarida bu jarayon öta muhim, çunki u orqali tomonlar bir-birlarining şahsini tekşirişadi va malumot almaşiş uçun havfsiz qoidalarni (şifrlaş usullari va kalitlarni) belgilab olişadi. Uşbu dastlabki kelişuv muvaffaqiyatli yakunlangaç, bilimsanar havfsiz kanal orqali bitiklarni va malumotlarni uzatişni boşlaydi. Bu mehanizm begona şahslarning tarmoq oqimiga aralaşişidan himoya qiladi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- hendsheyk
+- hendşeyk

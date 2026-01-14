@@ -1,11 +1,11 @@
-# Oʻrinlov
+# Örinlov
 
-**Inglizcha:** Indexing<br>
-**Ruscha:** Индексация<br>
+**Inglizça:** Indexing<br>
+**Rusça:** Индексация<br>
 **Soha:** Dasturlov
 
-**Oʻrinlov** — bu ma’lumotlar ombori yoki qidiruv tizimlarida kerakli ma’lumotni tezroq topish uchun yaratiladigan maxsus yordamchi tuzilmadir. Xuddi kitobning oxiridagi mundarija kabi, oʻrinlov barcha ma’lumotlarni ketma-ket qarab chiqish (toʻliq koʻzdan kechirish) oʻrniga, kalit soʻzlar boʻyicha kerakli yozuvning manziliga toʻgʻridan-toʻgʻri oʻtish imkonini beradi. Toʻliq matnli qidiruvda esa har bir jumla ichidagi soʻzlar alohida ajratib olinib, qaysi hujjatda uchrashi haqida oʻrinlov jadvali tuziladi; bu jarayon qidiruv dasturining millionlab ma’lumotlar ichidan soniyaning ulushlarida natija qaytarishini ta’minlaydi. Garchi oʻrinlov qidiruvni tezlashtirsa-da, u qoʻshimcha zahira (xotira) talab qiladi va ma’lumotlarni yangilash jarayonini bir oz sekinlashtirishi mumkin.
+**Örinlov** — bu malumotlar ombori yoki qidiruv tizimlarida kerakli malumotni tezroq topiş uçun yaratiladigan mahsus yordamçi tuzilmadir. Huddi kitobning ohiridagi mundarija kabi, örinlov barça malumotlarni ketma-ket qarab çiqiş (töliq közdan keçiriş) örniga, kalit sözlar böyiça kerakli yozuvning manziliga töğridan-töğri ötiş imkonini beradi. Töliq matnli qidiruvda esa har bir jumla içidagi sözlar alohida ajratib olinib, qaysi hujjatda uçraşi haqida örinlov jadvali tuziladi; bu jarayon qidiruv dasturining millionlab malumotlar içidan soniyaning uluşlarida natija qaytarişini taminlaydi. Garçi örinlov qidiruvni tezlaştirsa-da, u qöşimça zahira (hotira) talab qiladi va malumotlarni yangilaş jarayonini bir oz sekinlaştirişi mumkin.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - indeksatsiya

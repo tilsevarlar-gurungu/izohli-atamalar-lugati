@@ -1,13 +1,13 @@
-# Oʻrin raqami
+# Örin raqami
 
-**Inglizcha:** Index<br>
-**Ruscha:** Индекс<br>
+**Inglizça:** Index<br>
+**Rusça:** Индекс<br>
 **Soha:** Dasturlov
 
-**Oʻrin raqami** — bu tizma yoki boshqa ketma-ketlik ichidagi har bir elementning joylashgan manzilini koʻrsatuvchi sondir. Odatda, dasturlashda hisoblash noldan boshlanadi, ya’ni birinchi elementning oʻrin raqami 0 ga teng boʻladi. Ushbu tartib tufayli bilimsanar xotirasidagi ma’lumotni juda tez topish mumkin, chunki ijrochi har bir jismning joyini aynan shu raqam orqali aniqlaydi. Agar siz mavjud boʻlmagan oʻrin raqami orqali murojaat qilsangiz, dasturda nuqson yuzaga kelishi mumkin.
+**Örin raqami** — bu tizma yoki boşqa ketma-ketlik içidagi har bir elementning joylaşgan manzilini körsatuvçi sondir. Odatda, dasturlaşda hisoblaş noldan boşlanadi, yani birinçi elementning örin raqami 0 ga teng böladi. Uşbu tartib tufayli bilimsanar hotirasidagi malumotni juda tez topiş mumkin, çunki ijroçi har bir jismning joyini aynan şu raqam orqali aniqlaydi. Agar siz mavjud bölmagan örin raqami orqali murojaat qilsangiz, dasturda nuqson yuzaga kelişi mumkin.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - indeks
-- koʻrsatkich
+- körsatkiç
 - tartib raqami

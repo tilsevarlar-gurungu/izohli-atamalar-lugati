@@ -1,12 +1,12 @@
 # Quyi-qatlamli
 
-**Inglizcha:** Low-level<br>
-**Ruscha:** Низкоуровневый<br>
+**Inglizça:** Low-level<br>
+**Rusça:** Низкоуровневый<br>
 **Soha:** Dasturlov
 
-**Quyi-qatlamli** — bu bilimsanar quyma dasturiga va ijrochiga juda yaqin bo‘lgan, qurilma zahiralarini bevosita boshqarish imkonini beruvchi dasturlov darajasidir. Bunday darajada yozilgan bitik yuqori darajadagi mavhumliklardan xoli bo‘ladi, bu esa dasturchiga xotira va hisoblash quvvatini iloji boricha yuqori darajada nazorat qilish imkonini beradi. Odatda, magʻiz yoki tanishtiruvchi kabi tizimli dasturlar quyi-qatlamli tillarda yoziladi, chunki bu yerda har bir bit va baytning joylashuvi muhim ahamiyatga ega.
+**Quyi-qatlamli** — bu bilimsanar quyma dasturiga va ijroçiga juda yaqin bölgan, qurilma zahiralarini bevosita boşqariş imkonini beruvçi dasturlov darajasidir. Bunday darajada yozilgan bitik yuqori darajadagi mavhumliklardan holi böladi, bu esa dasturçiga hotira va hisoblaş quvvatini iloji boriça yuqori darajada nazorat qiliş imkonini beradi. Odatda, mağiz yoki taniştiruvçi kabi tizimli dasturlar quyi-qatlamli tillarda yoziladi, çunki bu yerda har bir bit va baytning joylaşuvi muhim ahamiyatga ega.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - past-darajali
 - past-qatlamli

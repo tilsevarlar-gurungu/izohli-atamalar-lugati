@@ -1,19 +1,19 @@
-# "Izohli Atamalar Lugʻati" Tajribaviy Loyihasi
+# "Izohli Atamalar Luğati" Tajribaviy Loyihasi
 
 ## Maqsad
 
-Oʻzbek tilining boy ichki xususiyatlaridan foydalangan holda oʻzbekcha, xalqona, va sodda atamalar yaratish.
+Özbek tilining boy içki hususiyatlaridan foydalangan holda özbekça, halqona, va sodda atamalar yaratiş.
 
-## Kimlar uchun
+## Kimlar uçun
 
-Faqat oʻzbek tilida soʻzlashadigan oʻrganuvchilar uchun. Toki fanlarning asosini oʻrganishda ular boshqa tillarga ehtiyoj sezishmasin.
+Faqat özbek tilida sözlaşadigan örganuvçilar uçun. Toki fanlarning asosini örganişda ular boşqa tillarga ehtiyoj sezişmasin.
 
 ## Loyiha yangiliklari
 
-Hozirda lugʻatda jami **{{jamiAtamalar}}** ta atama mavjud.
+Hozirda luğatda jami **{{jamiAtamalar}}** ta atama mavjud.
 
-### Yangi qoʻshilgan atamalar
+### Yangi qöşilgan atamalar
 {{oxirgiQoshilganlar}}
 
-### Soʻnggi yangilangan atamalar
+### Sönggi yangilangan atamalar
 {{oxirgiYangilanganlar}}

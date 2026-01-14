@@ -1,12 +1,12 @@
-# Oʻzak
+# Özak
 
-**Inglizcha:** Core<br>
-**Ruscha:** Ядро процессора<br>
-**Ota-atama:** Markaziy Ijro Boʻlinmasi<br>
+**Inglizça:** Core<br>
+**Rusça:** Ядро процессора<br>
+**Ota-atama:** Markaziy Ijro Bölinmasi<br>
 **Soha:** Qurilma
 
-**Oʻzak** — bu Markaziy Ijro Bo‘linmasi ichidagi hisoblash ishlarini bevosita amalga oshiruvchi asosiy qismdir. Zamonaviy bilimsanar ijrochilari odatda bir nechta oʻzakdan tashkil topadi, bu esa ularga bir vaqtning oʻzida bir nechta topshiriqni yonma-yon ravishda bajarish imkonini beradi. Har bir oʻzak mustaqil ravishda bitiklarni oʻqishi va qayta ishlashi mumkin, natijada tizimning umumiy unumdorligi oshadi. Bu qurilma ichida koʻp-tolali ishlash tizimini qoʻllab-quvvatlash va ogʻir amallarni tezroq yakunlash uchun poydevor hisoblanadi.
+**Özak** — bu Markaziy Ijro Bölinmasi içidagi hisoblaş işlarini bevosita amalga oşiruvçi asosiy qismdir. Zamonaviy bilimsanar ijroçilari odatda bir neçta özakdan taşkil topadi, bu esa ularga bir vaqtning özida bir neçta topşiriqni yonma-yon ravişda bajariş imkonini beradi. Har bir özak mustaqil ravişda bitiklarni öqişi va qayta işlaşi mumkin, natijada tizimning umumiy unumdorligi oşadi. Bu qurilma içida köp-tolali işlaş tizimini qöllab-quvvatlaş va oğir amallarni tezroq yakunlaş uçun poydevor hisoblanadi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - yadro

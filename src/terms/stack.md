@@ -1,14 +1,14 @@
-# Taxlam
+# Tahlam
 
-**Inglizcha:** Stack<br>
-**Ruscha:** Стек<br>
-**Aloqali:** Oxirgi Kirgan Ilk Chiqar<br>
+**Inglizça:** Stack<br>
+**Rusça:** Стек<br>
+**Aloqali:** Ohirgi Kirgan Ilk Çiqar<br>
 **Soha:** Dasturlov
 
-**Taxlam** - bilimsanar xotirasining dastur ishlashi uchun vaqtinchalik, tartibli saqlash uchun ishlatiladigan ajratilgan sohasidir. U Oxirgi Kirgan Birinchi Chiqar (OKICh) tamoyili asosida ishlaydi, xuddi chiroyli taxlangan likopchalar uyumiga oʻxshab: ustiga oxirgi qoʻyilgan narsa har doim birinchi boʻlib olinadi. Uning asosiy vazifasi topshiriq chaqiruvlarini boshqarish, ya’ni har bir topshiriq bajarilganda yerli yorliqlar va qaytish manzilini (dastur qayerga qaytishi kerakligini) saqlashdir. Bu esa taxlamdagi xotirani ajratish va boʻshatishni juda tez va qiyinchiliksiz qiladi.
+**Tahlam** - bilimsanar hotirasining dastur işlaşi uçun vaqtinçalik, tartibli saqlaş uçun işlatiladigan ajratilgan sohasidir. U Ohirgi Kirgan Birinçi Çiqar (OKIÇ) tamoyili asosida işlaydi, huddi çiroyli tahlangan likopçalar uyumiga öhşab: ustiga ohirgi qöyilgan narsa har doim birinçi bölib olinadi. Uning asosiy vazifasi topşiriq çaqiruvlarini boşqariş, yani har bir topşiriq bajarilganda yerli yorliqlar va qaytiş manzilini (dastur qayerga qaytişi kerakligini) saqlaşdir. Bu esa tahlamdagi hotirani ajratiş va böşatişni juda tez va qiyinçiliksiz qiladi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - stek
-- tax
-- taxlanma
+- tah
+- tahlanma

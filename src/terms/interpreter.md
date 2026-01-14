@@ -1,12 +1,12 @@
-# Agʻdargich
+# Ağdargiç
 
-**Inglizcha:** Interpreter<br>
-**Ruscha:** Интерпретатор<br>
+**Inglizça:** Interpreter<br>
+**Rusça:** Интерпретатор<br>
 **Soha:** Dasturlov
 
-**Agʻdargich** yuqori-qatlamli bitikni satr boʻylab oʻqiydigan va uni darhol mashina bitigiga tarjima qilib, ijrochiga yuboradigan dastur hisoblanadi. U tarjima qilish vaqtida nuqsonlarni yoki xatolarni topib, darhol ijroni toʻxtatadi, bu esa dasturchiga bitikni bosqichma-bosqich sinovdan oʻtkazishni osonlashtiradi. Agʻdargichlar bitikni yaxlit tuzuvga hojat qoldirmay, dasturlarni tezda ishga tushirish uchun qulaydir. Tuzgich esa bitikning barcha qismini bir yoʻla oʻqiydi va uni ijrochi toʻgʻridan-toʻgʻri ishga tushira oladigan butun bir mustaqil bajariqqa aylantiradi. Shu sababli, tuzgich bilan tayyorlangan dasturlar odatda agʻdargich yordamida yozilgan dasturlarga qaraganda tezroq ishlaydi.
+**Ağdargiç** yuqori-qatlamli bitikni satr böylab öqiydigan va uni darhol maşina bitigiga tarjima qilib, ijroçiga yuboradigan dastur hisoblanadi. U tarjima qiliş vaqtida nuqsonlarni yoki hatolarni topib, darhol ijroni töhtatadi, bu esa dasturçiga bitikni bosqiçma-bosqiç sinovdan ötkazişni osonlaştiradi. Ağdargiçlar bitikni yahlit tuzuvga hojat qoldirmay, dasturlarni tezda işga tuşiriş uçun qulaydir. Tuzgiç esa bitikning barça qismini bir yöla öqiydi va uni ijroçi töğridan-töğri işga tuşira oladigan butun bir mustaqil bajariqqa aylantiradi. Şu sababli, tuzgiç bilan tayyorlangan dasturlar odatda ağdargiç yordamida yozilgan dasturlarga qaraganda tezroq işlaydi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - interpretator
-- oʻgirgich
+- ögirgiç

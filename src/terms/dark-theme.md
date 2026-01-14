@@ -1,13 +1,13 @@
-# Toʻq Toʻn
+# Töq Tön
 
-**Inglizcha:** Dark Theme<br>
-**Ruscha:** Тёмная тема<br>
+**Inglizça:** Dark Theme<br>
+**Rusça:** Тёмная тема<br>
 **Soha:** Dasturlov
 
-**Toʻq Toʻn** — bu foydalanuvchi yuzlanmasida (FY) ranglar toʻplamini toʻq ranglarga (odatda qora yoki toʻq kulrang ortmanzarada va och rangdagi matn) oʻzgartirish uslubidir. Ushbu toʻn asosan kam yoritilgan muhitda koʻzning charchashini kamaytirish va bilimsanar ekranidan chiqadigan yorqinlikni tejash uchun ishlatiladi. Koʻpgina dastur va boshqaruv tizimi turlarida foydalanuvchilar toʻq toʻn va och toʻn oʻrtasida oʻtish uchun zidlovchi tugmasidan foydalanishlari mumkin. OLED ekranli qurilmalarda bu uslub zahira quvvatini sezilarli darajada tejashga yordam beradi.
+**Töq Tön** — bu foydalanuvçi yuzlanmasida (FY) ranglar töplamini töq ranglarga (odatda qora yoki töq kulrang ortmanzarada va oç rangdagi matn) özgartiriş uslubidir. Uşbu tön asosan kam yoritilgan muhitda közning çarçaşini kamaytiriş va bilimsanar ekranidan çiqadigan yorqinlikni tejaş uçun işlatiladi. Köpgina dastur va boşqaruv tizimi turlarida foydalanuvçilar töq tön va oç tön örtasida ötiş uçun zidlovçi tugmasidan foydalanişlari mumkin. OLED ekranli qurilmalarda bu uslub zahira quvvatini sezilarli darajada tejaşga yordam beradi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- qorongʻu toʻn
-- qora toʻn
-- tun toʻn
+- qoronğu tön
+- qora tön
+- tun tön

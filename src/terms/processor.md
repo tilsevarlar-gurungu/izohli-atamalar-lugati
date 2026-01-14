@@ -1,12 +1,12 @@
-# Ijrochi
+# Ijroçi
 
-**Inglizcha:** Processor<br>
-**Ruscha:** Процессор<br>
+**Inglizça:** Processor<br>
+**Rusça:** Процессор<br>
 **Soha:** Dasturlov
 
-**Ijrochi**, texnik tilda MIB (Markaziy Ijro Boʻlinmasi) deb nomlanadi, bu bilimsanarning miyasi hisoblanadi. U barcha hisob-kitoblarni amalga oshiradi va bitikdagi koʻrsatmalarni ijro etadi. MIB samaradorligi uning oʻzaklari soni va har bir oʻzakning qancha tolani boshqara olishiga bogʻliq. Oʻzak mustaqil ijro etish boʻlagidir, ya’ni bir MIBda bir nechta oʻzak boʻlsa, u bir vaqtning oʻzida bir nechta vazifani bajara oladi. Tola esa oʻzak bajarishi mumkin boʻlgan alohida vazifaning virtual tasviridir. Oʻzak va tolalarning koʻpligi MIB’ning bir vaqtda bir nechta vazifani bajarish, ya’ni koʻp-qoʻllilik qobiliyatini oshiradi.
+**Ijroçi**, tehnik tilda MIB (Markaziy Ijro Bölinmasi) deb nomlanadi, bu bilimsanarning miyasi hisoblanadi. U barça hisob-kitoblarni amalga oşiradi va bitikdagi körsatmalarni ijro etadi. MIB samaradorligi uning özaklari soni va har bir özakning qança tolani boşqara olişiga boğliq. Özak mustaqil ijro etiş bölagidir, yani bir MIBda bir neçta özak bölsa, u bir vaqtning özida bir neçta vazifani bajara oladi. Tola esa özak bajarişi mumkin bölgan alohida vazifaning virtual tasviridir. Özak va tolalarning köpligi MIBning bir vaqtda bir neçta vazifani bajariş, yani köp-qöllilik qobiliyatini oşiradi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - protsessor
-- bajargich
+- bajargiç

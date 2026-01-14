@@ -9,7 +9,7 @@ fn main() {
         return;
     }
     if let Err(e) = oldishlovni_yurit() {
-        eprintln!("Orinlovchi xatosi: {}", e);
+        eprintln!("Örinlovçi hatosi: {}", e);
         std::process::exit(1);
     }
 }

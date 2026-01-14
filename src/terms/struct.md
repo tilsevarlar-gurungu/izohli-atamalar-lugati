@@ -1,11 +1,11 @@
 # Tuzma
 
-**Inglizcha:** Struct<br>
-**Ruscha:** Структура<br>
+**Inglizça:** Struct<br>
+**Rusça:** Структура<br>
 **Soha:** Dasturlov
 
-**Tuzma** ma’lumotlar jinsi dasturlovda bir butun jismni ifodalash uchun turli xil jinsdagi ma’lumotlarni bir joyga toʻplaydigan tuzilmadir. U murakkabroq ma’lumotlarni tartiblash va ularni bitta nom ostida boshqarish imkonini beradi. C tilida `struct` kalit soʻzi bilan e’lon qilinadi va u shunchaki ma’lumotlar toʻplami boʻlib, unga bogʻliq boʻlgan topshiriqlar alohida yoziladi. Rust tilida ham tuzmalar xuddi shunday ma’lumotlarni birlashtiradi, biroq Rust tuzmalari C ga nisbatan ancha kuchliroqdir; ular nafaqat ma’lumotni oʻz ichiga oladi, balki `impl` tatbiq maydonlari yordamida amallar (topshiriqlar) bilan ham boyitilishi, ya’ni xuddi shakllar kabi xususiyatga ega boʻlishi mumkin. Rust’da tuzmalar xotira omonligini ta’minlashga yordam beradi.
+**Tuzma** malumotlar jinsi dasturlovda bir butun jismni ifodalaş uçun turli hil jinsdagi malumotlarni bir joyga töplaydigan tuzilmadir. U murakkabroq malumotlarni tartiblaş va ularni bitta nom ostida boşqariş imkonini beradi. C tilida `struct` kalit sözi bilan elon qilinadi va u şunçaki malumotlar töplami bölib, unga boğliq bölgan topşiriqlar alohida yoziladi. Rust tilida ham tuzmalar huddi şunday malumotlarni birlaştiradi, biroq Rust tuzmalari C ga nisbatan ança kuçliroqdir; ular nafaqat malumotni öz içiga oladi, balki `impl` tatbiq maydonlari yordamida amallar (topşiriqlar) bilan ham boyitilişi, yani huddi şakllar kabi hususiyatga ega bölişi mumkin. Rustda tuzmalar hotira omonligini taminlaşga yordam beradi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - tuzik

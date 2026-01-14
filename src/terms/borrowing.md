@@ -1,12 +1,12 @@
 # Olib turuv
 
-**Inglizcha:** Borrowing<br>
-**Ruscha:** Заимствование<br>
+**Inglizça:** Borrowing<br>
+**Rusça:** Заимствование<br>
 **Soha:** Dasturlov
 
-Rust tilida **olib turuv** bu egalik tizimining bir qismi boʻlib, yorliqlarga ularning qiymatidan vaqtinchalik foydalanish imkoniyatini berish uchun ishlatiladi. Bu jarayonda dasturchi qaratqich yaratadi, bu aslida qaralmishga ishora qiluvchi manzil ko‘rsatkichi ustidagi xavfsiz mavhumlashtirmadir. Bu qaratqich yordamida qaralmishga o‘tish mumkin. Tuzgich tarkibidagi maxsus vosita - olib turuv tekshiruvchisi, tuzuv vaqtida qoidalar toʻplamiga rioya qilinishini ta’minlaydi. Eng muhimi, bir vaqtning oʻzida bitta oʻzgaruvchan qaratqich va cheklanmagan sondagi oʻzgarmas qaratqichlar mavjud boʻlishi mumkin. Bu qoida manzil ko‘rsatkichlari orqali bevosita xotiraga kirishdan kelib chiqadigan koʻplab xotira bilan aloqali xatolarning oldini oladi.
+Rust tilida **olib turuv** bu egalik tizimining bir qismi bölib, yorliqlarga ularning qiymatidan vaqtinçalik foydalaniş imkoniyatini beriş uçun işlatiladi. Bu jarayonda dasturçi qaratqiç yaratadi, bu aslida qaralmişga işora qiluvçi manzil körsatkiçi ustidagi havfsiz mavhumlaştirmadir. Bu qaratqiç yordamida qaralmişga ötiş mumkin. Tuzgiç tarkibidagi mahsus vosita - olib turuv tekşiruvçisi, tuzuv vaqtida qoidalar töplamiga rioya qilinişini taminlaydi. Eng muhimi, bir vaqtning özida bitta özgaruvçan qaratqiç va çeklanmagan sondagi özgarmas qaratqiçlar mavjud bölişi mumkin. Bu qoida manzil körsatkiçlari orqali bevosita hotiraga kirişdan kelib çiqadigan köplab hotira bilan aloqali hatolarning oldini oladi.
 
-### Olib turuvning bitikda ishlashi
+### Olib turuvning bitikda işlaşi
 
 ```rust, ignore
 fn main() {
@@ -37,8 +37,8 @@ fn main() {
 ```
 
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - ijara
-- kiralash
-- olib turuv nazoratchisi
+- kiralaş
+- olib turuv nazoratçisi

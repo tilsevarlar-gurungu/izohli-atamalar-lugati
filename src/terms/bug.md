@@ -1,18 +1,18 @@
 # Nuqson
 
-**Inglizcha:** Bug<br>
-**Ruscha:** Баг<br>
+**Inglizça:** Bug<br>
+**Rusça:** Баг<br>
 **Soha:** Dasturlov
 
-**Nuqson** — dasturiy taʼminot yoki tizimdagi kutilmagan xato, kamchilik yoki nosozlik boʻlib, u dasturning notoʻgʻri ishlashiga, kutilmagan natijalarga olib kelishiga yoki butunlay ishlamay qolishiga sabab boʻladi. Ular odatda dasturchi tomonidan bitik yozish jarayonida kiritiladi va dasturni sinovdan oʻtkazishda yoki maxsus nuqsonsizlash jarayonida topiladi.
+**Nuqson** — dasturiy taminot yoki tizimdagi kutilmagan hato, kamçilik yoki nosozlik bölib, u dasturning notöğri işlaşiga, kutilmagan natijalarga olib kelişiga yoki butunlay işlamay qolişiga sabab böladi. Ular odatda dasturçi tomonidan bitik yoziş jarayonida kiritiladi va dasturni sinovdan ötkazişda yoki mahsus nuqsonsizlaş jarayonida topiladi.
 
-### Nuqson va xato oʻrtasidagi farq
+### Nuqson va hato örtasidagi farq
 
-Dasturchi kutadigan xato bu dasturning normal ishlash vaqtida ruxsat berilmagan faylga kirish kabi kutilgan, ammo noqulay vaziyatlarni boshqarish uchun moʻljallangan. Dasturchi bunday xatolarni oldindan biladi va ularni tutib, toʻgʻri javob berish uchun maxsus bitik yozadi.
+Dasturçi kutadigan hato bu dasturning normal işlaş vaqtida ruhsat berilmagan faylga kiriş kabi kutilgan, ammo noqulay vaziyatlarni boşqariş uçun möljallangan. Dasturçi bunday hatolarni oldindan biladi va ularni tutib, töğri javob beriş uçun mahsus bitik yozadi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- xatolik
-- kamchilik
-- bit (qon soʻruvchi)
-- hasharot
+- hatolik
+- kamçilik
+- bit (qon söruvçi)
+- haşarot

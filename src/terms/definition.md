@@ -1,12 +1,12 @@
-# Ta’rif
+# Tarif
 
-**Inglizcha:** Definition<br>
-**Ruscha:** Определение<br>
+**Inglizça:** Definition<br>
+**Rusça:** Определение<br>
 **Soha:** Dasturlov
 
-**Ta’rif** — bu dasturlovda biror yorliq, topshiriq yoki suratning nomi, turi va mazmunini toʻliq belgilash jarayonidir. Ta’rif berish orqali tuzgichga ushbu element uchun qancha xotira ajratish kerakligi va u qanday vazifani bajarishi haqida ma’lumot beriladi. Masalan, biror topshiriqning ta’rifi uning qanday topshiriq talabi qabul qilishi va qanday qaytim berishini oʻz ichiga oladi. Agar siz faqat nomni e’lon qilib, mazmunini keyinroq yozsangiz, bu e’lon hisoblanadi, lekin ta’rif uchun toʻliq bitik boʻlagini yozish lozim boʻladi.
+**Tarif** — bu dasturlovda biror yorliq, topşiriq yoki suratning nomi, turi va mazmunini töliq belgilaş jarayonidir. Tarif beriş orqali tuzgiçga uşbu element uçun qança hotira ajratiş kerakligi va u qanday vazifani bajarişi haqida malumot beriladi. Masalan, biror topşiriqning tarifi uning qanday topşiriq talabi qabul qilişi va qanday qaytim berişini öz içiga oladi. Agar siz faqat nomni elon qilib, mazmunini keyinroq yozsangiz, bu elon hisoblanadi, lekin tarif uçun töliq bitik bölagini yoziş lozim böladi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - bayon
 - tavsif

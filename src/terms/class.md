@@ -1,17 +1,17 @@
 # Surat
 
-**Inglizcha:** Class<br>
-**Ruscha:** Класс<br>
+**Inglizça:** Class<br>
+**Rusça:** Класс<br>
 **Aloqali:** JD<br>
 **Soha:** Jismli Dastuvlov
 
-**Surat** – bu bilimsanar fanida, xususan, jismli dasturlovda (JD) jismlarni yaratish uchun qolip boʻlib xizmat qiladi. U bir qator xususiyatlar (maʼlumotlar yoki yorliqlar, masalan, mushukning rangi va zoti kabi) va amallar (topshiriqlar yoki xatti-harakatlar, masalan, mushukning yugurishi yoki miyovlash amali kabi) toʻplamini belgilaydi. Suratlar tegishli maʼlumotlarni va shu maʼlumotlar ustida ishlaydigan topshiriqlarni guruhlash orqali bitikni tartibga solishga yordam beradi.
+**Surat** – bu bilimsanar fanida, hususan, jismli dasturlovda (JD) jismlarni yaratiş uçun qolip bölib hizmat qiladi. U bir qator hususiyatlar (malumotlar yoki yorliqlar, masalan, muşukning rangi va zoti kabi) va amallar (topşiriqlar yoki hatti-harakatlar, masalan, muşukning yugurişi yoki miyovlaş amali kabi) töplamini belgilaydi. Suratlar tegişli malumotlarni va şu malumotlar ustida işlaydigan topşiriqlarni guruhlaş orqali bitikni tartibga solişga yordam beradi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - andoza
 - andaza
-- shakl
+- şakl
 - sinf
 - klass
 - siymo

@@ -1,11 +1,11 @@
 # Ketma-ketlik
 
-**Inglizcha:** Sequence<br>
-**Ruscha:** Последовательность<br>
+**Inglizça:** Sequence<br>
+**Rusça:** Последовательность<br>
 **Soha:** Dasturlov
 
-**Ketma-ketlik** — bu ma’lumotlarni tartiblangan holda saqlash uchun xizmat qiluvchi umumiy tushunchadir. Dasturlashda bu tushuncha ostida bir necha turdagi tizmalar mavjud: masalan, bir xil jinsdagi elementlarni saqlaydigan tizma yoki turli xil jinsdagi elementlarni birlashtira oladigan yigʻma. Har bir ketma-ketlik elementiga uning oʻrin raqami orqali murojaat qilish mumkin, bu esa topshiriqlar bajarilayotgan paytda ma’lumotlarni tezkor qidirish va tahlil qilish imkonini beradi.
+**Ketma-ketlik** — bu malumotlarni tartiblangan holda saqlaş uçun hizmat qiluvçi umumiy tuşunçadir. Dasturlaşda bu tuşunça ostida bir neça turdagi tizmalar mavjud: masalan, bir hil jinsdagi elementlarni saqlaydigan tizma yoki turli hil jinsdagi elementlarni birlaştira oladigan yiğma. Har bir ketma-ketlik elementiga uning örin raqami orqali murojaat qiliş mumkin, bu esa topşiriqlar bajarilayotgan paytda malumotlarni tezkor qidiriş va tahlil qiliş imkonini beradi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - tizma

@@ -1,12 +1,12 @@
 # Navbatsiz Ijro
 
-**Inglizcha:** Asynchronous<br>
-**Ruscha:** Асинхронность<br>
+**Inglizça:** Asynchronous<br>
+**Rusça:** Асинхронность<br>
 **Soha:** Dasturlov
 
-**Navbatsiz ijro** zamonaviy dasturlashda juda muhim hisoblanadi, chunki u bilimsanar quvvatidan unumli foydalanish imkonini beradi. Navbatli ijrodan farqli o‘laroq, navbatsiz ijroda biror vazifa (masalan, tarmoqdan ma’lumot yuklash) tugashini kutmasdan, boshqa bitiklarni bajarish davom ettiriladi. Bu esa bilimsanar foydalanuvchisi uchun dasturning "qotib qolmasligini" va ko‘p-qo‘llilik muhitida ish samaradorligi oshishini ta’minlaydi.
+**Navbatsiz ijro** zamonaviy dasturlaşda juda muhim hisoblanadi, çunki u bilimsanar quvvatidan unumli foydalaniş imkonini beradi. Navbatli ijrodan farqli ölaroq, navbatsiz ijroda biror vazifa (masalan, tarmoqdan malumot yuklaş) tugaşini kutmasdan, boşqa bitiklarni bajariş davom ettiriladi. Bu esa bilimsanar foydalanuvçisi uçun dasturning "qotib qolmasligini" va köp-qöllilik muhitida iş samaradorligi oşişini taminlaydi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - safsiz ijro
 - tartibsiz ijro

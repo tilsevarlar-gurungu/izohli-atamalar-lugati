@@ -1,11 +1,11 @@
-# Kalitsoʻz
+# Kalitsöz
 
-**Inglizcha:** Keyword<br>
-**Ruscha:** Ключевое слово<br>
+**Inglizça:** Keyword<br>
+**Rusça:** Ключевое слово<br>
 **Soha:** Dasturlov
 
-**Kalitsoʻz** — bu dasturlov tilida maxsus ma’noga ega bo‘lgan va tuzgich tomonidan band qilingan bitik bo‘lagidir. Dasturchi bu so‘zlardan o‘z xohishicha yorliq nomi sifatida foydalana olmaydi, chunki ular dasturning mantiqiy tuzilishini belgilab beradi. Har bir kalitsoʻz muayyan bir topshiriq yoki amallarni bajarish uchun xizmat qiladi va tilning yozuv qoidasi asosini tashkil etadi.
+**Kalitsöz** — bu dasturlov tilida mahsus manoga ega bölgan va tuzgiç tomonidan band qilingan bitik bölagidir. Dasturçi bu sözlardan öz hohişiça yorliq nomi sifatida foydalana olmaydi, çunki ular dasturning mantiqiy tuzilişini belgilab beradi. Har bir kalitsöz muayyan bir topşiriq yoki amallarni bajariş uçun hizmat qiladi va tilning yozuv qoidasi asosini taşkil etadi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- kalitli soʻz
+- kalitli söz

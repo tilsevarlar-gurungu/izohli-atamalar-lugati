@@ -1,25 +1,25 @@
 # Tamoyillar
 
-## Murosasiz yaratuvchanlik
+## Murosasiz yaratuvçanlik
 
-Loyiha tajribaviy boʻlgani uchun atama yasashda hozirgi holat va muvaffaqiyat ehtimoli eng oxirida hisobga olinadi. Asosiy e'tibor u yoki bu soʻz qanchalik oʻzbekcha va atamaning mohiyatini qay darajada ochib bera olishiga qaratiladi.
+Loyiha tajribaviy bölgani uçun atama yasaşda hozirgi holat va muvaffaqiyat ehtimoli eng ohirida hisobga olinadi. Asosiy etibor u yoki bu söz qançalik özbekça va atamaning mohiyatini qay darajada oçib bera olişiga qaratiladi.
 
-Taklif qilinayotgan ba'zi atamalar hech qachon ommalashmasligi mumkin, lekin bu bizni sinab koʻrishdan qaytarmasligi kerak.
+Taklif qilinayotgan bazi atamalar heç qaçon ommalaşmasligi mumkin, lekin bu bizni sinab körişdan qaytarmasligi kerak.
 
-## Xalqchillik
+## Halqçillik
 
-Soʻz tanlashda quyidagilarga e'tibor qaratiladi:
+Söz tanlaşda quyidagilarga etibor qaratiladi:
 
 - atama mohiyatini qay darajada qamraydi
-- oʻrganuvchiga qay darajada tushunarli
-- atama oʻzbek tilining xususiyatlariga qay darajada mos
-- atama talaffuzi oʻzbek tillilar uchun qay darajada tabiiy
+- örganuvçiga qay darajada tuşunarli
+- atama özbek tilining hususiyatlariga qay darajada mos
+- atama talaffuzi özbek tillilar uçun qay darajada tabiiy
 
-## Ona tili boyligidan foydalanish
+## Ona tili boyligidan foydalaniş
 
-Atamalarni tanlashda quyidagi tartibga rioya qilinadi:
+Atamalarni tanlaşda quyidagi tartibga rioya qilinadi:
 
-- turkiy asosli soʻzlar
-- arabcha, fors-tojikchadan kirgan soʻzlar
-- inglizchadan kirgan soʻzlar
-- ruschadan kirgan soʻzlar
+- turkiy asosli sözlar
+- arabça, fors-tojikçadan kirgan sözlar
+- inglizçadan kirgan sözlar
+- rusçadan kirgan sözlar

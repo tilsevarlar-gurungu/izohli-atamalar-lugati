@@ -1,12 +1,12 @@
 # Risoladagilik
 
-**Inglizcha:** Idiomaticity<br>
-**Ruscha:** Идиоматичность<br>
-**Sifat shakli:** Risoladagi<br>
+**Inglizça:** Idiomaticity<br>
+**Rusça:** Идиоматичность<br>
+**Sifat şakli:** Risoladagi<br>
 **Soha:** Dasturlov
 
-Dasturlovda **risoladagilik** — ma’lum bir dasturlash tilining tabiiy va an’anaviy usuliga mos keladigan bitikni yaratishni anglatadi. Xuddi har bir inson tilining oʻziga xos iboralari boʻlganidek, har bir dasturlov tilida (masalan, Python yoki Java) ham muammoni hal qilishning oʻziga xos eng yaxshi yoʻli mavjud. Risoladagi bitik tezroq oʻqiladi, osonroq tushuniladi va uzoq muddatda kamroq nuqsonlarni keltirib chiqaradi, chunki boshqa dasturchilar bu tilning "odatiy" uslubini kutishadi.
+Dasturlovda **risoladagilik** — malum bir dasturlaş tilining tabiiy va ananaviy usuliga mos keladigan bitikni yaratişni anglatadi. Huddi har bir inson tilining öziga hos iboralari bölganidek, har bir dasturlov tilida (masalan, Python yoki Java) ham muammoni hal qilişning öziga hos eng yahşi yöli mavjud. Risoladagi bitik tezroq öqiladi, osonroq tuşuniladi va uzoq muddatda kamroq nuqsonlarni keltirib çiqaradi, çunki boşqa dasturçilar bu tilning "odatiy" uslubini kutişadi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - idiomatiklik

@@ -1,20 +1,20 @@
 # Tatbiq Maydoni
 
-**Inglizcha:** Implementation Block<br>
-**Ruscha:** Блок реализации<br>
+**Inglizça:** Implementation Block<br>
+**Rusça:** Блок реализации<br>
 **Aloqali:** Rust<br>
 **Soha:** Dasturlov
 
-Rust tilida **tatbiq maydoni** maxsus `impl` (implementation) kalit soʻzi yordamida yaratiladi. Boshqa koʻplab tillardan farqli oʻlaroq, Rustda ma’lumotlar tuzmasi (struct) va uning amallari bir-biridan ajratilgan boʻladi: `struct` qismida faqat xususiyatlar e’lon qilinsa, `impl` tatbiq maydonida esa shu tuzmaga tegishli barcha topshiriqlar va mantiqiy bitiklar yoziladi.
+Rust tilida **tatbiq maydoni** mahsus `impl` (implementation) kalit sözi yordamida yaratiladi. Boşqa köplab tillardan farqli ölaroq, Rustda malumotlar tuzmasi (struct) va uning amallari bir-biridan ajratilgan böladi: `struct` qismida faqat hususiyatlar elon qilinsa, `impl` tatbiq maydonida esa şu tuzmaga tegişli barça topşiriqlar va mantiqiy bitiklar yoziladi.
 
-Ushbu maydon ichida:
+Uşbu maydon içida:
 
-- *Xususiy topshiriqlar:* Faqat shu tuzma ichida ishlaydigan mantiq.
-- *Olamshumul boʻlmagan amallar:* Jism yaratmasdan turib chaqiriladigan amallar (masalan, new() amali).
-- *Xislatlar tatbigʻi:* Biror umumiy xislatni aniq bir jinsga moslab chiqish.
+- *Hususiy topşiriqlar:* Faqat şu tuzma içida işlaydigan mantiq.
+- *Olamşumul bölmagan amallar:* Jism yaratmasdan turib çaqiriladigan amallar (masalan, new() amali).
+- *Hislatlar tatbiği:* Biror umumiy hislatni aniq bir jinsga moslab çiqiş.
 
-Bu yondashuv bitikning pogʻonalilik tuzumini yaxshilaydi va bitikni qayta ishlashni ancha osonlashtiradi, chunki barcha mantiqiy "harakatlar" bitta jamlangan tatbiq maydoni ichida boʻladi.
+Bu yondaşuv bitikning poğonalilik tuzumini yahşilaydi va bitikni qayta işlaşni ança osonlaştiradi, çunki barça mantiqiy "harakatlar" bitta jamlangan tatbiq maydoni içida böladi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- tatbiq boʻlagi
+- tatbiq bölagi

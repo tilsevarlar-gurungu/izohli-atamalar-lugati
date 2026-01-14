@@ -1,15 +1,15 @@
-# Ogʻuv
+# Oğuv
 
-**Inglizcha:** Bias<br>
-**Ruscha:** Предвзятость<br>
-**Sifat shakli:** Ogʻma<br>
+**Inglizça:** Bias<br>
+**Rusça:** Предвзятость<br>
+**Sifat şakli:** Oğma<br>
 **Soha:** Umumiy<br>
 
-**Ogʻuv** atamasi umumiy maʼnoda biror narsaga, shaxsga yoki guruhga nisbatan adolatli va xolis boʻlmagan munosabatni, yaʼni fikrning bir tomonga qarab qolishini anglatadi. Bu tushuncha koʻpincha dalillarga emas, balki shaxsiy qarashlar yoki qotma tasavvurlarga asoslangan ogʻma munosabatni ifodalaydi. Ogʻuv jarayoni ongostida shakllanishi mumkin, bu esa insonning qaror qabul qilishida yoki axborotni talqin qilishida noxolislikka olib keladi. Kundalik hayotda, fanda yoki texnologiyada uchrashidan qatʼi nazar, bunday ogʻma qarashlar xolislikni cheklaydi va vaziyatni boricha baholashga toʻsqinlik qiladi.
+**Oğuv** atamasi umumiy manoda biror narsaga, şahsga yoki guruhga nisbatan adolatli va holis bölmagan munosabatni, yani fikrning bir tomonga qarab qolişini anglatadi. Bu tuşunça köpinça dalillarga emas, balki şahsiy qaraşlar yoki qotma tasavvurlarga asoslangan oğma munosabatni ifodalaydi. Oğuv jarayoni ongostida şakllanişi mumkin, bu esa insonning qaror qabul qilişida yoki ahborotni talqin qilişida noholislikka olib keladi. Kundalik hayotda, fanda yoki tehnologiyada uçraşidan qatiy nazar, bunday oğma qaraşlar holislikni çeklaydi va vaziyatni boriça baholaşga tösqinlik qiladi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- ogʻuvchanlik
-- noxolislik
+- oğuvçanlik
+- noholislik
 
 **Muallif**: Eldar Asanov

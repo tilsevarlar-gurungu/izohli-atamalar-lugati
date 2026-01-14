@@ -1,12 +1,12 @@
-# Xotira
+# Hotira
 
-**Inglizcha:** Memory<br>
-**Ruscha:** Память<br>
+**Inglizça:** Memory<br>
+**Rusça:** Память<br>
 **Soha:** Dasturlov
 
-**Xotira** — bu bilimsanar ichida ma’lumotlarni va bitiklarni vaqtincha yoki doimiy saqlash uchun mo‘ljallangan joydir. U asosan ikki turga bo‘linadi: o‘char xotira, ya’ni elektr ta’minoti uzilganda ma’lumotlar yo‘qoladigan qism, va o‘chmas xotira, ya’ni ma’lumotlar uzoq muddat saqlanadigan qism. Markaziy Ijro Bo‘linmasi biror dasturni ishga tushirganida, kerakli ma’lumotlar va zahiralarni aynan xotiradan oladi. Dasturning samarali ishlashi uchun xotira zahiralarini to‘g‘ri boshqarish va undagi nuqsonlarni oldini olish juda muhimdir.
+**Hotira** — bu bilimsanar içida malumotlarni va bitiklarni vaqtinça yoki doimiy saqlaş uçun möljallangan joydir. U asosan ikki turga bölinadi: öçar hotira, yani elektr taminoti uzilganda malumotlar yöqoladigan qism, va öçmas hotira, yani malumotlar uzoq muddat saqlanadigan qism. Markaziy Ijro Bölinmasi biror dasturni işga tuşirganida, kerakli malumotlar va zahiralarni aynan hotiradan oladi. Dasturning samarali işlaşi uçun hotira zahiralarini töğri boşqariş va undagi nuqsonlarni oldini oliş juda muhimdir.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - yod
 - es

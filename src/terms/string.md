@@ -1,14 +1,14 @@
 # Jumla
 
-**Inglizcha:** String<br>
-**Ruscha:** Строка<br>
+**Inglizça:** String<br>
+**Rusça:** Строка<br>
 **Ota-atama:** Jins<br>
 **Soha:** Dasturlov
 
-**Jumla** — bu dasturlovda matnli ma’lumotlarni ifodalash uchun ishlatiladigan ma’lumot jinsidir. U belgilar (harflar, raqamlar, tinish belgilari) ketma-ketligidan iborat boʻlib, odatda qoʻshtirnoq yoki bir tirnoq ichiga olinadi. Jumlalar bilan ishlashda ularni bir-biriga qoʻshish (ulash), qismlarga ajratish yoki ichidan ma’lum bir belgini qidirish kabi amallar bajariladi. Koʻpgina tillarda jumlalar oʻzgarmas boʻladi, ya’ni bir marta yaratilgandan keyin uning ichidagi belgini bevosita oʻzgartirib boʻlmaydi, oʻrniga yangi jumla hosil qilinadi.
+**Jumla** — bu dasturlovda matnli malumotlarni ifodalaş uçun işlatiladigan malumot jinsidir. U belgilar (harflar, raqamlar, tiniş belgilari) ketma-ketligidan iborat bölib, odatda qöştirnoq yoki bir tirnoq içiga olinadi. Jumlalar bilan işlaşda ularni bir-biriga qöşiş (ulaş), qismlarga ajratiş yoki içidan malum bir belgini qidiriş kabi amallar bajariladi. Köpgina tillarda jumlalar özgarmas böladi, yani bir marta yaratilgandan keyin uning içidagi belgini bevosita özgartirib bölmaydi, örniga yangi jumla hosil qilinadi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- munchoq
+- munçoq
 - matn
 - ip

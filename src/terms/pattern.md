@@ -1,12 +1,12 @@
 # Qolip
 
-**Inglizcha:** Pattern<br>
-**Ruscha:** Шаблон<br>
+**Inglizça:** Pattern<br>
+**Rusça:** Шаблон<br>
 **Soha:** Dasturlov
 
-**Qoliplar** - tez-tez uchraydigan muammolarga topilgan, sinovdan oʻtgan va qayta foydalanish mumkin boʻlgan yechimlardir. Ular muayyan bitik parchalari emas, balki turli sharoitlarda maʼlum bir loyihalov muammosini qanday hal qilish kerakligini koʻrsatuvchi tavsiyalardir. Boshqacha qilib aytganda, bilimsanar sohasidagi tajribalar natijasida yigʻilgan, koʻpchilik tomonidan e’tirof etilgan, qandaydir darajada isbotlangan usullar, yoʻllarni qolip deyish mumkin.
+**Qoliplar** - tez-tez uçraydigan muammolarga topilgan, sinovdan ötgan va qayta foydalaniş mumkin bölgan yeçimlardir. Ular muayyan bitik parçalari emas, balki turli şaroitlarda malum bir loyihalov muammosini qanday hal qiliş kerakligini körsatuvçi tavsiyalardir. Boşqaça qilib aytganda, bilimsanar sohasidagi tajribalar natijasida yiğilgan, köpçilik tomonidan etirof etilgan, qandaydir darajada isbotlangan usullar, yöllarni qolip deyiş mumkin.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- shablon
+- şablon
 - andoza

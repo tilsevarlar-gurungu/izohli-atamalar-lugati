@@ -1,11 +1,11 @@
-# Toʻqnashuv
+# Töqnaşuv
 
-**Inglizcha:** Collision<br>
-**Ruscha:** Коллизия<br>
+**Inglizça:** Collision<br>
+**Rusça:** Коллизия<br>
 **Soha:** Dasturlov
 
-**Toʻqnashuv** — bu qiymalov jarayonida ikki xil kiritma ma’lumotining bir xil qiymaga ega boʻlib qolish holatidir. Odatda, har bir ma’lumot uchun takrorlanmas kalit yaratilishi kerak, biroq cheklangan xirmon yoki xotira maydoni tufayli ba’zan turli xil bitiklar bir xil manzilga ishora qilib qoladi. Bu holat ma’lumotlar bazasi yoki biriktirma kabi tuzilmalarda qidiruv tezligini pasaytiradi va ma’lumotlarni saqlashda chalkashliklarga olib keladi. Yaxshi tuzilgan alxorazmalar toʻqnashuv ehtimolini imkon qadar kamaytirishga harakat qiladi.
+**Töqnaşuv** — bu qiymalov jarayonida ikki hil kiritma malumotining bir hil qiymaga ega bölib qoliş holatidir. Odatda, har bir malumot uçun takrorlanmas kalit yaratilişi kerak, biroq çeklangan hirmon yoki hotira maydoni tufayli bazan turli hil bitiklar bir hil manzilga işora qilib qoladi. Bu holat malumotlar bazasi yoki biriktirma kabi tuzilmalarda qidiruv tezligini pasaytiradi va malumotlarni saqlaşda çalkaşliklarga olib keladi. Yahşi tuzilgan alhorazmalar töqnaşuv ehtimolini imkon qadar kamaytirişga harakat qiladi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - kolliziya

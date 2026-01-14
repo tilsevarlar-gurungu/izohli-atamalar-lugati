@@ -1,11 +1,11 @@
 # Loyihalov
 
-**Inglizcha:** Design<br>
-**Ruscha:** Дизайн<br>
+**Inglizça:** Design<br>
+**Rusça:** Дизайн<br>
 **Soha:** Dasturlov
 
-**Loyihalov** — bu biror narsani (xoh u dastur, xoh moddiy buyum boʻlsin) yaratishdan avval uning koʻrinishi, tuzilishi va ishlash tamoyillarini rejalashtirish jarayonidir. Umumiy ma’noda loyihalash foydalanuvchi ehtiyojlarini qondirish uchun mavjud zahiralarni eng samarali tarzda birlashtirishni anglatadi. Yaxshi loyihalangan tizim nafaqat chiroyli koʻrinadi, balki oʻz vazifasini ham izchillik bilan bajaradi. Bu jarayonda har bir boʻlinim oʻz joyida boʻlishi va foydalanuvchiga qulay yuzlanma (masalan, toʻgʻri joylashgan kalittaxta va ekran elementlari) taqdim etilishi koʻzda tutiladi.
+**Loyihalov** — bu biror narsani (hoh u dastur, hoh moddiy buyum bölsin) yaratişdan avval uning körinişi, tuzilişi va işlaş tamoyillarini rejalaştiriş jarayonidir. Umumiy manoda loyihalaş foydalanuvçi ehtiyojlarini qondiriş uçun mavjud zahiralarni eng samarali tarzda birlaştirişni anglatadi. Yahşi loyihalangan tizim nafaqat çiroyli körinadi, balki öz vazifasini ham izçillik bilan bajaradi. Bu jarayonda har bir bölinim öz joyida bölişi va foydalanuvçiga qulay yuzlanma (masalan, töğri joylaşgan kalittahta va ekran elementlari) taqdim etilişi közda tutiladi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - dizayn

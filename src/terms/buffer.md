@@ -1,11 +1,11 @@
-# Xirmon
+# Hirmon
 
-**Inglizcha:** Buffer<br>
-**Ruscha:** Буфер<br>
+**Inglizça:** Buffer<br>
+**Rusça:** Буфер<br>
 **Soha:** Dasturlov
 
-**Xirmon** — bu ma’lumotlarni bir joydan ikkinchi joyga o‘tkazishda vaqtincha saqlab turuvchi maxsus xotira qismidir. U odatda ma’lumotlarni uzatish tezligi har xil bo‘lgan qurilmalar o‘rtasidagi farqni muvozanatlash uchun ishlatiladi. Masalan, tarmoqdan video yuklanayotganida, ma’lumotlar avval xirmonda yig‘iladi va yetarli miqdorga yetgach, bilimsanar ekranida silliq ko‘rsata boshlaydi. Bu usul tizimdagi uzilishlarning oldini oladi va Markaziy Ijro Bo‘linmasi ishini samarali tashkil qilishga yordam beradi.
+**Hirmon** — bu malumotlarni bir joydan ikkinçi joyga ötkazişda vaqtinça saqlab turuvçi mahsus hotira qismidir. U odatda malumotlarni uzatiş tezligi har hil bölgan qurilmalar örtasidagi farqni muvozanatlaş uçun işlatiladi. Masalan, tarmoqdan video yuklanayotganida, malumotlar avval hirmonda yiğiladi va yetarli miqdorga yetgaç, bilimsanar ekranida silliq körsata boşlaydi. Bu usul tizimdagi uzilişlarning oldini oladi va Markaziy Ijro Bölinmasi işini samarali taşkil qilişga yordam beradi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - bufer

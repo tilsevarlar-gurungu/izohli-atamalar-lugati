@@ -1,12 +1,12 @@
 # Barqaror-jinsli
 
-**Inglizcha:** Statically-Typed<br>
-**Ruscha:** Статически типизированный<br>
+**Inglizça:** Statically-Typed<br>
+**Rusça:** Статически типизированный<br>
 **Soha:** Dasturlov
 
-**Barqaror-jinsli** — bu dasturlov tili turi bo‘lib, unda har bir yorliq qaysi jinsdagi ma’lumotni (son, matn, mantiqiy va h.k.) saqlashi bitik yozilayotgan yoki tuzilayotgan vaqtda aniq belgilanadi. Bu tizimda yorliqning jinsi dastur ishlashidan oldin qat’iy tekshiriladi va keyinchalik uni o‘zgartirib bo‘lmaydi. Barqaror-jinsli yondashuv ko‘plab mantiqiy xatolarni hali dastur ishga tushmasidanoq aniqlash imkonini beradi, bu esa ijro vaqtidagi barqarorlikni va tezlikni oshiradi.
+**Barqaror-jinsli** — bu dasturlov tili turi bölib, unda har bir yorliq qaysi jinsdagi malumotni (son, matn, mantiqiy va h.k.) saqlaşi bitik yozilayotgan yoki tuzilayotgan vaqtda aniq belgilanadi. Bu tizimda yorliqning jinsi dastur işlaşidan oldin qatiy tekşiriladi va keyinçalik uni özgartirib bölmaydi. Barqaror-jinsli yondaşuv köplab mantiqiy hatolarni hali dastur işga tuşmasidanoq aniqlaş imkonini beradi, bu esa ijro vaqtidagi barqarorlikni va tezlikni oşiradi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - statik jinsli
-- turgʻun jinsli
+- turğun jinsli

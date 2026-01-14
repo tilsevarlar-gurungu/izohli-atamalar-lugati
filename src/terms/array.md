@@ -1,38 +1,38 @@
 # Tizma
 
-**Inglizcha:** Array<br>
-**Ruscha:** Массив<br>
+**Inglizça:** Array<br>
+**Rusça:** Массив<br>
 **Ota-atama:** Ketma-ketlik<br>
 **Soha:** Dasturlov
 
-Tizma – bu bir xil turdagi ma’lumot elementlarining ketma-ket, qoʻshni xotira
-joylarida saqlanadigan toʻplamidir. Har bir tizma elementiga uning oʻrni orqali
-murojaat qilinadi. Tizma elementlarining oʻrni ketma-ket keluvchi raqamlar
-orqali ifodalanadi: masalan `0, 1, 2 ... n`. Boshqacha qilib aytganda,
+Tizma – bu bir hil turdagi malumot elementlarining ketma-ket, qöşni hotira
+joylarida saqlanadigan töplamidir. Har bir tizma elementiga uning örni orqali
+murojaat qilinadi. Tizma elementlarining örni ketma-ket keluvçi raqamlar
+orqali ifodalanadi: masalan `0, 1, 2 ... n`. Boşqaça qilib aytganda,
 bu raqamlar tizma elementlarining manzili hisoblanadi.
 
-Aksar dasturlash tillarida birinchi elementning oʻrni 0 (nol) bilan ifodalanadi.
-Masalan, `oylar[0]` bu `yanvar`, ya’ni yilning birinchi oyi boʻlishi mumkin.
-Ba’zi tillarda esa, birinchi elementning oʻrni 1 (bir) raqami bilan belgilanadi.
+Aksar dasturlaş tillarida birinçi elementning örni 0 (nol) bilan ifodalanadi.
+Masalan, `oylar[0]` bu `yanvar`, yani yilning birinçi oyi bölişi mumkin.
+Bazi tillarda esa, birinçi elementning örni 1 (bir) raqami bilan belgilanadi.
 
-Tizmalar aylangich va qaytalagich lar yordamida oʻzgartirilishi mumkin.
+Tizmalar aylangiç va qaytalagiç lar yordamida özgartirilişi mumkin.
 
-### Tizmaning tuzilishi
+### Tizmaning tuzilişi
 
-0-oʻrin asosli tizma quyidagicha koʻrinadi:
+0-örin asosli tizma quyidagiça körinadi:
 
-| Oʻrni | 0 | 1 | 2 | 3 |
+| Örni | 0 | 1 | 2 | 3 |
 |---|---|---|---|---|
 | Qiymat | Yanvar | Fevral | Mart | Aprel |
 
-Agar 1-oʻrin asosli boʻlsa, unda tizma quyidagicha boʻladi:
+Agar 1-örin asosli bölsa, unda tizma quyidagiça böladi:
 
-| Oʻrni | 1 | 2 | 3 | 4 |
+| Örni | 1 | 2 | 3 | 4 |
 |---|---|---|---|---|
 | Qiymat | Yanvar | Fevral | Mart | Aprel |
 
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - ketma-ketlik
 - massiv

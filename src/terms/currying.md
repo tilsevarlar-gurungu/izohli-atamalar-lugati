@@ -1,11 +1,11 @@
 # Qadamlov
 
-**Inglizcha:** Currying<br>
-**Ruscha:** Каррирование<br>
+**Inglizça:** Currying<br>
+**Rusça:** Каррирование<br>
 **Soha:** Dasturlov
 
-**Qadamlov** — bu bir nechta qiymat qabul qiladigan topshiriqni, har biri faqat bitta argument qabul qiladigan zanjirli topshiriqlar ketma-ketligiga aylantirish uslubidir. Topshiriqli dasturlov (TD) yondashuvida bu usul juda keng qoʻllaniladi. Masalan, uchta sonni qoʻshuvchi bitta topshiriq oʻrniga, birinchi sonni olib, ikkinchi sonni kutuvchi yangi bir topshiriqni qaytaradigan tizim hosil qilinadi. Bu uslub dastur bitigini yanada boʻlinimli qilishga va mavjud topshiriqlardan yangi, ixtisoslashgan topshiriqlarni osonlikcha yasashga xizmat qiladi.
+**Qadamlov** — bu bir neçta qiymat qabul qiladigan topşiriqni, har biri faqat bitta argument qabul qiladigan zanjirli topşiriqlar ketma-ketligiga aylantiriş uslubidir. Topşiriqli dasturlov (TD) yondaşuvida bu usul juda keng qöllaniladi. Masalan, uçta sonni qöşuvçi bitta topşiriq örniga, birinçi sonni olib, ikkinçi sonni kutuvçi yangi bir topşiriqni qaytaradigan tizim hosil qilinadi. Bu uslub dastur bitigini yanada bölinimli qilişga va mavjud topşiriqlardan yangi, ihtisoslaşgan topşiriqlarni osonlikça yasaşga hizmat qiladi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - karring

@@ -1,12 +1,12 @@
-# Och Toʻn
+# Oç Tön
 
-**Inglizcha:** Light Theme<br>
-**Ruscha:** Светлая тема<br>
+**Inglizça:** Light Theme<br>
+**Rusça:** Светлая тема<br>
 **Soha:** Dasturlov
 
-**Och toʻn** — bu foydalanuvchi yuzlanmasida (FY) qo‘llaniladigan, fon rangi och (odatda oq yoki och kulrang) va matn rangi to‘q bo‘lgan dizayn ko‘rinishidir. Dasturchi yoki foydalanuvchi yorug‘lik yetarli bo‘lgan muhitda ishlaganda, och toʻn matnning o‘qilishini osonlashtiradi va ko‘zning toliqishini kamaytiradi. Ko‘p hollarda toʻn kiydirish imkoniyati orqali foydalanuvchiga och toʻn va toʻq toʻn orasida tanlash huquqi beriladi, bu esa foydalanuvchi tajribasi (FT) sifatini oshiradi.
+**Oç tön** — bu foydalanuvçi yuzlanmasida (FY) qöllaniladigan, fon rangi oç (odatda oq yoki oç kulrang) va matn rangi töq bölgan dizayn körinişidir. Dasturçi yoki foydalanuvçi yoruğlik yetarli bölgan muhitda işlaganda, oç tön matnning öqilişini osonlaştiradi va közning toliqişini kamaytiradi. Köp hollarda tön kiydiriş imkoniyati orqali foydalanuvçiga oç tön va töq tön orasida tanlaş huquqi beriladi, bu esa foydalanuvçi tajribasi (FT) sifatini oşiradi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- yorugʻ toʻn
-- kunduzgi toʻn
+- yoruğ tön
+- kunduzgi tön

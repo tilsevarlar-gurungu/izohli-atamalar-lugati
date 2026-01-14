@@ -1,11 +1,11 @@
-# Ma’lumotlar Ombori
+# Malumotlar Ombori
 
-**Inglizcha:** Database<br>
-**Ruscha:** База данных<br>
+**Inglizça:** Database<br>
+**Rusça:** База данных<br>
 **Soha:** Dasturlov
 
-**Ma’lumotlar Ombori** — bu ma’lumotlarni tartibli ravishda saqlash, boshqarish va ularga tezkorlik bilan ishlov berish uchun moʻljallangan tizimdir. Dastur ishlashi davomida hosil boʻladigan muhim bitiklar va foydalanuvchi ma’lumotlari oʻchmas xotirada aynan shu tizim yordamida saqlanadi. Ma’lumotlar odatda jadvallar koʻrinishida yoki biriktirma kabi tuzilmalarda joylashadi. Dasturchi ma’lumotlar bilan muloqot qilish uchun maxsus soʻrov tillaridan foydalanadi, bu esa minglab yoki millionlab yozuvlar ichidan kerakli axborotni oniy soniyalarda topish imkonini beradi.
+**Malumotlar Ombori** — bu malumotlarni tartibli ravişda saqlaş, boşqariş va ularga tezkorlik bilan işlov beriş uçun möljallangan tizimdir. Dastur işlaşi davomida hosil böladigan muhim bitiklar va foydalanuvçi malumotlari öçmas hotirada aynan şu tizim yordamida saqlanadi. Malumotlar odatda jadvallar körinişida yoki biriktirma kabi tuzilmalarda joylaşadi. Dasturçi malumotlar bilan muloqot qiliş uçun mahsus sörov tillaridan foydalanadi, bu esa minglab yoki millionlab yozuvlar içidan kerakli ahborotni oniy soniyalarda topiş imkonini beradi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- ma’lumotlar bazasi
+- malumotlar bazasi

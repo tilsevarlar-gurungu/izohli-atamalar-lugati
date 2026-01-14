@@ -1,11 +1,11 @@
-# Tushirib qoldiruv
+# Tuşirib qoldiruv
 
-**Inglizcha:** Elision<br>
-**Ruscha:** Элизия<br>
+**Inglizça:** Elision<br>
+**Rusça:** Элизия<br>
 **Soha:** Dasturlov
 
-Rust’ning umrni **tushirib qoldiruv** xususiyati – bu keng tarqalgan, oldindan aytish mumkin boʻlgan bitik namunalarida aniq umr belgilarini yozmaslikka imkon beruvchi qulaylikdir. Tuzgʻich har bir umrni yozishingizni talab qilish oʻrniga, ayniqsa topshiriq taʼriflari va impl maydonlarida, ularni avtomatik ravishda aniqlash uchun bir nechta oddiy qoidalarni qoʻllaydi. Bu shuni anglatadiki, siz faqat murakkab yoki noaniq holatlarda umrlarni belgilashingiz kerak boʻladi. Natijada, yozilishi shart boʻlgan keraksiz bitiklar sezilarli darajada kamayadi va Rust’ning asosiy xotira xavfsizligi tamoyilini buzmagan holda bitik toza va oʻqish uchun qulay boʻladi.
+Rustning umrni **tuşirib qoldiruv** hususiyati – bu keng tarqalgan, oldindan aytiş mumkin bölgan bitik namunalarida aniq umr belgilarini yozmaslikka imkon beruvçi qulaylikdir. Tuzğiç har bir umrni yozişingizni talab qiliş örniga, ayniqsa topşiriq tariflari va impl maydonlarida, ularni avtomatik ravişda aniqlaş uçun bir neçta oddiy qoidalarni qöllaydi. Bu şuni anglatadiki, siz faqat murakkab yoki noaniq holatlarda umrlarni belgilaşingiz kerak böladi. Natijada, yozilişi şart bölgan keraksiz bitiklar sezilarli darajada kamayadi va Rustning asosiy hotira havfsizligi tamoyilini buzmagan holda bitik toza va öqiş uçun qulay böladi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - eliziya

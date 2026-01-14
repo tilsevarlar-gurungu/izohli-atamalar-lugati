@@ -1,12 +1,12 @@
-# Izchillik
+# Izçillik
 
-**Inglizcha:** Consistency<br>
-**Ruscha:** Консистентность<br>
+**Inglizça:** Consistency<br>
+**Rusça:** Консистентность<br>
 **Soha:** Dasturlov
 
-**Izchillik** — bu ma’lumotlarning butun tizim bo‘ylab to‘g‘ri, aniq va mantiqiy ekanligini anglatadi. Ayniqsa, ko‘p-tolali dasturlarda bir nechta jarayon bir vaqtning o‘zida bir xil yorliqni o‘zgartirmoqchi bo‘lsa, izchillik buzilishi mumkin. Agar tizimda izchillik ta’minlanmasa, bilimsanar noto‘g‘ri hisob-kitoblarni amalga oshiradi yoki kutilmagan nuqsonlar paydo bo‘ladi. Shuning uchun ma’lumotlar bazasi yoki tarmoq tizimlarida har bir bitim tugagandan so‘ng ma’lumotlarning bir xil holatda bo‘lishi o‘ta muhimdir.
+**Izçillik** — bu malumotlarning butun tizim böylab töğri, aniq va mantiqiy ekanligini anglatadi. Ayniqsa, köp-tolali dasturlarda bir neçta jarayon bir vaqtning özida bir hil yorliqni özgartirmoqçi bölsa, izçillik buzilişi mumkin. Agar tizimda izçillik taminlanmasa, bilimsanar notöğri hisob-kitoblarni amalga oşiradi yoki kutilmagan nuqsonlar paydo böladi. Şuning uçun malumotlar bazasi yoki tarmoq tizimlarida har bir bitim tugagandan söng malumotlarning bir hil holatda bölişi öta muhimdir.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - muntazamlik
 - tuturuqlilik

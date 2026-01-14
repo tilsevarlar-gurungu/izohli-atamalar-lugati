@@ -1,11 +1,11 @@
-# Koʻp-tolali
+# Köp-tolali
 
-**Inglizcha:** Multi-threading<br>
-**Ruscha:** Многопоточность<br>
+**Inglizça:** Multi-threading<br>
+**Rusça:** Многопоточность<br>
 **Soha:** Dasturlov
 
-**Ko‘p-tolali** ishlash tartibi bitta dastur ichida bir vaqtning o‘zida bir nechta amallarni parallel ravishda bajarish imkoniyatidir. Bunda har bir tola umumiy xotira va zahiralardan foydalangan holda mustaqil ravishda o‘z bitigini ijro etadi. Masalan, bilimsanar bir vaqtning o‘zida ham faylni yuklashi, ham foydalanuvchi yuzlanmasini yangilab turishi mumkin. Bu jarayon Markaziy Ijro Bo‘linmasi unumdorligini oshirib, murakkab vazifalarni tezroq yakunlashga yordam beradi, biroq ma’lumotlar izchilligini saqlash uchun ehtiyotkorlik bilan boshqarishni talab qiladi.
+**Köp-tolali** işlaş tartibi bitta dastur içida bir vaqtning özida bir neçta amallarni parallel ravişda bajariş imkoniyatidir. Bunda har bir tola umumiy hotira va zahiralardan foydalangan holda mustaqil ravişda öz bitigini ijro etadi. Masalan, bilimsanar bir vaqtning özida ham faylni yuklaşi, ham foydalanuvçi yuzlanmasini yangilab turişi mumkin. Bu jarayon Markaziy Ijro Bölinmasi unumdorligini oşirib, murakkab vazifalarni tezroq yakunlaşga yordam beradi, biroq malumotlar izçilligini saqlaş uçun ehtiyotkorlik bilan boşqarişni talab qiladi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- Koʻp-oqimli
+- Köp-oqimli

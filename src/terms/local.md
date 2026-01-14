@@ -1,11 +1,11 @@
 # Yerli
 
-**Inglizcha:** Local<br>
-**Ruscha:** Локальный<br>
+**Inglizça:** Local<br>
+**Rusça:** Локальный<br>
 **Soha:** Dasturlov
 
-**Yerli** — bu muayyan bir qamrov yoki topshiriq ichida e’lon qilingan va faqat o‘sha hudud doirasidagina mavjud bo‘lgan yorliq yoki ma’lumotdir. Bunday ma’lumotlarning umri cheklangan bo‘lib, topshiriq o‘z ishini yakunlagach, ular xotiradan o‘chiriladi. Dasturchi yerli yorliqlardan foydalanish orqali bitikning turli qismlari orasidagi chalkashliklarning oldini oladi, chunki bu yorliqlar tashqi dunyo uchun ko‘rinmas bo‘ladi. Bu tamoyil dasturdagi xavfsizlik va ma’lumotlarning tozaligini ta’minlashda muhim o‘rin tutadi.
+**Yerli** — bu muayyan bir qamrov yoki topşiriq içida elon qilingan va faqat öşa hudud doirasidagina mavjud bölgan yorliq yoki malumotdir. Bunday malumotlarning umri çeklangan bölib, topşiriq öz işini yakunlagaç, ular hotiradan öçiriladi. Dasturçi yerli yorliqlardan foydalaniş orqali bitikning turli qismlari orasidagi çalkaşliklarning oldini oladi, çunki bu yorliqlar taşqi dunyo uçun körinmas böladi. Bu tamoyil dasturdagi havfsizlik va malumotlarning tozaligini taminlaşda muhim örin tutadi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - mahalliy

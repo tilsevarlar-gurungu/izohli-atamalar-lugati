@@ -1,0 +1,102 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400&display=swap');
+
+/* Create a 'faked' Garamond out of Georgia */
+@font-face {
+    font-family: "FallbackGaramond";
+    src: local("Georgia"), local("serif");
+    size-adjust: 91%;
+    /* Shrinks Georgia to match Garamond's small scale */
+    ascent-override: 90%;
+}
+
+html {
+    font-size: 100% !important;
+    font-display: optional;
+}
+
+body {
+    /* Use the FallbackGaramond first after the real one */
+    font-family: "EB Garamond", "FallbackGaramond", Georgia, serif;
+    font-size: 1.25rem;
+    transition: opacity 0.5s ease-in;
+}
+
+.content p {
+    line-height: 1.5;
+}
+
+/*** affix (for hiding terms/ links) styles *********************/
+
+/* Target sidebar items that are 'affix' (manually injected by preprocessor) 
+   and contain a link to our terms directory.
+*/
+.sidebar-scrollbox li.chapter-item.affix:has(a[href*="terms/"]) {
+    display: none !important;
+}
+
+/* Fallback for older browsers that don't support :has() 
+   This hides the link text itself.
+*/
+li.affix a[href*="terms/"] {
+    display: none !important;
+}
+
+/*** abbr styles ************************************************/
+abbr[data-en-ru] {
+    position: relative;
+    text-decoration: none;
+    border-bottom: 1.5px solid #e0f2f7;
+    cursor: help;
+}
+
+.tooltip-box {
+    position: absolute;
+    bottom: 135%;
+
+    /* 1. RESET POSITIONING */
+    /* We start at 0 and let JS calculate the exact 'left' pixel value. */
+    left: 0;
+    margin-left: 0;
+
+    /* 2. ANIMATION ONLY HANDLES VERTICAL MOVEMENT */
+    /* Start 10px lower */
+    transform: translateY(10px);
+
+    /* 3. SIZE SAFETY */
+    /* This prevents "clipping from both sides" on small screens */
+    width: max-content;
+    max-width: min(300px, 90vw);
+    white-space: normal;
+    /* Allow text to wrap if it hits the max-width */
+    text-align: center;
+
+    /* Aesthetics */
+    background-color: #1a1a1a;
+    color: #fdfdfd;
+    padding: 8px 14px;
+    border-radius: 4px;
+    font-size: 0.9rem;
+    font-family: sans-serif;
+    box-shadow: 0 5px 20px rgba(0, 0, 0, 0.4);
+
+    /* Visibility */
+    opacity: 0;
+    visibility: hidden;
+
+    /* Animate Opacity and the Vertical Rise */
+    transition:
+        opacity 0.2s ease-out,
+        transform 0.25s cubic-bezier(0.175, 0.885, 0.32, 1.275);
+
+    z-index: 1000;
+    pointer-events: none;
+}
+
+/* FINAL STATE */
+abbr[data-en-ru]:hover .tooltip-box,
+abbr[data-en-ru].active .tooltip-box {
+    opacity: 1;
+    visibility: visible;
+    /* Move Y to 0. We DO NOT touch X here (JS handles it). */
+    transform: translateY(0);
+}

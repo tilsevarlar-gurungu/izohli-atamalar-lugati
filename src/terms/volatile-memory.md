@@ -1,12 +1,12 @@
-# Oʻchar Xotira
+# Öçar Hotira
 
-**Inglizcha:** Volatile Memory<br>
-**Ruscha:** Энергозависимая память<br>
+**Inglizça:** Volatile Memory<br>
+**Rusça:** Энергозависимая память<br>
 **Soha:** Qurilma
 
-**Oʻchar xotira** — bu ma’lumotlarni saqlash uchun doimiy elektr quvvati talab qiladigan xotira turidir. Agar bilimsanar oʻchirilsa yoki quvvat uzilsa, ushbu xotiradagi barcha ma’lumotlar oniy tarzda yoʻqoladi. Tezkor xotira (RAM) oʻchar xotiraning eng keng tarqalgan misoli boʻlib, u dastur bajarilayotgan paytda yorliqlar, tizmalar va boshqa vaqtinchalik zahiralarni saqlash uchun ishlatiladi. Ijrochi ma’lumotlarga juda tez kirishi kerak boʻlganda aynan shu turdagi xotiradan foydalanadi, biroq uzoq muddatli saqlash uchun oʻchmas xotira zarur boʻladi.
+**Öçar hotira** — bu malumotlarni saqlaş uçun doimiy elektr quvvati talab qiladigan hotira turidir. Agar bilimsanar öçirilsa yoki quvvat uzilsa, uşbu hotiradagi barça malumotlar oniy tarzda yöqoladi. Tezkor hotira (RAM) öçar hotiraning eng keng tarqalgan misoli bölib, u dastur bajarilayotgan paytda yorliqlar, tizmalar va boşqa vaqtinçalik zahiralarni saqlaş uçun işlatiladi. Ijroçi malumotlarga juda tez kirişi kerak bölganda aynan şu turdagi hotiradan foydalanadi, biroq uzoq muddatli saqlaş uçun öçmas hotira zarur böladi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- Tezkor Xotira
-- Muvaqqat Xotira
+- Tezkor Hotira
+- Muvaqqat Hotira

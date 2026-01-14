@@ -1,13 +1,13 @@
-# Ona Xazina
+# Ona Hazina
 
-**Inglizcha:** Standard Library<br>
-**Ruscha:** Стандартная библиотека<br>
+**Inglizça:** Standard Library<br>
+**Rusça:** Стандартная библиотека<br>
 **Aloqali:** Bitik<br>
 **Soha:** Dasturlov
 
-**Ona xazina** — bu har bir dasturlov tili bilan birga tayyor holda keladigan bitik va boʻlinimlar toʻplamidir. Unda eng koʻp qoʻllaniladigan topshiriqlar, ma’lumot tuzilmalari (masalan, tizma) va zahiralarni boshqarish vositalari jamlangan. Dasturchi har safar yangi bitik yozmasdan, ona xazina tarkibidagi tayyor imkoniyatlardan foydalanishi mumkin, bu esa dastur yaratish jarayonini tezlashtiradi va izchillikni ta’minlaydi.
+**Ona hazina** — bu har bir dasturlov tili bilan birga tayyor holda keladigan bitik va bölinimlar töplamidir. Unda eng köp qöllaniladigan topşiriqlar, malumot tuzilmalari (masalan, tizma) va zahiralarni boşqariş vositalari jamlangan. Dasturçi har safar yangi bitik yozmasdan, ona hazina tarkibidagi tayyor imkoniyatlardan foydalanişi mumkin, bu esa dastur yaratiş jarayonini tezlaştiradi va izçillikni taminlaydi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- standart kutubxona
-- bosh xazina
+- standart kutubhona
+- boş hazina

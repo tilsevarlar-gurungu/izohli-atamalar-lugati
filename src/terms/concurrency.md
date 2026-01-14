@@ -1,18 +1,18 @@
-# Ondoshlik
+# Ondoşlik
 
-**Inglizcha:** Concurrency<br>
-**Ruscha:** Конкурентность<br>
+**Inglizça:** Concurrency<br>
+**Rusça:** Конкурентность<br>
 **Soha:** Dasturlov
 
-**Ondoshlik** — bu tizimning bir vaqtning o‘zida bir nechta topshiriqlar bilan ishlash (ulashish) qobiliyatidir. Ondoshlikda topshiriqlar bir paytda boshlanishi va yakunlanishi mumkin, biroq ular aynan bir millisoniyada bajarilishi shart emas. Buning o‘rniga, boshqaruv tizimi yoki magʻiz turli bitiklarni navbatma-navbat, lekin juda tez almashlab bajaradi. Bu esa foydalanuvchiga barcha ishlar bir vaqtda sodir bo‘layotgandek tasavvur uyg‘otadi. Masalan, matn tahrirlovchi dasturda siz kalittaxta orqali yozayotganingizda, tizim ondosh tarzda imloni tekshirishi va faylni zahira sifatida saqlab borishi mumkin.
+**Ondoşlik** — bu tizimning bir vaqtning özida bir neçta topşiriqlar bilan işlaş (ulaşiş) qobiliyatidir. Ondoşlikda topşiriqlar bir paytda boşlanişi va yakunlanişi mumkin, biroq ular aynan bir millisoniyada bajarilişi şart emas. Buning örniga, boşqaruv tizimi yoki mağiz turli bitiklarni navbatma-navbat, lekin juda tez almaşlab bajaradi. Bu esa foydalanuvçiga barça işlar bir vaqtda sodir bölayotgandek tasavvur uyğotadi. Masalan, matn tahrirlovçi dasturda siz kalittahta orqali yozayotganingizda, tizim ondoş tarzda imloni tekşirişi va faylni zahira sifatida saqlab borişi mumkin.
 
-### Ondosh va Yondosh ishlashning oʻzaro bogʻliqligi
+### Ondoş va Yondoş işlaşning özaro boğliqligi
 
-- *Ondoshlik:* Ko‘p ishlarni bir vaqtda boshqarish (bitta o‘zakda ham bo‘lishi mumkin).
-- *Yondoshlik:* Ko‘p ishlarni haqiqatdan ham bir vaqtda bajarish (faqat ko‘p o‘zakli tizimlarda).
+- *Ondoşlik:* Köp işlarni bir vaqtda boşqariş (bitta özakda ham bölişi mumkin).
+- *Yondoşlik:* Köp işlarni haqiqatdan ham bir vaqtda bajariş (faqat köp özakli tizimlarda).
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - bir-paytlilik
-- lahzadoshlik
+- lahzadoşlik
 - konkurent

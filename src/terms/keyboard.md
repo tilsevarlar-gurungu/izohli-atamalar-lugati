@@ -1,12 +1,12 @@
-# Kalittaxta
+# Kalittahta
 
-**Inglizcha:** Keyboard<br>
-**Ruscha:** Клавиатура<br>
+**Inglizça:** Keyboard<br>
+**Rusça:** Клавиатура<br>
 **Soha:** Qurilma
 
-**Kalittaxta** — bu bilimsanarga ma’lumotlarni kiritish uchun xizmat qiluvchi asosiy tashqi qurilmadir. Foydalanuvchi kalittaxta orqali tugmalarni bosganda, u tizimga maxsus kiritma signallarini yuboradi. Ushbu signallar magʻiz va boshqaruv tizimi tomonidan qayta ishlanib, ekranda matn paydo boʻlishi yoki ma’lum bir dasturning bajarilishini ta’minlaydi. Har bir tugmani bosish aslida kichik bir bitik oqimini ishga tushiradi va Markaziy Ijro Bo‘linmasiga qaysi amallarni bajarish kerakligini bildiradi.
+**Kalittahta** — bu bilimsanarga malumotlarni kiritiş uçun hizmat qiluvçi asosiy taşqi qurilmadir. Foydalanuvçi kalittahta orqali tugmalarni bosganda, u tizimga mahsus kiritma signallarini yuboradi. Uşbu signallar mağiz va boşqaruv tizimi tomonidan qayta işlanib, ekranda matn paydo bölişi yoki malum bir dasturning bajarilişini taminlaydi. Har bir tugmani bosiş aslida kiçik bir bitik oqimini işga tuşiradi va Markaziy Ijro Bölinmasiga qaysi amallarni bajariş kerakligini bildiradi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - kiybord
 - klaviatura

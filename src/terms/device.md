@@ -1,12 +1,12 @@
 # Qurilma
 
-**Inglizcha:** Device<br>
-**Ruscha:** Устройство<br>
+**Inglizça:** Device<br>
+**Rusça:** Устройство<br>
 **Soha:** Qurilma
 
-**Qurilma** — bu dastur bitigini mashina tiliga oʻtkazuvchi va ijro etuvchi tizim yoki asbobdir. Lugʻatimizda ushbu atama koʻpincha tuzgich ma’nosida qoʻllaniladi, chunki u bitikni tahlil qilib, uni bilimsanar tushunadigan shaklga keltiruvchi asosiy vositadir. Shuningdek, kengroq ma’noda qurilma tushunchasi MIB (Markaziy Ijro Boʻlinmasi), TX (Tezkor Xotira) va kalittaxta kabi jismoniy qismlarni ham oʻz ichiga oladi. Har bir qurilma oʻzining me’morchilik tuzilishiga ega boʻlib, dasturning qanchalik tez va samarali ishlashi aynan shu texnik imkoniyatlarga va zahiralarning toʻgʻri taqsimlanishiga bogʻliqdir.
+**Qurilma** — bu dastur bitigini maşina tiliga ötkazuvçi va ijro etuvçi tizim yoki asbobdir. Luğatimizda uşbu atama köpinça tuzgiç manosida qöllaniladi, çunki u bitikni tahlil qilib, uni bilimsanar tuşunadigan şaklga keltiruvçi asosiy vositadir. Şuningdek, kengroq manoda qurilma tuşunçasi MIB (Markaziy Ijro Bölinmasi), TH (Tezkor Hotira) va kalittahta kabi jismoniy qismlarni ham öz içiga oladi. Har bir qurilma özining memorçilik tuzilişiga ega bölib, dasturning qançalik tez va samarali işlaşi aynan şu tehnik imkoniyatlarga va zahiralarning töğri taqsimlanişiga boğliqdir.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - apparat
 - uskuna

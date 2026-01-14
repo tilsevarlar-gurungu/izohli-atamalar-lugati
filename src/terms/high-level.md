@@ -1,12 +1,12 @@
 # Yuqori-qatlamli
 
-**Inglizcha:** High-level<br>
-**Ruscha:** Высокоуровневый<br>
+**Inglizça:** High-level<br>
+**Rusça:** Высокоуровневый<br>
 **Soha:** Dasturlov
 
-**Yuqori-qatlamli** — bu dasturlov tillarining shunday turiki, u bilimsanarning ichki me’morchiligi va Markaziy Ijro Bo‘linmasining murakkab ko‘rsatmalaridan ko‘ra ko‘proq inson tiliga yaqin va tushunarlidir. Bunday tillarda yozilgan bitik murakkab zahira boshqaruvi yoki xotira manzillari bilan bevosita ishlash o‘rniga, umumiy mantiq va mavhumlashtirmaga tayanadi, bu esa dasturchiga diqqatni muammoning yechimiga qaratish imkonini beradi. Odatda, yuqori-qatlamli tillar (masalan, Python yoki Java) maxsus agʻdargich yordamida mashina tiliga o‘giriladi, bu esa dasturning turli xil qurilmalarda osonlikcha ishlashini (ko‘chuvchanligini) ta’minlaydi.
+**Yuqori-qatlamli** — bu dasturlov tillarining şunday turiki, u bilimsanarning içki memorçiligi va Markaziy Ijro Bölinmasining murakkab körsatmalaridan köra köproq inson tiliga yaqin va tuşunarlidir. Bunday tillarda yozilgan bitik murakkab zahira boşqaruvi yoki hotira manzillari bilan bevosita işlaş örniga, umumiy mantiq va mavhumlaştirmaga tayanadi, bu esa dasturçiga diqqatni muammoning yeçimiga qaratiş imkonini beradi. Odatda, yuqori-qatlamli tillar (masalan, Python yoki Java) mahsus ağdargiç yordamida maşina tiliga ögiriladi, bu esa dasturning turli hil qurilmalarda osonlikça işlaşini (köçuvçanligini) taminlaydi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- yuqori-pogʻonali
+- yuqori-poğonali
 - yuqori-darajali

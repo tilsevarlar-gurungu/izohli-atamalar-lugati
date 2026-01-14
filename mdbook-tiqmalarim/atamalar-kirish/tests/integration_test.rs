@@ -15,7 +15,7 @@ fn sina_kirish_ozgardimi() {
     // "old.md" birinchi qoʻshiladi
     fs::write(
         terms_yolagi.join("old.md"),
-        "# Eski\n**Inglizcha:** Old\n**Ruscha:** Старый",
+        "# Eski\n**Inglizça:** Old\n**Rusça:** Старый",
     )
     .unwrap();
 
@@ -24,7 +24,7 @@ fn sina_kirish_ozgardimi() {
     // "new.md" ikkinchi boʻlib qoʻshiladi (u oxirgiQoshilganlar roʻyxatida boʻladi)
     fs::write(
         terms_yolagi.join("new.md"),
-        "# Yangi\n**Inglizcha:** New\n**Ruscha:** Новый",
+        "# Yangi\n**Inglizça:** New\n**Rusça:** Новый",
     )
     .unwrap();
 
@@ -47,7 +47,7 @@ fn sina_kirish_ozgardimi() {
     // 4. Natijalarni tekshiring
     let kirish_bobi = match &natija.sections[0] {
         BookItem::Chapter(bob) => bob,
-        _ => panic!("Kirish bobi topilmadi"),
+        _ => panic!("Kiriş bobi topilmadi"),
     };
 
     assert!(kirish_bobi.content.contains("Jami: 2"));
@@ -66,15 +66,15 @@ fn sina_kirish_orin_ushlab_turuvchilar_almashtirildimi() {
 
     fs::write(
         terms_yolagi.join("test1.md"),
-        "# Bir\n**Inglizcha:** One\n**Ruscha:** Один",
+        "# Bir\n**Inglizça:** One\n**Rusça:** Один",
     )
     .unwrap();
 
     let mut kitob = Book::new();
     // Roʻyxat uchun maxsus oʻrin ushlab turuvchi qoʻsh
-    let kirish_matni = "Soni: {{jamiAtamalar}}\nRoʻyxat:\n{{oxirgiQoshilganlar}}";
+    let kirish_matni = "Soni: {{jamiAtamalar}}\nRöyxat:\n{{oxirgiQoshilganlar}}";
     kitob.sections.push(BookItem::Chapter(Chapter::new(
-        "Kirish",
+        "Kiriş",
         kirish_matni.to_string(),
         PathBuf::from("intro.md"),
         vec![],

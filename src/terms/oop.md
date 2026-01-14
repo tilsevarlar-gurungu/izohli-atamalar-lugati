@@ -1,12 +1,12 @@
 # Jismli Dasturlov
 
-**Inglizcha:** Object-Oriented Programming (OOP)<br>
-**Ruscha:** Объектно-ориентированное программирование (ООП)<br>
+**Inglizça:** Object-Oriented Programming (OOP)<br>
+**Rusça:** Объектно-ориентированное программирование (ООП)<br>
 **Qisqartma:** JD<br>
 **Soha:** Dasturlov
 
-**Jismli dasturlov** (JD) — bu dasturni yaratishda ma’lumotlar va ularning ustida bajariladigan amallarni yagona bir tuzilmaga, ya’ni jismga birlashtirish yondashuvidir. Jismli dasturlovda asosiy e’tibor topshiriqlar oqimiga emas, balki biz boshqarayotgan ob’ektlarga qaratiladi. Bu uslub orqali bilimsanar uchun yozilgan bitiklarni qayta ishlatish, ularni tartibga solish va murakkab dastur tizimlarini boʻlinimli tarzda qurish osonlashadi. Jismli dasturlov yordamida har bir jism o‘zining xususiyatlariga va amallariga ega bo‘lib, ular orasidagi bitimlar orqali butun tizimning izchilligi ta’minlanadi.
+**Jismli dasturlov** (JD) — bu dasturni yaratişda malumotlar va ularning ustida bajariladigan amallarni yagona bir tuzilmaga, yani jismga birlaştiriş yondaşuvidir. Jismli dasturlovda asosiy etibor topşiriqlar oqimiga emas, balki biz boşqarayotgan obektlarga qaratiladi. Bu uslub orqali bilimsanar uçun yozilgan bitiklarni qayta işlatiş, ularni tartibga soliş va murakkab dastur tizimlarini bölinimli tarzda quriş osonlaşadi. Jismli dasturlov yordamida har bir jism özining hususiyatlariga va amallariga ega bölib, ular orasidagi bitimlar orqali butun tizimning izçilligi taminlanadi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- Obyektga Yoʻnaltirilgan Dasturlov
+- Obyektga Yönaltirilgan Dasturlov

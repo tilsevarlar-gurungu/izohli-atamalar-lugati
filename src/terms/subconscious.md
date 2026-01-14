@@ -1,12 +1,12 @@
 # Ongostilik
 
-**Inglizcha:** Subconscious<br>
-**Ruscha:** Подсознание<br>
-**Sifat shakli:** Ongosti<br>
+**Inglizça:** Subconscious<br>
+**Rusça:** Подсознание<br>
+**Sifat şakli:** Ongosti<br>
 **Soha:** Umumiy<br>
 
-**Ongostilik** tushunchasi inson ongining bevosita diqqat markazida boʻlmagan, biroq uning xulq-atvori va his-tuygʻulariga kuchli ta’sir koʻrsatadigan qismini anglatadi. Bu qatlam biz ongli ravishda oʻylamayotgan, lekin miyamizda saqlanib qolgan xotiralar, odatlar va oʻrnashib qolgan ishonchlar omboridir. Masalan, biz biror vaziyatga nisbatan ogʻma munosabat bildirayotganimizda, bu koʻpincha aynan ongostimizdagi avvalgi tajribalar yoki qotma tasavvurlarning ogʻuv natijasi boʻladi. Ongostilik bizning "avtopilot" rejimimiz boʻlib, u kundalik harakatlarimizni boshqaradi va biz ongli ravishda anglamasdan turib qarorlarimizga yoʻnalish beradi.
+**Ongostilik** tuşunçasi inson ongining bevosita diqqat markazida bölmagan, biroq uning hulq-atvori va his-tuyğulariga kuçli tasir körsatadigan qismini anglatadi. Bu qatlam biz ongli ravişda öylamayotgan, lekin miyamizda saqlanib qolgan hotiralar, odatlar va örnaşib qolgan işonçlar omboridir. Masalan, biz biror vaziyatga nisbatan oğma munosabat bildirayotganimizda, bu köpinça aynan ongostimizdagi avvalgi tajribalar yoki qotma tasavvurlarning oğuv natijasi böladi. Ongostilik bizning "avtopilot" rejimimiz bölib, u kundalik harakatlarimizni boşqaradi va biz ongli ravişda anglamasdan turib qarorlarimizga yönaliş beradi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- shuurosti
+- şuurosti

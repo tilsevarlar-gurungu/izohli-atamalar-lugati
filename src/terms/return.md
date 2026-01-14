@@ -1,11 +1,11 @@
 # Qaytim
 
-**Inglizcha:** Return<br>
-**Ruscha:** Возврат<br>
+**Inglizça:** Return<br>
+**Rusça:** Возврат<br>
 **Soha:** Dasturlov
 
-**Qaytim** — bu topshiriq o‘z ishini yakunlaganida, o‘zini chaqirgan nuqtaga natijani uzatish jarayonidir. U topshiriq ichidagi barcha mantiqiy amallar tugallanganini va nazoratni yana "ota" bo‘linmaga topshirish kerakligini anglatadi. Qaytim orqali nafaqat hisoblangan qiymatlar, balki jismlar yoki qaratqichlar ham uzatilishi mumkin. Shuningdek, u topshiriqning ijrosini muddatidan oldin to‘xtatish uchun ham xizmat qiladi. Agar topshiriq hech qanday aniq qiymat qaytarmasa, u odatda bo‘sh yoki puch qaytimni amalga oshiradi, bu esa jarayon muvaffaqiyatli yakunlanganidan darak beradi.
+**Qaytim** — bu topşiriq öz işini yakunlaganida, özini çaqirgan nuqtaga natijani uzatiş jarayonidir. U topşiriq içidagi barça mantiqiy amallar tugallanganini va nazoratni yana "ota" bölinmaga topşiriş kerakligini anglatadi. Qaytim orqali nafaqat hisoblangan qiymatlar, balki jismlar yoki qaratqiçlar ham uzatilişi mumkin. Şuningdek, u topşiriqning ijrosini muddatidan oldin töhtatiş uçun ham hizmat qiladi. Agar topşiriq heç qanday aniq qiymat qaytarmasa, u odatda böş yoki puç qaytimni amalga oşiradi, bu esa jarayon muvaffaqiyatli yakunlanganidan darak beradi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - natija

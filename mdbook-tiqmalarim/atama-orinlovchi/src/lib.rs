@@ -60,13 +60,12 @@ impl AtamaOrinlovchi {
         atamalarni_sarala(&mut barcha_atamalar);
 
         // 3. Koʻrsatkich MARKDOWN matnini qur
-        let mut korsatkich_md = String::from(
-            "# Oʻzbekcha - Inglizcha - Ruscha Koʻrsatkich\n\n<div id=\"top\"></div>\n\n",
-        );
+        let mut korsatkich_md =
+            String::from("# Özbekça - Inglizça - Rusça Körsatkiç\n\n<div id=\"top\"></div>\n\n");
 
         let alifbo_tartibi = vec![
             "A", "B", "D", "E", "F", "G", "H", "I", "J", "K", "L", "M", "N", "O", "P", "Q", "R",
-            "S", "T", "U", "V", "X", "Y", "Z", "Oʻ", "Gʻ", "Sh", "Ch", "Ng",
+            "S", "T", "U", "V", "X", "Y", "Z", "Ö", "Ğ", "Ş", "Ç", "Ng",
         ];
 
         let mut yoltanim_qatori = String::from("<p align=\"center\" style=\"line-height: 3;\">\n");
@@ -169,7 +168,7 @@ impl AtamaOrinlovchi {
 
                 if atama_hujjatidir {
                     bob.content = korsatkich_md.clone();
-                    bob.name = "Oʻzbekcha - Inglizcha - Ruscha Koʻrsatkich".to_string();
+                    bob.name = "Özbekça - Inglizça - Rusça Körsatkiç".to_string();
                     topilmish_orin_ushlab_turuvchilar = true;
                 }
             }
@@ -177,7 +176,7 @@ impl AtamaOrinlovchi {
 
         if !topilmish_orin_ushlab_turuvchilar {
             let korsatkich_bobi = Chapter::new(
-                "Oʻzbekcha - Inglizcha - Ruscha Koʻrsatkich",
+                "Özbekça - Inglizça - Rusça Körsatkiç",
                 korsatkich_md,
                 Path::new("terms.md"),
                 Vec::new(),

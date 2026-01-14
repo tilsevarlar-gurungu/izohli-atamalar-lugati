@@ -1,4 +1,4 @@
-use atama_umumiy::{atamalarni_yukla, ozbekcha_saralov_kalitini_ol, Atama, UST_BELGILAR};
+use atama_umumiy::{Atama, UST_BELGILAR, atamalarni_yukla, ozbekcha_saralov_kalitini_ol};
 use fancy_regex::{Captures, Regex};
 use mdbook::book::{Book, BookItem, Chapter};
 use mdbook::preprocess::{Preprocessor, PreprocessorContext};
@@ -90,7 +90,7 @@ impl AtamaTamgalovchi {
         // - \[.*?\]\(.*?\)        -> Markdown havolalariga mos tushadi
         // - <[^>]*>               -> HTML belgilariga mos tushadi
         let qolip_str = format!(
-            r"(?i)(```[\s\S]*?```|`[^`\n]+`|<abbr\b[^>]*>[\s\S]*?</abbr>|\[[^\]]*\]\([^\)]*\)|<[^>]*>)|(\b(?:{})[a-zʻʼ'gshch]*)|(?-i)(\b(?:{})\b)",
+            r"(?i)(```[\s\S]*?```|`[^`\n]+`|<abbr\b[^>]*>[\s\S]*?</abbr>|\[[^\]]*\]\([^\)]*\)|<[^>]*>)|(\b(?:{})[a-zçşğö]*)|(?-i)(\b(?:{})\b)",
             qalqonlanmish_sarlavhalar, qalqonlanmish_qisqartmalar
         );
 
@@ -98,7 +98,7 @@ impl AtamaTamgalovchi {
         let mut topilmish_fayl_nomlari = HashSet::new();
 
         kitob.for_each_mut(|unsur| {
-            if let BookItem::Chapter(ref mut bob) = unsur {
+            if let BookItem::Chapter(bob) = unsur {
                 let atamadir = bob
                     .path
                     .as_ref()
@@ -204,7 +204,10 @@ fn bobni_ishlovdan_otkaz(
                         kuzatuvdagi_atamalar
                             .borrow_mut()
                             .insert(berilmish.atama.sarlavha.clone(), berilmish.atama.clone());
-                        return format!("<abbr title=\"{}\">{}</abbr>", berilmish.ocharjumla, aj);
+                        return format!(
+                            "<abbr data-en-ru=\"{}\" aria-label=\"{}\">{}</abbr>",
+                            berilmish.ocharjumla, berilmish.ocharjumla, aj
+                        );
                     }
                     kalit.pop();
                 }
@@ -220,7 +223,10 @@ fn bobni_ishlovdan_otkaz(
                     kuzatuvdagi_atamalar
                         .borrow_mut()
                         .insert(berilmish.atama.sarlavha.clone(), berilmish.atama.clone());
-                    return format!("<abbr title=\"{}\">{}</abbr>", berilmish.ocharjumla, aj);
+                    return format!(
+                        "<abbr data-en-ru=\"{}\" aria-label=\"{}\">{}</abbr>",
+                        berilmish.ocharjumla, berilmish.ocharjumla, aj
+                    );
                 }
             }
 

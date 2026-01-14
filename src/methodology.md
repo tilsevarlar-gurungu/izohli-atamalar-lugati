@@ -1,9 +1,9 @@
-# Atama yasash usuli
+# Atama yasaş usuli
 
-## Gʻoya atamalar
+## Ğoya atamalar
 
-Gʻoyani ifodalaydigan atamalar, masalan, *compilation*, *parsing* uchun, biz **-v** bilan tugovchi harakat ismidan foydalanamiz: *tuzuv*, *yoʻyuv*.
+Ğoyani ifodalaydigan atamalar, masalan, *compilation*, *parsing* uçun, biz **-v** bilan tugovçi harakat ismidan foydalanamiz: *tuzuv*, *yöyuv*.
 
-## Tatbiq qiluvchi atamalar
+## Tatbiq qiluvçi atamalar
 
-Amalga tatbiq qiluvchi yoki amalga oshiruvchi atamalar uchun biz **-gich** yoki **-gʻich** qoʻshimchasidan foydalanamiz: *tuzgich*, *yoʻygʻich*.
+Amalga tatbiq qiluvçi yoki amalga oşiruvçi atamalar uçun biz **-giç** yoki **-ğiç** qöşimçasidan foydalanamiz: *tuzgiç*, *yöyğiç*.

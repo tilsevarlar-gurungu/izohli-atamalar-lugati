@@ -1,12 +1,12 @@
-# Chekinma
+# Çekinma
 
-**Inglizcha:** Indentation<br>
-**Ruscha:** Отступ<br>
+**Inglizça:** Indentation<br>
+**Rusça:** Отступ<br>
 **Soha:** Dasturlov
 
-**Chekinma** — bu dastur bitigining mantiqiy tabaqalanishini koʻrsatish va uning oʻqilishini yaxshilash uchun satr boshidan qoldiriladigan boʻsh joy miqdoridir. Jismli dasturlov (JD) va boshqa uslublarda chekinmalar bitik boʻlaklarining (shartlar, aylangichlar yoki boʻlinimlar) bir-biriga tobeligini tasviriy ifodalaydi. Ba’zi tillarda chekinma faqat goʻzallik ahamiyatiga ega boʻlsa, Python kabi tillarda u yozuv qoidasining ajralmas qismi hisoblanadi va notoʻgʻri qoʻyilgan chekinma dasturning notoʻgʻri ishlashiga yoki tuzuv vaqtidagi xatoga sabab boʻladi. Odatda kalittaxtadagi "Tab" tugmasi yoki bir xil miqdordagi boʻsh joylar yordamida hosil qilinadigan bu usul, bitikning qaysi qismi qaysi topshiriq ichida ekanligini aniq belgilab beradi.
+**Çekinma** — bu dastur bitigining mantiqiy tabaqalanişini körsatiş va uning öqilişini yahşilaş uçun satr boşidan qoldiriladigan böş joy miqdoridir. Jismli dasturlov (JD) va boşqa uslublarda çekinmalar bitik bölaklarining (şartlar, aylangiçlar yoki bölinimlar) bir-biriga tobeligini tasviriy ifodalaydi. Bazi tillarda çekinma faqat gözallik ahamiyatiga ega bölsa, Python kabi tillarda u yozuv qoidasining ajralmas qismi hisoblanadi va notöğri qöyilgan çekinma dasturning notöğri işlaşiga yoki tuzuv vaqtidagi hatoga sabab böladi. Odatda kalittahtadagi "Tab" tugmasi yoki bir hil miqdordagi böş joylar yordamida hosil qilinadigan bu usul, bitikning qaysi qismi qaysi topşiriq içida ekanligini aniq belgilab beradi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- xatboshi
-- satrboshi
+- hatboşi
+- satrboşi

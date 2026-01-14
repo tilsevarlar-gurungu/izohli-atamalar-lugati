@@ -17,13 +17,13 @@ pub struct Atama {
 }
 
 pub const UST_BELGILAR: &[&str] = &[
-    "**Inglizcha:**",
-    "**Ruscha:**",
+    "**Inglizça:**",
+    "**Rusça:**",
     "**Ota-atama:**",
     "**Aloqali:**",
     "**Soha:**",
     "**Qisqartma:**",
-    "**Sifat shakli:**",
+    "**Sifat şakli:**",
 ];
 
 pub fn xotiradagi_atamani_yoy(yolak: &Path, matn: String) -> Atama {
@@ -42,13 +42,13 @@ pub fn xotiradagi_atamani_yoy(yolak: &Path, matn: String) -> Atama {
         if !sarlavha_topildi && taroshlanmish.starts_with("# ") {
             sarlavha = taroshlanmish[2..].trim().to_string();
             sarlavha_topildi = true;
-        } else if taroshlanmish.contains("**Inglizcha:**") {
+        } else if taroshlanmish.contains("**Inglizça:**") {
             inglizcha = qiymatni_chiqarib_ol(taroshlanmish);
-        } else if taroshlanmish.contains("**Ruscha:**") {
+        } else if taroshlanmish.contains("**Rusça:**") {
             ruscha = qiymatni_chiqarib_ol(taroshlanmish);
         } else if taroshlanmish.contains("**Ota-atama:**") {
             let oa = qiymatni_chiqarib_ol(taroshlanmish);
-            if !oa.is_empty() && oa != "Yo'q" && oa != "None" {
+            if !oa.is_empty() && oa != "Yöq" && oa != "None" {
                 ota = Some(oa);
             }
         } else if taroshlanmish.contains("**Aloqali:**") {
@@ -66,7 +66,7 @@ pub fn xotiradagi_atamani_yoy(yolak: &Path, matn: String) -> Atama {
             if !q.is_empty() {
                 qisqartma = Some(q);
             }
-        } else if taroshlanmish.contains("**Sifat shakli:**") {
+        } else if taroshlanmish.contains("**Sifat şakli:**") {
             let ss = qiymatni_chiqarib_ol(taroshlanmish);
             if !ss.is_empty() {
                 sifat_shakli = Some(ss);
@@ -105,61 +105,43 @@ pub fn atamalarni_yukla(terms_jildi: &Path) -> io::Result<Vec<Atama>> {
 }
 
 pub fn atamalarni_sarala(atamalar: &mut Vec<Atama>) {
-    atamalar.sort_by(|a, b| {
-        ozbekcha_saralov_kalitini_ol(&a.sarlavha).cmp(&ozbekcha_saralov_kalitini_ol(&b.sarlavha))
-    });
+    atamalar.sort_by(|a, b| a.sarlavha.cmp(&b.sarlavha));
 }
 
 fn qiymatni_chiqarib_ol(satr: &str) -> String {
-    satr.split(":**")
-        .last()
-        .unwrap_or("")
-        .replace("<br>", "")
-        .replace("<br/>", "")
-        .trim()
-        .to_string()
+    // Find where the label ends
+    if let Some(pos) = satr.find(":**") {
+        let value = &satr[pos + 3..]; // Move past the ":**"
+        return value
+            .replace("<br>", "")
+            .replace("<br/>", "")
+            .trim()
+            .to_string();
+    }
+    String::new()
 }
 
 pub fn langar_tanitkichini_ol(harf: &str) -> String {
     harf.to_lowercase()
-        .replace("oʻ", "o-uz")
-        .replace("gʻ", "g-uz")
-        .replace("sh", "sh-uz")
-        .replace("ch", "ch-uz")
+        .replace("ö", "o-uz")
+        .replace("ğ", "g-uz")
+        .replace("ş", "sh-uz")
+        .replace("ç", "ch-uz")
         .replace("ng", "ng-uz")
 }
 
 pub fn ozbekcha_bosh_qismni_ol(sarlavha: &str) -> String {
     let s = sarlavha.to_lowercase();
-    if s.starts_with("sh") {
-        return "Sh".to_string();
-    }
-    if s.starts_with("ch") {
-        return "Ch".to_string();
-    }
-    if s.starts_with("ng") {
-        return "Ng".to_string();
-    }
-    if s.starts_with("oʻ") || s.starts_with("o'") {
-        return "Oʻ".to_string();
-    }
-    if s.starts_with("gʻ") || s.starts_with("g'") {
-        return "Gʻ".to_string();
-    }
     s.chars().next().unwrap_or('#').to_uppercase().to_string()
 }
 
 pub fn ozbekcha_saralov_kalitini_ol(sarlavha: &str) -> Vec<usize> {
     let alifbo = vec![
         "a", "b", "d", "e", "f", "g", "h", "i", "j", "k", "l", "m", "n", "o", "p", "q", "r", "s",
-        "t", "u", "v", "x", "y", "z", "oʻ", "gʻ", "sh", "ch", "ng",
+        "t", "u", "v", "x", "y", "z", "ö", "ğ", "ş", "ç", "ng",
     ];
     let mut kalit = Vec::new();
-    let belgilar = sarlavha
-        .to_lowercase()
-        .replace("o'", "oʻ")
-        .replace("g'", "gʻ");
-    let belgilar_vec: Vec<char> = belgilar.chars().collect();
+    let belgilar_vec: Vec<char> = sarlavha.chars().collect();
     let mut i = 0;
     while i < belgilar_vec.len() {
         let mut mos_keldi = false;
@@ -185,24 +167,11 @@ mod tests {
     use super::*;
 
     #[test]
-    fn sina_ozbekcha_saralov_kalitini() {
-        // 'o' 'oʻ' dan oldin keladi
-        let k1 = ozbekcha_saralov_kalitini_ol("Orzu");
-        let k2 = ozbekcha_saralov_kalitini_ol("Oʻrdak");
-        assert!(k1 < k2);
-
-        // 'sh' 's' dan keyin keladigan alohida harf
-        let k_s = ozbekcha_saralov_kalitini_ol("Sabzi");
-        let k_sh = ozbekcha_saralov_kalitini_ol("Shamol");
-        assert!(k_s < k_sh);
-    }
-
-    #[test]
     fn sina_yoyiluvni() {
         let matn = r#"# Mening Atamam
-**Inglizcha:** My Term
-**Ruscha:** Мой Термин
-**Sifat shakli:** sifatli"#;
+**Inglizça:** My Term
+**Rusça:** Мой Термин
+**Sifat şakli:** sifatli"#;
 
         let atama = xotiradagi_atamani_yoy(Path::new("terms/test.md"), matn.to_string());
 

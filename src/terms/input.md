@@ -1,15 +1,15 @@
 # Kiritma
 
-**Inglizcha:** Input<br>
-**Ruscha:** Ввод<br>
+**Inglizça:** Input<br>
+**Rusça:** Ввод<br>
 **Soha:** Dasturlov
 
-**Kiritma** — bu tashqi dunyodan yoki foydalanuvchidan bilimsanar ichiga qayta ishlash uchun uzatiladigan har qanday ma’lumotdir. Dasturlashda kiritma kalit-taxtadan kiritilgan matn, sichqoncha harakati yoki boshqa bir topshiriq natijasi bo‘lishi mumkin. Markaziy Ijro Bo‘linmasi ushbu ma’lumotlarni qabul qilib, ularni muvaffaqiyatli qayta ishlashi uchun kiritma avval xirmonda saqlanishi yoki ma’lum bir jinsga (turga) muvofiq bo‘lishi talab etiladi. To‘g‘ri tashkil etilgan kiritma tizimi foydalanuvchi va dastur o‘rtasidagi muloqotning asosi hisoblanadi.
+**Kiritma** — bu taşqi dunyodan yoki foydalanuvçidan bilimsanar içiga qayta işlaş uçun uzatiladigan har qanday malumotdir. Dasturlaşda kiritma kalit-tahtadan kiritilgan matn, siçqonça harakati yoki boşqa bir topşiriq natijasi bölişi mumkin. Markaziy Ijro Bölinmasi uşbu malumotlarni qabul qilib, ularni muvaffaqiyatli qayta işlaşi uçun kiritma avval hirmonda saqlanişi yoki malum bir jinsga (turga) muvofiq bölişi talab etiladi. Töğri taşkil etilgan kiritma tizimi foydalanuvçi va dastur örtasidagi muloqotning asosi hisoblanadi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - kiritim
 - kirindi
 - kirim
-- kirmish
-- kiritilmish
+- kirmiş
+- kiritilmiş

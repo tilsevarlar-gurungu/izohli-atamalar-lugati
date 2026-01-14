@@ -1,14 +1,14 @@
-# Chiqarma
+# Çiqarma
 
-**Inglizcha:** Output<br>
-**Ruscha:** Вывод<br>
+**Inglizça:** Output<br>
+**Rusça:** Вывод<br>
 **Soha:** Dasturlov
 
-**Chiqarma** — bu bilimsanar tomonidan qayta ishlangan ma’lumotlarning foydalanuvchiga yoki boshqa tizimlarga taqdim etilish jarayonidir. Markaziy Ijro Bo‘linmasi olingan kiritmani o‘zining bitiklari asosida tahlil qilib bo‘lgach, natijani tushunarli ko‘rinishga keltiradi. Bu natija ekrandagi tasvir, karnaydagi tovush yoki printerdan chiqayotgan hujjat bo‘lishi mumkin. Dastur nuqtai nazaridan, chiqarma — bu hisoblangan zahiralarning tashqi muhitga uzatilishidir. To‘g‘ri sozlangan chiqarma tizimi foydalanuvchiga dasturning ish natijasini aniq va ravshan ko‘rsatib beradi.
+**Çiqarma** — bu bilimsanar tomonidan qayta işlangan malumotlarning foydalanuvçiga yoki boşqa tizimlarga taqdim etiliş jarayonidir. Markaziy Ijro Bölinmasi olingan kiritmani özining bitiklari asosida tahlil qilib bölgaç, natijani tuşunarli körinişga keltiradi. Bu natija ekrandagi tasvir, karnaydagi tovuş yoki printerdan çiqayotgan hujjat bölişi mumkin. Dastur nuqtai nazaridan, çiqarma — bu hisoblangan zahiralarning taşqi muhitga uzatilişidir. Töğri sozlangan çiqarma tizimi foydalanuvçiga dasturning iş natijasini aniq va ravşan körsatib beradi.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- chiqarim
-- chiqartma
-- chiqmish
-- chiqim
+- çiqarim
+- çiqartma
+- çiqmiş
+- çiqim

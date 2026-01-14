@@ -1,16 +1,16 @@
-# Koʻp-qoʻllilik
+# Köp-qöllilik
 
-**Inglizcha:** Multitasking<br>
-**Ruscha:** Многозадачность<br>
+**Inglizça:** Multitasking<br>
+**Rusça:** Многозадачность<br>
 **Soha:** Dasturlov
 
-**Koʻp-qoʻllilik** insonning yoki tizimning bir vaqtning oʻzida bir nechta vazifa yoki harakatni samarali boshqara olish qobiliyatidir. Kundalik hayotda, bu atama telefon orqali gaplashayotganda elektron pochtaga javob yozish kabi turli xil faoliyatlarni birga olib borishni anglatadi. Bilimsanar fanida esa, koʻp-qoʻllilik MIB (Markaziy Ijro Boʻlinmasi / CPU) tomonidan bir vaqtning oʻzida bir nechta dastur yoki jarayonlarga ishlov berish imkoniyatini beruvchi boshqaruv tizimi xususiyati sifatida baholanadi. Boshqaruv tizim har bir jarayonga MIB vaqtini qisqa vaqt boʻlaklariga boʻlib beradi, shu tufayli barcha dasturlar bir vaqtda ishlayotgandek tuyuladi.
+**Köp-qöllilik** insonning yoki tizimning bir vaqtning özida bir neçta vazifa yoki harakatni samarali boşqara oliş qobiliyatidir. Kundalik hayotda, bu atama telefon orqali gaplaşayotganda elektron poçtaga javob yoziş kabi turli hil faoliyatlarni birga olib borişni anglatadi. Bilimsanar fanida esa, köp-qöllilik MIB (Markaziy Ijro Bölinmasi / CPU) tomonidan bir vaqtning özida bir neçta dastur yoki jarayonlarga işlov beriş imkoniyatini beruvçi boşqaruv tizimi hususiyati sifatida baholanadi. Boşqaruv tizim har bir jarayonga MIB vaqtini qisqa vaqt bölaklariga bölib beradi, şu tufayli barça dasturlar bir vaqtda işlayotgandek tuyuladi.
 
 ## Aloqali atamalar
 
-- Markaziy Ijro Boʻlinmasi (MIB) (CPU)
+- Markaziy Ijro Bölinmasi (MIB) (CPU)
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
-- koʻp-vazifalilik
-- koʻp-jarayonlilik
+- köp-vazifalilik
+- köp-jarayonlilik

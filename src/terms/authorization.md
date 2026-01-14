@@ -1,12 +1,12 @@
 # Vakolat beruv
 
-**Inglizcha:** Authorization<br>
-**Ruscha:** Авторизация<br>
+**Inglizça:** Authorization<br>
+**Rusça:** Авторизация<br>
 **Soha:** Dasturlov
 
-**Vakolat beruv** jarayoni foydalanuvchining kimligini tasdiqlov bosqichidan o‘tganidan keyin boshlanadi. Agar birinchi bosqichda tizim foydalanuvchini tanigan bo‘lsa, vakolat beruv bosqichida unga qaysi xazina yoki ma’lumotlardan foydalanishga ruxsat borligi aniqlanadi. Masalan, oddiy foydalanuvchi faqat o‘z ma’lumotlarini ko‘ra olsa, tizim boshqaruvchisi barcha bitiklarni o‘zgartirish huquqiga ega bo‘ladi. Bu mexanizm mahramlilikni ta’minlash va bilimsanar ichidagi zahiralarni tartibga solish uchun o‘ta muhimdir.
+**Vakolat beruv** jarayoni foydalanuvçining kimligini tasdiqlov bosqiçidan ötganidan keyin boşlanadi. Agar birinçi bosqiçda tizim foydalanuvçini tanigan bölsa, vakolat beruv bosqiçida unga qaysi hazina yoki malumotlardan foydalanişga ruhsat borligi aniqlanadi. Masalan, oddiy foydalanuvçi faqat öz malumotlarini köra olsa, tizim boşqaruvçisi barça bitiklarni özgartiriş huquqiga ega böladi. Bu mehanizm mahramlilikni taminlaş va bilimsanar içidagi zahiralarni tartibga soliş uçun öta muhimdir.
 
-## E’tiborga olingan muqobillar
+## Etiborga olingan muqobillar
 
 - avtorizatsiya
 - vakillik
