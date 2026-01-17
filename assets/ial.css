@@ -1,28 +1,76 @@
-@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400;0,700;1,400&display=swap');
-
-/* Create a 'faked' Garamond out of Georgia */
-@font-face {
-    font-family: "FallbackGaramond";
-    src: local("Georgia"), local("serif");
-    size-adjust: 91%;
-    /* Shrinks Georgia to match Garamond's small scale */
-    ascent-override: 90%;
+:root,
+.light {
+    --bg-color: #ffffff;
+    --link-color: #4183c4;
+    --tooltip-bg: #1a1a1a;
+    --tooltip-text: #fdfdfd;
+    --abbr-underline: rgba(65, 131, 196, 0.25);
 }
 
-html {
-    font-size: 100% !important;
-    font-display: optional;
+.rust {
+    --bg-color: #f0e7d5;
+    --link-color: #2b6ab0;
+    --tooltip-bg: #392d2d;
+    --tooltip-text: #f0e7d5;
+    /* Subtler brown-blue underline */
+    --abbr-underline: rgba(43, 106, 176, 0.2);
+}
+
+.coal {
+    --bg-color: #1a1a1a;
+    --link-color: #7092be;
+    --tooltip-bg: #f4f1ea;
+    --tooltip-text: #1a1a1a;
+    --abbr-underline: rgba(245, 245, 245, 0.15);
+}
+
+.navy {
+    --bg-color: #0d1b2a;
+    --link-color: #8da9c4;
+    --tooltip-bg: #e2e8f0;
+    --tooltip-text: #0d1b2a;
+    --abbr-underline: rgba(156, 198, 255, 0.15);
+}
+
+.ayu {
+    --bg-color: #0f1419;
+    --link-color: #73b8d9;
+    --tooltip-bg: #f0eee4;
+    --tooltip-text: #0f1419;
+    --abbr-underline: rgba(115, 208, 255, 0.15);
+}
+
+html,
+body {
+    max-width: 100%;
+    overflow-x: hidden;
+    position: relative;
 }
 
 body {
-    /* Use the FallbackGaramond first after the real one */
-    font-family: "EB Garamond", "FallbackGaramond", Georgia, serif;
+    background-color: var(--bg-color);
+    font-family: "Arial", "Verdana", sans-serif;
     font-size: 1.25rem;
-    transition: opacity 0.5s ease-in;
+    transition: background-color 0.3s ease, color 0.3s ease;
+}
+
+a {
+    color: var(--link-color);
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+
+a:hover {
+    filter: brightness(80%);
+}
+
+
+html {
+    font-size: 100% !important;
 }
 
 .content p {
-    line-height: 1.5;
+    line-height: 1.6;
 }
 
 /*** affix (for hiding terms/ links) styles *********************/
@@ -45,8 +93,8 @@ li.affix a[href*="terms/"] {
 abbr[data-en-ru] {
     position: relative;
     text-decoration: none;
-    border-bottom: 1.5px solid #e0f2f7;
     cursor: help;
+    border-bottom: 1.5px solid var(--abbr-underline);
 }
 
 .tooltip-box {
@@ -55,7 +103,8 @@ abbr[data-en-ru] {
 
     /* 1. RESET POSITIONING */
     /* We start at 0 and let JS calculate the exact 'left' pixel value. */
-    left: 0;
+    left: auto;
+    right: 0;
     margin-left: 0;
 
     /* 2. ANIMATION ONLY HANDLES VERTICAL MOVEMENT */
@@ -65,14 +114,14 @@ abbr[data-en-ru] {
     /* 3. SIZE SAFETY */
     /* This prevents "clipping from both sides" on small screens */
     width: max-content;
-    max-width: min(300px, 90vw);
+    max-width: min(250px);
     white-space: normal;
     /* Allow text to wrap if it hits the max-width */
     text-align: center;
 
     /* Aesthetics */
-    background-color: #1a1a1a;
-    color: #fdfdfd;
+    background-color: var(--tooltip-bg);
+    color: var(--tooltip-text);
     padding: 8px 14px;
     border-radius: 4px;
     font-size: 0.9rem;
@@ -90,6 +139,13 @@ abbr[data-en-ru] {
 
     z-index: 1000;
     pointer-events: none;
+
+    @media (max-width: 600px) {
+        max-width: 80vw;
+        /* Ensure it never exceeds screen width */
+        white-space: normal;
+        /* Force text wrapping */
+    }
 }
 
 /* FINAL STATE */
