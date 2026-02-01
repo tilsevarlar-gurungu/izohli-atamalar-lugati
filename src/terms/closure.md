@@ -4,7 +4,7 @@
 **Rusça:** Замыкание<br>
 **Soha:** Dasturlov
 
-**Qoplovçi** – bu öziga hos topşiriq bölib, u aniqlangan paytda atrofidagi muhitni "qoplab oladi" yoki eslab qoladi, hatto bu muhit mavjud bölişni töhtatgandan keyin ham. Bu şuni anglatadiki, topşiriq özining atrofidagi qamrovdan olingan yerlimas yorliqlarga u taşqarida bajarilayotgan bölsa ham, kiriş va ularni özgartiriş imkoniyatiga ega böladi. Bu kuçli hususiyat qadamlov (currying), keçiktirilgan ijro kabi topşiriqli dasturlov usullarini amalga oşirişga va malumotlar mahfiyligi qoliplarini yaratişga yordam beradi.
+**Qoplovçi** – bu öziga hos topşiriq bölib, u aniqlangan paytda atrofidagi muhitni "qoplab oladi" yoki eslab qoladi, hatto bu muhit mavjud bölişni töhtatgandan keyin ham. Bu şuni anglatadiki, topşiriq özining atrofidagi qamrovdan olingan yerlimas yorliqlarga u taşqarida bajarilayotgan bölsa ham, kiriş va ularni özgartiriş imkoniyatiga ega böladi. Bu kuçli hususiyat qadamlov (currying), keçiktirilgan ijro kabi topşiriq-asosli dasturlov usullarini amalga oşirişga va malumotlar mahfiyligi qoliplarini yaratişga yordam beradi.
 
 ### Qoplovçi va nomsiz topşiriq örtasidagi farq
 
