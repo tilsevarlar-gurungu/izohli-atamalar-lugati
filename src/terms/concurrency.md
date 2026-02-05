@@ -2,6 +2,7 @@
 
 **Inglizça:** Concurrency<br>
 **Rusça:** Конкурентность<br>
+**Sifat şakli:** Ondoş<br>
 **Soha:** Dasturlov
 
 **Ondoşlik** — bu tizimning bir vaqtning özida bir neçta topşiriqlar bilan işlaş (ulaşiş) qobiliyatidir. Ondoşlikda topşiriqlar bir paytda boşlanişi va yakunlanişi mumkin, biroq ular aynan bir millisoniyada bajarilişi şart emas. Buning örniga, boşqaruv tizimi yoki mağiz turli bitiklarni navbatma-navbat, lekin juda tez almaşlab bajaradi. Bu esa foydalanuvçiga barça işlar bir vaqtda sodir bölayotgandek tasavvur uyğotadi. Masalan, matn tahrirlovçi dasturda siz kalittahta orqali yozayotganingizda, tizim ondoş tarzda imloni tekşirişi va faylni zahira sifatida saqlab borişi mumkin.

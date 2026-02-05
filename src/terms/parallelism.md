@@ -2,6 +2,7 @@
 
 **Inglizça:** Parallel<br>
 **Rusça:** Параллельный<br>
+**Sifat şakli:** Yondoş<br>
 **Soha:** Qurilma
 
 **Yondoşlik** — bu bilimsanar içida bir neçta topşiriqlarning aynan bir vaqtning özida, turli özaklar yordamida amalga oşirilişidir. Bu usul tizimning unumdorligini sezilarli darajada oşiradi, çunki Markaziy Ijro Bölinmasi barça vazifalarni navbatma-navbat emas, balki yonma-yon tartibda qayta işlaydi. Masalan, katta hajmdagi malumotlarni saralaşda, har bir bölinim öz qismini alohida özakda bajarsa, umumiy vaqt tejaladi. Bu jarayon dastur içidagi zahiralardan eng samarali darajada foydalaniş imkonini beradi.
