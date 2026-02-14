@@ -1,5 +1,3 @@
-# justfile
-
 # Path to the Rust workspace directory
 rust_dir := "mdbook-tiqmalarim"
 # Path where Cargo outputs the compiled binaries
@@ -30,14 +28,27 @@ fmt:
 # ==========================================
 
 # Build the book (Automatically builds Rust plugins first)
-# We prepend the bin_dir to PATH so mdbook can find your custom preprocessors
 build: build-rust
     export PATH="$PWD/{{bin_dir}}:$PATH" && mdbook build
 
 # Serve on 0.0.0.0 to access from your phone/network
 serve: build-rust
-    @echo "IAL quyidagi manzilda: http://0.0.0.0:3000"
-    export PATH="$PWD/{{bin_dir}}:$PATH" && mdbook serve -n 0.0.0.0
+    @echo "IAL quyidagi manzilda: http://0.0.0.0:3333"
+    export PATH="$PWD/{{bin_dir}}:$PATH" && mdbook serve -n 0.0.0.0 -p 3333
+
+# ==========================================
+# ✍️ Terminology & Content
+# ==========================================
+
+# Yangi atama faylini yaratish (Masalan: just add-term clickbait)
+add-term name:
+    @mkdir -p src/terms
+    @printf "# \n\n**Inglizça:** <br>\n**Rusça:** <br>\n**Ota-atama:** <br>\n**Qisqartma:** <br>\n**Sifat şakli:** <br>\n**Aloqali:** <br>\n**Soha:** <br>\n\n\n## Etiborga olingan muqobillar\n\n- " > src/terms/{{name}}.md
+    @echo "Fayl yaratildi: src/terms/{{name}}.md"
+
+# Latinga orqali imloni to'g'rilash (Masalan: just latinga src/terms/clickbait.md)
+latinga path:
+    latinga -n zahira/ial-qalqonlar.txt -u {{path}}
 
 # ==========================================
 # 🧹 Maintenance
