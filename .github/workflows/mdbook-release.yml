@@ -1,9 +1,12 @@
-name: Lug'atni GitHub Pages'da Ishga Solish
+name: Luğatni GitHub Pages'da Işga Soliş
 
 on:
   workflow_dispatch:
   release:
     types: [published]
+
+env:
+  FORCE_JAVASCRIPT_ACTIONS_TO_NODE24: true
 
 permissions:
   contents: write
@@ -15,16 +18,16 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Dafinaga o'tish
+      - name: Dafinaga ötiş
         uses: actions/checkout@v4
         with:
           fetch-depth: 0
 
-      - name: Rust Toolchain' o'rnatish
+      - name: Rust Toolchain'ni örnatiş
         uses: dtolnay/rust-toolchain@stable
 
       - name: Cache Cargo Qaramliklari
-        uses: actions/cache@v3
+        uses: actions/cache@v4 # BUMPED: Updated from v3 to v4
         with:
           path: |
             ~/.cargo/registry
@@ -32,23 +35,23 @@ jobs:
             mdbook-tiqmalarim/target
           key: ${{ runner.os }}-cargo-${{ hashFiles('mdbook-tiqmalarim/Cargo.lock') }}
 
-      - name: mdBook'ni o'rnatish
+      - name: mdBook'ni örnatiş
         run: |
           # Use --version 0.4.52 to prevent it from auto-updating to 0.5.x
           cargo install mdbook --version 0.4.52 --no-default-features --features search --locked
 
-      - name: Xos oldishlovchilarni o'rnatish
-        # Bu mdbook-tiqmalarim ichidagi barcha oldishlovchilarni o'rnatadi
+      - name: Hos oldişlovçilarni örnatiş
+        # Bu mdbook-tiqmalarim içidagi barça oldişlovçilarni örnatadi
         run: cargo build --release --manifest-path mdbook-tiqmalarim/Cargo.toml
 
-      - name: mdBook'ni qurish
+      - name: mdBook'ni quriş
         run: mdbook build
 
-      - name: Hosila Sahifalarni yuklash
+      - name: Hosila Sahifalarni yuklaş
         uses: actions/upload-pages-artifact@v3
         with:
           path: book
 
-      - name: GitHub Pages'da ishga solish
+      - name: GitHub Pages'da işga soliş
         id: deployment
         uses: actions/deploy-pages@v4
