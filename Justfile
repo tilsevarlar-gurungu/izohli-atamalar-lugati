@@ -61,3 +61,35 @@ clean:
 
 # Run all tests (Rust tests + try to build the book to ensure integration works)
 test-all: test-rust build
+
+# ==========================================
+# 📝 Eslatma
+# ==========================================
+
+eslatma:
+    @echo 'just add-term open-source'
+    @echo 'just latinga src/terms/open-source.md'
+    @echo 'just urls'
+
+# ==========================================
+# 📝 Boğlamalar
+# ==========================================
+
+# Generates URLs for newly added markdown files
+urls:
+    #!/usr/bin/env bash
+    BASE_URL="https://tilsevarlar-gurungu.github.io/izohli-atamalar-lugati/terms"
+
+    # Fetch untracked files AND newly staged files, then filter for .md files
+    NEW_FILES=$( { git ls-files --others --exclude-standard; git diff --cached --name-only --diff-filter=A; } | grep '\.md$' )
+
+    if [ -z "$NEW_FILES" ]; then
+        echo "No new markdown files found."
+        exit 0
+    fi
+
+    # Loop through the files, extract the name, and print the formatted URL
+    echo "$NEW_FILES" | while read -r file; do
+        filename=$(basename "$file" .md)
+        echo "$BASE_URL/${filename}.html"
+    done
