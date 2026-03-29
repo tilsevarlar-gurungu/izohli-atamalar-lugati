@@ -1,7 +1,7 @@
 # Öz-bajaruv
 
 **Inglizça:** Automation<br>
-**Rusça:** Ручной режим<br>
+**Rusça:** Автоматизация<br>
 **Sifat şakli:** öz-bajaruvli<br>
 **Soha:** Umumiy
 
